@@ -1,0 +1,350 @@
+{
+  "style": {
+    "font-family": "sans-serif",
+    "background-color": "#FAFCFF",
+    "background-image": "",
+    "background-size": "100%",
+    "node-color": "#4C8EDA",
+    "border-width": 2,
+    "border-color": "#2870c2",
+    "radius": 25,
+    "node-padding": 5,
+    "node-margin": 2,
+    "outside-position": "auto",
+    "node-icon-image": "",
+    "node-background-image": "",
+    "icon-position": "inside",
+    "icon-size": 64,
+    "caption-position": "inside",
+    "caption-max-width": 200,
+    "caption-color": "#ffffff",
+    "caption-font-size": 10,
+    "caption-font-weight": "normal",
+    "label-position": "outside",
+    "label-display": "bare",
+    "label-color": "#ffffff",
+    "label-background-color": "#4C8EDA",
+    "label-border-color": "#4C8EDA",
+    "label-border-width": 0,
+    "label-font-size": 10,
+    "label-padding": 2,
+    "label-margin": 2,
+    "directionality": "directed",
+    "detail-position": "inline",
+    "detail-orientation": "parallel",
+    "arrow-width": 1,
+    "arrow-color": "#A5ABB6",
+    "margin-start": 0,
+    "margin-end": 0,
+    "margin-peer": 20,
+    "attachment-start": "normal",
+    "attachment-end": "normal",
+    "relationship-icon-image": "",
+    "type-color": "#000000",
+    "type-background-color": "#ffffff",
+    "type-border-color": "#000000",
+    "type-border-width": 0,
+    "type-font-size": 10,
+    "type-padding": 2,
+    "property-position": "outside",
+    "property-alignment": "colon",
+    "property-color": "#000000",
+    "property-font-size": 10,
+    "property-font-weight": "normal"
+  },
+  "nodes": [
+    {
+      "id": "n0",
+      "position": {
+        "x": -135.18658402915946,
+        "y": 124.99999999999994
+      },
+      "caption": "Author",
+      "labels": [
+        "Author"
+      ],
+      "properties": {
+        "AuthorID": "STRING",
+        "Name": "STRING",
+        "Affiliation": "STRING",
+        "Email": "STRING"
+      },
+      "style": {
+        "node-color": "#87CEEB"
+      }
+    },
+    {
+      "id": "n1",
+      "position": {
+        "x": 111.71237640844238,
+        "y": 124.99999999999997
+      },
+      "caption": "Paper",
+      "labels": [
+        "Paper"
+      ],
+      "properties": {
+        "PaperID": "STRING",
+        "Title": "STRING",
+        "Year": "INTEGER",
+        "Pages": "INTEGER",
+        "DOI": "STRING",
+        "Abstract": "STRING"
+      },
+      "style": {
+        "node-color": "#90EE90"
+      }
+    },
+    {
+      "id": "n2",
+      "position": {
+        "x": 637.5,
+        "y": -80.12477185687402
+      },
+      "caption": "ConferenceEdition",
+      "labels": [
+        "ConferenceEdition"
+      ],
+      "properties": {
+        "EditionID": "STRING",
+        "Year": "INTEGER",
+        "Venue": "STRING"
+      },
+      "style": {
+        "node-color": "#FFA07A"
+      }
+    },
+    {
+      "id": "n3",
+      "position": {
+        "x": 556.9810465285108,
+        "y": 327.92279282428717
+      },
+      "caption": "Volume",
+      "labels": [
+        "JournalVolume"
+      ],
+      "properties": {
+        "VolumeID": "STRING",
+        "Year": "INTEGER",
+        "VolumeNumber": "INTEGER",
+        "IssueNumber": "INTEGER"
+      },
+      "style": {
+        "node-color": "#FF6347"
+      }
+    },
+    {
+      "id": "n4",
+      "position": {
+        "x": 298.55698826604805,
+        "y": 416.64377326600555
+      },
+      "caption": "Topic",
+      "labels": [
+        "Topic"
+      ],
+      "properties": {
+        "KeywordID": "STRING",
+        "Keyword": "STRING"
+      },
+      "style": {
+        "node-color": "#FFD700"
+      }
+    },
+    {
+      "id": "n7",
+      "position": {
+        "x": 637.5,
+        "y": -285.24954371374804
+      },
+      "caption": "Conference",
+      "labels": [
+        "Conference"
+      ],
+      "properties": {
+        "ConferenceID": "STRING",
+        "Name": "STRING"
+      },
+      "style": {
+        "node-color": "#8A2BE2"
+      }
+    },
+    {
+      "id": "n8",
+      "position": {
+        "x": 1070.377480887237,
+        "y": 124.99999999999997
+      },
+      "caption": "Workshop",
+      "labels": [
+        "Workshop"
+      ],
+      "properties": {
+        "WorkshopID": "STRING",
+        "Name": "STRING"
+      },
+      "style": {
+        "node-color": "#5F9EA0"
+      }
+    },
+    {
+      "id": "n9",
+      "position": {
+        "x": 769.4141804596991,
+        "y": 453.48206279500835
+      },
+      "caption": "Journal",
+      "labels": [
+        "Journal"
+      ],
+      "properties": {
+        "JournalID": "STRING",
+        "Name": "STRING",
+        "ISBN": "STRING"
+      },
+      "style": {
+        "node-color": "#FF4500"
+      }
+    },
+    {
+      "id": "n10",
+      "position": {
+        "x": 637.5,
+        "y": 125
+      },
+      "caption": "Proceedings",
+      "labels": [
+        "Proceedings"
+      ],
+      "properties": {
+        "ProceedingsID": "STRING",
+        "Title": "STRING",
+        "Publisher": "STRING"
+      },
+      "style": {
+        "node-color": "#32CD32"
+      }
+    },
+    {
+      "id": "n11",
+      "position": {
+        "x": 875.6846990104981,
+        "y": 125
+      },
+      "caption": "WorkshopEdition",
+      "labels": [
+        "WorkshopEdition"
+      ],
+      "properties": {
+        "EditionID": "STRING",
+        "Year": "INTEGER",
+        "Venue": "STRING"
+      },
+      "style": {}
+    }
+  ],
+  "relationships": [
+    {
+      "id": "n0",
+      "fromId": "n0",
+      "toId": "n1",
+      "type": "AUTHOR_OF",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n1",
+      "fromId": "n0",
+      "toId": "n1",
+      "type": "CORRESPONDING_AUTHOR",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n2",
+      "fromId": "n1",
+      "toId": "n10",
+      "type": "PUBLISHED_IN_PROCEEDINGS",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n3",
+      "fromId": "n10",
+      "toId": "n2",
+      "type": "FROM_CONFERENCE_EDITION",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n4",
+      "fromId": "n2",
+      "toId": "n7",
+      "type": "BELONGS_TO_CONFERENCE",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n7",
+      "fromId": "n1",
+      "toId": "n3",
+      "type": "PUBLISHED_IN_VOLUME",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n8",
+      "fromId": "n3",
+      "toId": "n9",
+      "type": "BELONGS_TO_JOURNAL",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n9",
+      "fromId": "n1",
+      "toId": "n4",
+      "type": "ABOUT",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n13",
+      "fromId": "n10",
+      "toId": "n11",
+      "type": "FROM_WORKSHOP_EDITION",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n14",
+      "fromId": "n11",
+      "toId": "n8",
+      "type": "BELONGS_TO_WORKSHOP",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n16",
+      "fromId": "n0",
+      "toId": "n1",
+      "type": "REVIEWS",
+      "properties": {
+        "Score": "FLOAT",
+        "Comment": "STRING"
+      },
+      "style": {
+        "margin-peer": 30
+      }
+    },
+    {
+      "id": "n17",
+      "type": "RELATED",
+      "style": {},
+      "properties": {},
+      "fromId": "n1",
+      "toId": "n1"
+    }
+  ]
+}
