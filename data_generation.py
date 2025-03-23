@@ -4,13 +4,14 @@ import requests
 import time
 import csv
 
+os.makedirs('data', exist_ok=True)
+OUTPUT_CSV_PATH = os.path.join('data', 'papers.csv')
+
 # Obtains a paper given an id number and writes it into a csv file.
 def main():
-    # id = "5c5751d45e298cea054f32b392c12c61027d2fe7"
     id = "913f54b44dfb9202955fe296cf5586e1105565ea"
     paper = get_paper(id)
 
-    # Assign a type to the paper obtained
     types = paper.get("publicationTypes", [])
     if "Conference" in types:
         paper_type = "Conference"
@@ -19,8 +20,7 @@ def main():
     else:
         paper_type = "Other"
 
-    #Write into CSV file
-    with open('papers.csv', 'w') as csvfile:
+    with open(OUTPUT_CSV_PATH, 'w') as csvfile:
         fieldnames = ['PaperId', 'Title', 'Year', 'AuthorId', 'Author', "Main_Author", 'Venue', 'Type', 'FieldOfStudy', 'PublicationType', 'Volume', 'ReferenceId', 'Reference Name', 'Abstract']
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writeheader()
@@ -28,7 +28,7 @@ def main():
         n = 0
         for author in paper['authors']:
             for reference in paper["references"]:
-                journal = paper.get('journal', [])
+                journal = paper.get('journal', {})
                 volume = journal.get('volume', [])
                 writer.writerow({
                     'PaperId': paper["paperId"],
@@ -40,20 +40,17 @@ def main():
                     'Venue': paper["venue"],
                     'Type': paper_type,
                     'FieldOfStudy': paper["fieldsOfStudy"],
-                    'PublicationType': paper["publicationTypes"][0],
+                    'PublicationType': paper.get("publicationTypes", ['<unknown>'])[0],
                     'Volume': volume if volume else '<no_volume_data>',
                     'ReferenceId': reference["paperId"],
                     'Reference Name': reference["title"],
                     'Abstract': paper['abstract'],
                 })
-            n+= 1
-    csvfile.close()
+            n += 1
 
-    # Find related papers and get their info
     references = paper.get('references', [])
-
     references = get_references(references)
-    m=0
+    m = 0
     while m < 10:
         print(f"Run number: {m}")
         for reference in references:
@@ -62,9 +59,8 @@ def main():
                 references = get_references(reference)
             except:
                 pass
-        m+=1
+        m += 1
 
-# Requests information about a paper given an ID. Returns a JSON file with paper info
 def get_paper(paper_id):
     x = 1
     while x == 1:
@@ -75,7 +71,6 @@ def get_paper(paper_id):
             x = 2
         except:
             time.sleep(1)
-
     return rsp.json()
 
 def get_references(references):
@@ -88,22 +83,17 @@ def get_references(references):
 
             types = paper.get("publicationTypes", [])
 
-            # Obtain the references of the paper for future processing
             references = paper.get('references', [])
             refs.append(references)
 
-            try:
-                if "Conference" in types:
-                    paper_type = "Conference"
-                elif "JournalArticle" in types:
-                    paper_type = "Journal"
-                else:
-                    paper_type = "Other"
-            except:
+            if "Conference" in types:
+                paper_type = "Conference"
+            elif "JournalArticle" in types:
+                paper_type = "Journal"
+            else:
                 paper_type = "Other"
 
-            # Write into CSV file
-            with open('papers.csv', 'a') as csvfile:
+            with open(OUTPUT_CSV_PATH, 'a', newline='', encoding='utf-8') as csvfile:
                 fieldnames = ['PaperId', 'Title', 'Year', 'AuthorId', 'Author', "Main_Author", 'Venue', 'Type',
                               'FieldOfStudy', 'PublicationType', 'Volume', 'ReferenceId', 'Reference Name',
                               'Abstract']
@@ -112,7 +102,7 @@ def get_references(references):
                 n = 0
                 for author in paper['authors']:
                     for reference in paper["references"]:
-                        journal = paper.get('journal', [])
+                        journal = paper.get('journal', {})
                         volume = journal.get('volume', [])
                         writer.writerow({
                             'PaperId': paper["paperId"],
@@ -124,19 +114,16 @@ def get_references(references):
                             'Venue': paper["venue"],
                             'Type': paper_type,
                             'FieldOfStudy': paper["fieldsOfStudy"],
-                            'PublicationType': paper["publicationTypes"][0],
+                            'PublicationType': paper.get("publicationTypes", ['<unknown>'])[0],
                             'Volume': volume if volume else '<no_volume_data>',
                             'ReferenceId': reference["paperId"],
                             'Reference Name': reference["title"],
                             'Abstract': paper['abstract'],
                         })
                     n += 1
-                last_paper = paper
-            csvfile.close()
         else:
             print("No reference")
 
-    # Return the references of the last paper obtained
     return refs
 
 if __name__ == '__main__':

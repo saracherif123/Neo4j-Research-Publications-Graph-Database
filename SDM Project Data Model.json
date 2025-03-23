@@ -56,8 +56,8 @@
     {
       "id": "n0",
       "position": {
-        "x": -135.18658402915946,
-        "y": 124.99999999999994
+        "x": -210.73608113946534,
+        "y": 125.00000000000001
       },
       "caption": "Author",
       "labels": [
@@ -66,8 +66,7 @@
       "properties": {
         "AuthorID": "STRING",
         "Name": "STRING",
-        "Affiliation": "STRING",
-        "Email": "STRING"
+        "Affiliation": "STRING"
       },
       "style": {
         "node-color": "#87CEEB"
@@ -76,7 +75,7 @@
     {
       "id": "n1",
       "position": {
-        "x": 111.71237640844238,
+        "x": 89.53587297966645,
         "y": 124.99999999999997
       },
       "caption": "Paper",
@@ -87,62 +86,24 @@
         "PaperID": "STRING",
         "Title": "STRING",
         "Year": "INTEGER",
-        "Pages": "INTEGER",
         "DOI": "STRING",
-        "Abstract": "STRING"
+        "Abstract": "STRING",
+        "ProceedingsTitle": "STRING",
+        "": ""
       },
       "style": {
         "node-color": "#90EE90"
       }
     },
     {
-      "id": "n2",
-      "position": {
-        "x": 637.5,
-        "y": -80.12477185687402
-      },
-      "caption": "ConferenceEdition",
-      "labels": [
-        "ConferenceEdition"
-      ],
-      "properties": {
-        "EditionID": "STRING",
-        "Year": "INTEGER",
-        "Venue": "STRING"
-      },
-      "style": {
-        "node-color": "#FFA07A"
-      }
-    },
-    {
-      "id": "n3",
-      "position": {
-        "x": 556.9810465285108,
-        "y": 327.92279282428717
-      },
-      "caption": "Volume",
-      "labels": [
-        "JournalVolume"
-      ],
-      "properties": {
-        "VolumeID": "STRING",
-        "Year": "INTEGER",
-        "VolumeNumber": "INTEGER",
-        "IssueNumber": "INTEGER"
-      },
-      "style": {
-        "node-color": "#FF6347"
-      }
-    },
-    {
       "id": "n4",
       "position": {
-        "x": 298.55698826604805,
-        "y": 416.64377326600555
+        "x": 162.813484460959,
+        "y": 348.1605641391138
       },
-      "caption": "Topic",
+      "caption": "Keywords",
       "labels": [
-        "Topic"
+        "Keywords"
       ],
       "properties": {
         "KeywordID": "STRING",
@@ -155,8 +116,8 @@
     {
       "id": "n7",
       "position": {
-        "x": 637.5,
-        "y": -285.24954371374804
+        "x": 329.4259861652001,
+        "y": -66.48734273134814
       },
       "caption": "Conference",
       "labels": [
@@ -164,7 +125,10 @@
       ],
       "properties": {
         "ConferenceID": "STRING",
-        "Name": "STRING"
+        "Name": "STRING",
+        "Year": "INTEGER",
+        "Venue": "STRING",
+        "ProceedingsTitle": "STRING"
       },
       "style": {
         "node-color": "#8A2BE2"
@@ -173,8 +137,8 @@
     {
       "id": "n8",
       "position": {
-        "x": 1070.377480887237,
-        "y": 124.99999999999997
+        "x": 329.4259861652001,
+        "y": 124.99999999999994
       },
       "caption": "Workshop",
       "labels": [
@@ -182,7 +146,10 @@
       ],
       "properties": {
         "WorkshopID": "STRING",
-        "Name": "STRING"
+        "Name": "STRING",
+        "Year": "INTEGER",
+        "Venue": "STRING",
+        "Proceedings": "STRING"
       },
       "style": {
         "node-color": "#5F9EA0"
@@ -191,8 +158,8 @@
     {
       "id": "n9",
       "position": {
-        "x": 769.4141804596991,
-        "y": 453.48206279500835
+        "x": 349.8104327919833,
+        "y": 241.8227277542265
       },
       "caption": "Journal",
       "labels": [
@@ -201,47 +168,13 @@
       "properties": {
         "JournalID": "STRING",
         "Name": "STRING",
-        "ISBN": "STRING"
+        "ISBN": "STRING",
+        "Volume": "INTEGER",
+        "Year": "INTEGER"
       },
       "style": {
         "node-color": "#FF4500"
       }
-    },
-    {
-      "id": "n10",
-      "position": {
-        "x": 637.5,
-        "y": 125
-      },
-      "caption": "Proceedings",
-      "labels": [
-        "Proceedings"
-      ],
-      "properties": {
-        "ProceedingsID": "STRING",
-        "Title": "STRING",
-        "Publisher": "STRING"
-      },
-      "style": {
-        "node-color": "#32CD32"
-      }
-    },
-    {
-      "id": "n11",
-      "position": {
-        "x": 875.6846990104981,
-        "y": 125
-      },
-      "caption": "WorkshopEdition",
-      "labels": [
-        "WorkshopEdition"
-      ],
-      "properties": {
-        "EditionID": "STRING",
-        "Year": "INTEGER",
-        "Venue": "STRING"
-      },
-      "style": {}
     }
   ],
   "relationships": [
@@ -262,66 +195,10 @@
       "style": {}
     },
     {
-      "id": "n2",
-      "fromId": "n1",
-      "toId": "n10",
-      "type": "PUBLISHED_IN_PROCEEDINGS",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n3",
-      "fromId": "n10",
-      "toId": "n2",
-      "type": "FROM_CONFERENCE_EDITION",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n4",
-      "fromId": "n2",
-      "toId": "n7",
-      "type": "BELONGS_TO_CONFERENCE",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n7",
-      "fromId": "n1",
-      "toId": "n3",
-      "type": "PUBLISHED_IN_VOLUME",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n8",
-      "fromId": "n3",
-      "toId": "n9",
-      "type": "BELONGS_TO_JOURNAL",
-      "properties": {},
-      "style": {}
-    },
-    {
       "id": "n9",
       "fromId": "n1",
       "toId": "n4",
       "type": "ABOUT",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n13",
-      "fromId": "n10",
-      "toId": "n11",
-      "type": "FROM_WORKSHOP_EDITION",
-      "properties": {},
-      "style": {}
-    },
-    {
-      "id": "n14",
-      "fromId": "n11",
-      "toId": "n8",
-      "type": "BELONGS_TO_WORKSHOP",
       "properties": {},
       "style": {}
     },
@@ -340,11 +217,35 @@
     },
     {
       "id": "n17",
+      "fromId": "n1",
+      "toId": "n1",
       "type": "RELATED",
+      "properties": {},
+      "style": {}
+    },
+    {
+      "id": "n20",
+      "type": "PUBLISHED_IN_JOURNAL",
       "style": {},
       "properties": {},
       "fromId": "n1",
-      "toId": "n1"
+      "toId": "n9"
+    },
+    {
+      "id": "n21",
+      "type": "PUBLISHED_IN_CONFERENCE",
+      "style": {},
+      "properties": {},
+      "fromId": "n1",
+      "toId": "n7"
+    },
+    {
+      "id": "n22",
+      "type": "PUBLISHED_IN_WORKSHOP",
+      "style": {},
+      "properties": {},
+      "fromId": "n1",
+      "toId": "n8"
     }
   ]
 }
