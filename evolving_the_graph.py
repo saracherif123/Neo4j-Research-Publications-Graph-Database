@@ -28,6 +28,9 @@ def set_paper_final_decision(session):
             ELSE 'reject'
         END;
     """)
+    # This query sets the final decision for each paper based on the reviews.
+    # If more than half of the reviews suggest acceptance, the paper is accepted.
+    # Otherwise, it is rejected.
 
 def load_institution_nodes(session):
     session.run("""

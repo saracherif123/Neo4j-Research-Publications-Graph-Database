@@ -19,7 +19,7 @@ def query_top3_cited_papers_conference(session):
         WHERE venue:Conference
         WITH venue, p, COUNT(citing) AS citations
         ORDER BY venue.Venue, citations DESC
-        WITH venue, COLLECT(p)[..3] AS topPapers
+        WITH venue, COLLECT(p)[..3] AS topPapers 
         RETURN 
             venue.Venue AS venueName,
             topPapers[0].Title AS topCitedPaper1,
@@ -62,6 +62,9 @@ def query_impact_factor(session):
         """
     )
     return list(result), result.consume()
+# The Impact Factor of a journal measures how frequently articles published in that journal are cited in the subsequent two years.
+# It is calculated by dividing the number of citations in the current year to articles published in the previous two years by the number of articles published in those two years.
+# example: Papers published in "X" journal during 2019-2020 were cited, on average, 12.456 times in 2021-2022.
 
 # Query 4: H-Index per author
 def query_h_index(session):

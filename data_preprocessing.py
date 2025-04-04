@@ -44,7 +44,7 @@ authors_df = df[['AuthorId', 'Author']].drop_duplicates().rename(columns={
 affiliations = [
     "Massachusetts Institute of Technology", "Stanford University", "University of Oxford",
     "University of Cambridge", "Harvard University", "ETH Zurich",
-    "Carnegie Mellon University", "University of Tokyo", "Tsinghua University", "University of Toronto"
+    "Carnegie Mellon University", "University of Tokyo", "Tsinghua University", "University of Toronto","IBM","Amazon","Google","Microsoft"
 ]
 authors_df['Affiliation'] = [random.choice(affiliations) for _ in range(len(authors_df))]
 authors_df.to_csv(os.path.join(DATA_DIR, "nodes_authors.csv"), index=False)
