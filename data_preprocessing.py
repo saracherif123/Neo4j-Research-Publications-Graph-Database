@@ -11,20 +11,6 @@ df = pd.read_csv(os.path.join(DATA_DIR, "papers.csv"))
 df['Type'] = df['Type'].fillna('other').str.strip().str.lower()
 df.loc[df['Venue'].str.contains("Workshop", case=False, na=False), 'Type'] = 'workshop'
 
-# === Safe FieldOfStudy Parsing ===
-def safe_literal_eval(val):
-    if isinstance(val, str) and val.strip().startswith("[") and val.strip().endswith("]"):
-        try:
-            return ast.literal_eval(val)
-        except (ValueError, SyntaxError):
-            return []
-    elif isinstance(val, str) and val.strip() != "":
-        return [val.strip()]
-    else:
-        return []
-
-df['FieldOfStudy'] = df['FieldOfStudy'].apply(safe_literal_eval)
-
 # === Clean Volume Column ===
 df['Volume'] = df['Volume'].replace('<no_volume_data>', None)
 
@@ -50,6 +36,29 @@ authors_df['Affiliation'] = [random.choice(affiliations) for _ in range(len(auth
 authors_df.to_csv(os.path.join(DATA_DIR, "nodes_authors.csv"), index=False)
 
 # Keywords nodes
+# === Safe FieldOfStudy Parsing ===
+def safe_literal_eval(val):
+    if isinstance(val, str) and val.strip().startswith("[") and val.strip().endswith("]"):
+        try:
+            return ast.literal_eval(val)
+        except (ValueError, SyntaxError):
+            return []
+    elif isinstance(val, str) and val.strip() != "":
+        return [val.strip()]
+    else:
+        return []
+
+# Assign a random keyword to each paper
+titles = df['Title'].unique()
+for t in titles:
+    keywords = ["data management", "indexing", "data modeling", "bigdata",
+                "data processing", "data storage", "data querying"]
+
+    df.loc[df['Title'] == t, 'FieldOfStudy'] = random.choice(keywords)
+
+
+df['FieldOfStudy'] = df['FieldOfStudy'].apply(safe_literal_eval)
+
 keywords_df = df.explode('FieldOfStudy')[['FieldOfStudy']].drop_duplicates().rename(columns={
     'FieldOfStudy': 'Keyword'
 })
