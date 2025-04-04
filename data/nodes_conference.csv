@@ -1,2 +1,221 @@
-Name,Year,Venue
-North American Chapter of the Association for Computational Linguistics,2018,North American Chapter of the Association for Computational Linguistics
+ConferenceID,Venue,Year
+0,International Conference on Intelligent Tutoring Systems,2012
+1,Italian National Conference on Sensors,2019
+2,Ubiquitous Computing,2016
+3,International Conference on Physiological Computing Systems,2015
+4,International Conference on Artificial Intelligence in Education,2013
+5,Global Communications Conference,2014
+6,IEEE Conference on Computer Communications,2018
+7,IEEE International Conference on Bioinformatics and Biomedicine,2021
+7,IEEE International Conference on Bioinformatics and Biomedicine,2022
+8,Computer Vision and Pattern Recognition,2017
+9,Frontiers in Education Conference,2020
+10,International Conference on Human Factors in Computing Systems,2019
+11,Annual International Computer Software and Applications Conference,2017
+12,International Conference on Electrical Machines and Systems,2013
+13,International Conference on Electrical Machines,2018
+14,IEEE International Joint Conference on Neural Network,2015
+15,"International Conference on Informatics in Control, Automation and Robotics",2015
+16,International Conference on Artificial Neural Networks,2008
+17,European Signal Processing Conference,2019
+18,"International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems",2011
+19,Industrial Conference on Data Mining,2009
+20,Conference on Algebraic Informatics,2024
+21,European Conference on Computer Vision,2020
+22,"International Conference on Networking, Sensing and Control",2009
+23,IEEE International Conference on Advanced Intelligent Mechatronics,2016
+24,Annual Meeting of the Association for Computational Linguistics,2020
+25,Conference on Empirical Methods in Natural Language Processing,2024
+21,European Conference on Computer Vision,2024
+26,International Conference on Pattern Recognition,2006
+26,International Conference on Pattern Recognition,2020
+27,International Conference on Theorem Proving with Analytic Tableaux and Related Methods,1999
+28,International Symposium on Frontiers of Combining Systems,2005
+29,Conference on Correct Hardware Design and Verification Methods,2001
+30,International Symposium on Industrial Electronics,1993
+31,International Power Electronics and Motion Control Conference,2008
+32,EPE,2007
+33,International Conference on Cloud Computing and Intelligence Systems,2021
+34,International Conference on Computer Supported Cooperative Work in Design,2024
+35,International Joint Conference on Artificial Intelligence,2023
+36,"IEEE International Conference on Acoustics, Speech, and Signal Processing",2024
+37,IEEE International Conference on Robotics and Automation,2020
+38,International Conference on Information Security and Cryptology,2017
+39,International Conference on Machine Learning and Computing,2007
+40,International Conference on the Computer Processing of Oriental Languages,2006
+41,IEEE International Conference on Multimedia and Expo,2006
+42,International Electric Machines and Drives Conference,2013
+13,International Conference on Electrical Machines,2016
+43,European Conference on Cognitive Ergonomics,2015
+13,International Conference on Electrical Machines,2014
+44,International Conference Intelligent Data Communication Technologies and Internet Things,2018
+45,SPIN,2019
+46,International Conference on Computing and Convergence Technology,2015
+47,International Conference on Big Knowledge,2017
+48,ACM Multimedia Asia,2021
+11,Annual International Computer Software and Applications Conference,2020
+49,"International Symposium on Parallel Architectures, Algorithms and Programming",2019
+50,IEEE Region 10 Conference,2005
+51,International Conference on Architectural Support for Programming Languages and Operating Systems,2023
+52,Annual International Conference of the IEEE Engineering in Medicine and Biology Society,2014
+53,European Dependable Computing Conference,2024
+54,International Conference on Automated Software Engineering,2022
+55,The Web Conference,2024
+56,International Conference on Mechatronics and Machine Vision in Practice,2023
+55,The Web Conference,2014
+57,IEEE International Conference on Service-Oriented Computing and Applications,2017
+58,International Conference on Wirtschaftsinformatik,2017
+59,International Symposium on High Performance Computing Systems and Applications,2017
+6,IEEE Conference on Computer Communications,2021
+60,IEEE International New Circuits and Systems Conference,2019
+61,International Symposium on Circuits and Systems,2022
+62,"International Conference on Control, Engineering & Information Technology",2015
+63,International Conference on Software and Computer Applications,2018
+64,International Conference on Parallel Architectures and Compilation Techniques,2017
+65,IEEE International Symposium on Workload Characterization,2021
+66,ACM-SIGPLAN Symposium on Programming Language Design and Implementation,2020
+67,Dynamic Languages Symposium,2019
+51,International Conference on Architectural Support for Programming Languages and Operating Systems,2018
+1,Italian National Conference on Sensors,2022
+68,"IEEE Transportation Electrification Conference and Expo, Asia-Pacific",2014
+69,"The Power Electronics, Drive Systems & Technologies Conference",2014
+70,International Conference on Computer Supported Collaborative Learning,2007
+71,Conference on Computer Supported Cooperative Work,2017
+70,International Conference on Computer Supported Collaborative Learning,2009
+72,Asia-Pacific Signal and Information Processing Association Annual Summit and Conference,2019
+73,Interspeech,2023
+73,Interspeech,2022
+74,IberSPEECH Conference,2022
+75,EUROMICRO Conference on Software Engineering and Advanced Applications,2006
+76,Software Technologies for Embedded and Ubiquitous Systems,2010
+77,International Conference on Mobile Ad-hoc and Sensor Networks,2022
+14,IEEE International Joint Conference on Neural Network,2023
+36,"IEEE International Conference on Acoustics, Speech, and Signal Processing",2013
+78,North American Chapter of the Association for Computational Linguistics,2021
+24,Annual Meeting of the Association for Computational Linguistics,2021
+14,IEEE International Joint Conference on Neural Network,2020
+25,Conference on Empirical Methods in Natural Language Processing,2020
+25,Conference on Empirical Methods in Natural Language Processing,2019
+79,IEEE Joint International Information Technology and Artificial Intelligence Conference,2011
+80,International Conference on Computer Graphics Theory and Applications,2014
+81,International Conference on Games and Virtual Worlds for Serious Applications,2012
+82,Hawaii International Conference on System Sciences,2010
+1,Italian National Conference on Sensors,2024
+83,IEEE International Conference on Intelligent Systems,2020
+5,Global Communications Conference,2018
+1,Italian National Conference on Sensors,2021
+84,AAAI Conference on Artificial Intelligence,2020
+85,International Conference on Intelligent Human-Machine Systems and Cybernetics,2015
+86,International Symposium on Software Testing and Analysis,2021
+86,International Symposium on Software Testing and Analysis,2020
+87,International Conference on Software Engineering,2020
+88,IEEE International Conference on Computer Vision,2013
+89,IEEE Symposium Series on Computational Intelligence,2020
+8,Computer Vision and Pattern Recognition,2024
+90,IEEE Conference on Communications and Network Security,2020
+91,ACM Asia Conference on Computer and Communications Security,2022
+92,International Conference on Intelligent Transportation Systems,2018
+92,International Conference on Intelligent Transportation Systems,2019
+25,Conference on Empirical Methods in Natural Language Processing,2017
+93,Conference of the Association for Machine Translation in the Americas,2024
+94,International Conference on Signal-Image Technology and Internet-Based Systems,2022
+36,"IEEE International Conference on Acoustics, Speech, and Signal Processing",2008
+95,International Conference on Knowledge Management in Organizations,2014
+96,"IEEE International Conference on Software Analysis, Evolution, and Reengineering",2021
+97,ACM Symposium on Applied Computing,2024
+98,International Conference on High Performance Switching and Routing,2018
+98,International Conference on High Performance Switching and Routing,2021
+99,Affective Computing and Intelligent Interaction,2017
+100,IEEE Conference on Network Softwarization,2019
+101,Conference on Network Function Virtualization and Software Defined Network,2023
+102,"International Conferences on Computing, Networks and Internet of Things",2023
+103,Conference on Data and Application Security and Privacy,2023
+104,International Conference on Parallel and Distributed Systems,2023
+105,International Conference on Speech Technology and Human-Computer Dialogue,2006
+106,"Design, Automation and Test in Europe",2005
+107,Annual Conference on Genetic and Evolutionary Computation,2005
+108,International Conference on Machine Learning,2024
+84,AAAI Conference on Artificial Intelligence,2024
+84,AAAI Conference on Artificial Intelligence,2023
+109,Knowledge Discovery and Data Mining,2023
+110,European Control Conference,2021
+111,"International Conference on Control, Decision and Information Technologies",2023
+112,American Control Conference,2021
+113,IEEE-RAS International Conference on Humanoid Robots,2015
+113,IEEE-RAS International Conference on Humanoid Robots,2022
+114,IEEE/RJS International Conference on Intelligent RObots and Systems,2022
+1,Italian National Conference on Sensors,2020
+12,International Conference on Electrical Machines and Systems,2005
+36,"IEEE International Conference on Acoustics, Speech, and Signal Processing",2021
+115,International Conferences on Human-Machine Systems,2024
+26,International Conference on Pattern Recognition,2022
+116,Fusion,2018
+117,"IEEE International Conference on Systems, Man and Cybernetics",2016
+118,"International Conference on Advances in Computing, Communications and Informatics",2016
+119,International Conference on Information Technology,2004
+120,International Conference on Mobile and Ubiquitous Multimedia,2004
+121,Virtual Reality Software and Technology,2020
+122,IEEE Conference on Virtual Reality and 3D User Interfaces,2019
+123,Conference on Software Engineering Education and Training,2013
+124,IEEE Conference on Visual Analytics Science and Technology,2014
+14,IEEE International Joint Conference on Neural Network,2021
+125,International Conference on Ubiquitous Robots and Ambient Intelligence,2013
+126,Joint IEEE International Conference on Development and Learning and on Epigenetic Robotics,2018
+127,International Conference on Biomedical Robotics and Biomechatronics,2020
+114,IEEE/RJS International Conference on Intelligent RObots and Systems,2018
+15,"International Conference on Informatics in Control, Automation and Robotics",2022
+128,IEEE International Symposium on Distributed Simulation and Real-Time Applications,2024
+129,SIGSIM Principles of Advanced Discrete Simulation,2015
+130,International Conference on Micro-Electronics and Telecommunication Engineering,2016
+131,Technical Symposium on Computer Science Education,2022
+8,Computer Vision and Pattern Recognition,2016
+14,IEEE International Joint Conference on Neural Network,2013
+132,International Conference on Information Photonics,2020
+133,International Conference on Communications and Information Technology,2018
+1,Italian National Conference on Sensors,2018
+134,International Conference on Electrical Engineering and Informatics,2017
+135,"International Conference on Systems, Signals, and Image Processing",2016
+72,Asia-Pacific Signal and Information Processing Association Annual Summit and Conference,2014
+136,International Conference on Signals and Electronic Systems,2012
+137,"Ubiquitous Computing, Electronics & Mobile Communication Conference",2023
+84,AAAI Conference on Artificial Intelligence,2017
+138,Embedded Systems and Applications,2000
+1,Italian National Conference on Sensors,2023
+139,IEEE International Conference on Data Engineering,2023
+140,International Conference on Advanced Learning Technologies,2005
+141,International Conference on Cloud Computing and Services Science,2021
+142,International Conference on Artificial Intelligence and Advanced Manufacturing,2019
+143,International Symposium on Cloud and Service Computing,2018
+144,"International Conference on Communication, Computing & Security",2018
+145,International Conference on Applied Human Factors and Ergonomics,2020
+146,International Conference Virtual and Augmented Reality Simulations,2020
+147,Learning With MOOCS,2019
+148,International Conference on Health Information Science,2011
+149,International Conference on Automation and Computing,2017
+150,IEEE International Symposium on Robot and Human Interactive Communication,2012
+151,International Conference on Innovations in Information Technology,2020
+24,Annual Meeting of the Association for Computational Linguistics,2024
+152,IEEE Conference on High Performance Extreme Computing,2022
+153,International Conference on Field-Programmable Logic and Applications,2022
+154,IEEE Computer Society Annual Symposium on VLSI,2021
+8,Computer Vision and Pattern Recognition,2022
+155,Neural Information Processing Systems,2024
+155,Neural Information Processing Systems,1997
+156,Annual Conference on Information Sciences and Systems,2020
+157,IEEE International Conference on Distributed Computing Systems,2019
+10,International Conference on Human Factors in Computing Systems,2022
+158,International ACM SIGACCESS Conference on Computers and Accessibility,2024
+10,International Conference on Human Factors in Computing Systems,2024
+8,Computer Vision and Pattern Recognition,2005
+159,International Conference on Interaction Sciences,2016
+26,International Conference on Pattern Recognition,2014
+160,ACM Multimedia,2009
+161,International Conference on Information and Knowledge Management,2008
+160,ACM Multimedia,2008
+162,Big Data,2018
+163,International Symposium on Multispectral Image Processing and Pattern Recognition,2011
+37,IEEE International Conference on Robotics and Automation,2023
+84,AAAI Conference on Artificial Intelligence,2022
+14,IEEE International Joint Conference on Neural Network,2022
+164,IEEE International Conference on Smart Grid Communications,2022
+88,IEEE International Conference on Computer Vision,2023

@@ -1,23 +1,1728 @@
 ReviewerID,PaperID,Comment,Score
-2052294515,913f54b44dfb9202955fe296cf5586e1105565ea,Interesting methodology.,2
-51213642,913f54b44dfb9202955fe296cf5586e1105565ea,Well-structured and informative.,2
-2115351163,913f54b44dfb9202955fe296cf5586e1105565ea,Needs more empirical validation.,2
-153647675,913f54b44dfb9202955fe296cf5586e1105565ea,Excellent contribution to the field.,3
-7236231,913f54b44dfb9202955fe296cf5586e1105565ea,Excellent contribution to the field.,4
-40504643,7f57a5bdbf6c711c711e1901864eaa4237b01f9f,Interesting methodology.,2
-48702447,7f57a5bdbf6c711c711e1901864eaa4237b01f9f,Needs more empirical validation.,1
-145677903,7f57a5bdbf6c711c711e1901864eaa4237b01f9f,Excellent contribution to the field.,2
-49576312,52020530c72e189ca0d295e611063a0aaa9109c2,Needs more empirical validation.,4
-2149515379,52020530c72e189ca0d295e611063a0aaa9109c2,Well-structured and informative.,2
-50320934,52020530c72e189ca0d295e611063a0aaa9109c2,Interesting methodology.,2
-134052571,52020530c72e189ca0d295e611063a0aaa9109c2,Limited novelty but useful results.,2
-1721427,52020530c72e189ca0d295e611063a0aaa9109c2,Excellent contribution to the field.,1
-2300321,52020530c72e189ca0d295e611063a0aaa9109c2,Well-structured and informative.,3
-2054520127,52020530c72e189ca0d295e611063a0aaa9109c2,Needs more empirical validation.,1
-48493368,53489041a08ef1a6cd19b4c95ce092a148283b6b,Limited novelty but useful results.,5
-145585097,53489041a08ef1a6cd19b4c95ce092a148283b6b,Needs more empirical validation.,5
-40135250,53489041a08ef1a6cd19b4c95ce092a148283b6b,Interesting methodology.,1
-15292561,53489041a08ef1a6cd19b4c95ce092a148283b6b,Excellent contribution to the field.,4
-41018147,53489041a08ef1a6cd19b4c95ce092a148283b6b,Limited novelty but useful results.,2
-144547315,53489041a08ef1a6cd19b4c95ce092a148283b6b,Limited novelty but useful results.,1
-4671928,53489041a08ef1a6cd19b4c95ce092a148283b6b,Needs more empirical validation.,5
+2881469.0,00000f4552fc7742585d81666afb9c1163393e17,Well-structured and informative.,1
+40138490.0,00000f4552fc7742585d81666afb9c1163393e17,Excellent contribution to the field.,5
+2005841.0,8509485721393d06595834a98c527a3f54052009,Needs more empirical validation.,3
+2285132256.0,8509485721393d06595834a98c527a3f54052009,Well-structured and informative.,2
+145194004.0,8509485721393d06595834a98c527a3f54052009,Interesting methodology.,5
+66477068.0,a7446c94ef2515f744c1bb04e8f51f0f141a1993,Well-structured and informative.,5
+2067851.0,a7446c94ef2515f744c1bb04e8f51f0f141a1993,Interesting methodology.,4
+1728223.0,a7446c94ef2515f744c1bb04e8f51f0f141a1993,Interesting methodology.,4
+66477068.0,e8038192e1de82211b9c45d7a0f2fac2aabdd016,Excellent contribution to the field.,2
+1728223.0,e8038192e1de82211b9c45d7a0f2fac2aabdd016,Needs more empirical validation.,5
+100799297.0,dc106710715e3b724e393e3562cbb8f2e5865161,Limited novelty but useful results.,4
+3114449.0,dc106710715e3b724e393e3562cbb8f2e5865161,Limited novelty but useful results.,4
+1791910.0,dc106710715e3b724e393e3562cbb8f2e5865161,Excellent contribution to the field.,4
+38772386.0,20004cb54319bbfd29c0828913c3bf5a8d6c8a1c,Well-structured and informative.,4
+2175529.0,20004cb54319bbfd29c0828913c3bf5a8d6c8a1c,Interesting methodology.,2
+1693197.0,20004cb54319bbfd29c0828913c3bf5a8d6c8a1c,Interesting methodology.,4
+3455215.0,20004cb54319bbfd29c0828913c3bf5a8d6c8a1c,Well-structured and informative.,1
+3455177.0,20004cb54319bbfd29c0828913c3bf5a8d6c8a1c,Excellent contribution to the field.,5
+1684412.0,20004cb54319bbfd29c0828913c3bf5a8d6c8a1c,Excellent contribution to the field.,1
+1741922.0,20004cb54319bbfd29c0828913c3bf5a8d6c8a1c,Limited novelty but useful results.,2
+2109114748.0,f5658866a7e1a75d0815deb1c269d0b44b4b20b0,Needs more empirical validation.,4
+144022557.0,f5658866a7e1a75d0815deb1c269d0b44b4b20b0,Interesting methodology.,2
+100799297.0,d11678f5e923165d55c6434a445ab39dfbe65f5e,Needs more empirical validation.,3
+3114449.0,d11678f5e923165d55c6434a445ab39dfbe65f5e,Well-structured and informative.,3
+1791910.0,d11678f5e923165d55c6434a445ab39dfbe65f5e,Excellent contribution to the field.,4
+2108929452.0,d11678f5e923165d55c6434a445ab39dfbe65f5e,Well-structured and informative.,1
+144375157.0,d11678f5e923165d55c6434a445ab39dfbe65f5e,Well-structured and informative.,3
+1931563.0,8153eeca504bfe4395b0b5620e706b21740af954,Needs more empirical validation.,3
+1861231.0,8153eeca504bfe4395b0b5620e706b21740af954,Needs more empirical validation.,3
+2115476.0,8153eeca504bfe4395b0b5620e706b21740af954,Well-structured and informative.,4
+145182284.0,8153eeca504bfe4395b0b5620e706b21740af954,Well-structured and informative.,1
+1717955.0,8153eeca504bfe4395b0b5620e706b21740af954,Limited novelty but useful results.,2
+3245530.0,0000c55f1170657127217eb9b3c28fc6383cc647,Needs more empirical validation.,2
+143816652.0,0000c55f1170657127217eb9b3c28fc6383cc647,Limited novelty but useful results.,1
+1682312.0,0000c55f1170657127217eb9b3c28fc6383cc647,Limited novelty but useful results.,3
+134387373.0,2e1c953f3f76907e98a3f3df23ec6858e0def92c,Interesting methodology.,2
+1744086.0,2e1c953f3f76907e98a3f3df23ec6858e0def92c,Interesting methodology.,5
+46633570.0,93574827efa9dddf11d290cc55dbde6aea714453,Excellent contribution to the field.,2
+145736060.0,93574827efa9dddf11d290cc55dbde6aea714453,Excellent contribution to the field.,2
+144230333.0,93574827efa9dddf11d290cc55dbde6aea714453,Needs more empirical validation.,3
+1727779.0,93574827efa9dddf11d290cc55dbde6aea714453,Excellent contribution to the field.,4
+49455011.0,78ab63839047f8e09ec118967a3739d6a9369834,Limited novelty but useful results.,2
+2155386824.0,78ab63839047f8e09ec118967a3739d6a9369834,Interesting methodology.,3
+9454574.0,78ab63839047f8e09ec118967a3739d6a9369834,Needs more empirical validation.,1
+3026863.0,78ab63839047f8e09ec118967a3739d6a9369834,Well-structured and informative.,3
+2894523.0,0001732a8f4f8443731a16387dda81c61a7bf108,Limited novelty but useful results.,4
+1757723.0,0001732a8f4f8443731a16387dda81c61a7bf108,Interesting methodology.,3
+3013763.0,0001732a8f4f8443731a16387dda81c61a7bf108,Excellent contribution to the field.,5
+2199304039.0,adef4f76adb2370f319a791dc1e306b01068e94c,Excellent contribution to the field.,4
+40482798.0,adef4f76adb2370f319a791dc1e306b01068e94c,Well-structured and informative.,4
+2199267303.0,adef4f76adb2370f319a791dc1e306b01068e94c,Limited novelty but useful results.,1
+2124928598.0,adef4f76adb2370f319a791dc1e306b01068e94c,Interesting methodology.,5
+2311645720.0,adef4f76adb2370f319a791dc1e306b01068e94c,Interesting methodology.,5
+2118697129.0,adef4f76adb2370f319a791dc1e306b01068e94c,Excellent contribution to the field.,1
+2089067093.0,c711ac4675337753c577d3da5f424dcbcf6bc003,Excellent contribution to the field.,2
+25447315.0,c711ac4675337753c577d3da5f424dcbcf6bc003,Limited novelty but useful results.,4
+2146610705.0,c711ac4675337753c577d3da5f424dcbcf6bc003,Interesting methodology.,1
+2411265.0,c711ac4675337753c577d3da5f424dcbcf6bc003,Limited novelty but useful results.,1
+2146610864.0,c711ac4675337753c577d3da5f424dcbcf6bc003,Interesting methodology.,2
+,c711ac4675337753c577d3da5f424dcbcf6bc003,Interesting methodology.,5
+145061116.0,c711ac4675337753c577d3da5f424dcbcf6bc003,Excellent contribution to the field.,1
+1881617.0,000178cd12c8a6e5da8215b6365fae03c20fd18d,Limited novelty but useful results.,3
+2271057.0,000178cd12c8a6e5da8215b6365fae03c20fd18d,Excellent contribution to the field.,2
+143848064.0,000178cd12c8a6e5da8215b6365fae03c20fd18d,Interesting methodology.,4
+1687524.0,000178cd12c8a6e5da8215b6365fae03c20fd18d,Limited novelty but useful results.,5
+143635540.0,000178cd12c8a6e5da8215b6365fae03c20fd18d,Interesting methodology.,3
+2817207.0,82f4f334e87737921035e7d172a895ed41a03fdf,Well-structured and informative.,5
+1398028934.0,82f4f334e87737921035e7d172a895ed41a03fdf,Interesting methodology.,1
+3030841.0,82f4f334e87737921035e7d172a895ed41a03fdf,Excellent contribution to the field.,3
+2127446251.0,860fc334ad902d847f28cbbe0234d158590da5b4,Interesting methodology.,3
+3119731.0,860fc334ad902d847f28cbbe0234d158590da5b4,Interesting methodology.,1
+2152094456.0,860fc334ad902d847f28cbbe0234d158590da5b4,Well-structured and informative.,2
+153459399.0,48748deac5da9d0ab0d09bffe254ada4b151bbb0,Excellent contribution to the field.,5
+2055848732.0,48748deac5da9d0ab0d09bffe254ada4b151bbb0,Needs more empirical validation.,1
+47608700.0,48748deac5da9d0ab0d09bffe254ada4b151bbb0,Interesting methodology.,5
+150105187.0,77cb4b76139c0e798b0e3fecc4f5db08f97aaf00,Well-structured and informative.,1
+2072798924.0,77cb4b76139c0e798b0e3fecc4f5db08f97aaf00,Limited novelty but useful results.,2
+5800468.0,77cb4b76139c0e798b0e3fecc4f5db08f97aaf00,Excellent contribution to the field.,3
+145761721.0,77cb4b76139c0e798b0e3fecc4f5db08f97aaf00,Interesting methodology.,3
+2072389004.0,6e33e92e106c0a1044a89e8dd33330a4d755e7eb,Well-structured and informative.,4
+2520424.0,6e33e92e106c0a1044a89e8dd33330a4d755e7eb,Needs more empirical validation.,1
+46515199.0,6e33e92e106c0a1044a89e8dd33330a4d755e7eb,Excellent contribution to the field.,1
+144757691.0,6e33e92e106c0a1044a89e8dd33330a4d755e7eb,Interesting methodology.,4
+145148600.0,6e33e92e106c0a1044a89e8dd33330a4d755e7eb,Interesting methodology.,5
+2292282200.0,3b369cc523e2f95ea592716732421dc4810cf2ef,Excellent contribution to the field.,4
+2287930712.0,3b369cc523e2f95ea592716732421dc4810cf2ef,Excellent contribution to the field.,1
+3141797.0,3b369cc523e2f95ea592716732421dc4810cf2ef,Well-structured and informative.,5
+2547594.0,3b369cc523e2f95ea592716732421dc4810cf2ef,Limited novelty but useful results.,5
+24775322.0,3b369cc523e2f95ea592716732421dc4810cf2ef,Needs more empirical validation.,4
+3376253.0,000270f4b973ba6db82a3cb6a6f1e139ae2974c6,Needs more empirical validation.,4
+2282398.0,000270f4b973ba6db82a3cb6a6f1e139ae2974c6,Needs more empirical validation.,1
+2436322.0,000270f4b973ba6db82a3cb6a6f1e139ae2974c6,Excellent contribution to the field.,2
+48019426.0,000270f4b973ba6db82a3cb6a6f1e139ae2974c6,Limited novelty but useful results.,1
+47844994.0,000270f4b973ba6db82a3cb6a6f1e139ae2974c6,Well-structured and informative.,3
+,000270f4b973ba6db82a3cb6a6f1e139ae2974c6,Needs more empirical validation.,3
+2297286377.0,49a9a7363858a821ce824f57ae8b3efa675372a3,Limited novelty but useful results.,4
+2133296696.0,49a9a7363858a821ce824f57ae8b3efa675372a3,Well-structured and informative.,3
+2297286377.0,927d7b49cafc6a856e9d41ae0e66424a21c81a31,Limited novelty but useful results.,4
+1401997726.0,927d7b49cafc6a856e9d41ae0e66424a21c81a31,Limited novelty but useful results.,2
+2264759.0,a766e4ae21d21e3ae16c40c9c6c7c9b396c8f769,Excellent contribution to the field.,2
+2769711.0,a766e4ae21d21e3ae16c40c9c6c7c9b396c8f769,Well-structured and informative.,2
+2243999.0,ad321149076b26ae9b23521cd04f0c9436f100ce,Excellent contribution to the field.,3
+1405514357.0,ad321149076b26ae9b23521cd04f0c9436f100ce,Limited novelty but useful results.,3
+145846845.0,ad321149076b26ae9b23521cd04f0c9436f100ce,Interesting methodology.,2
+35756903.0,ad321149076b26ae9b23521cd04f0c9436f100ce,Needs more empirical validation.,2
+9128955.0,bc291d55606ed79f1bab48b35d1ce83b406c17db,Needs more empirical validation.,5
+2434542.0,bc291d55606ed79f1bab48b35d1ce83b406c17db,Limited novelty but useful results.,2
+10834575.0,8daca718703f71dc1772d911b1cabdbee3a86f7d,Interesting methodology.,4
+2332637.0,8daca718703f71dc1772d911b1cabdbee3a86f7d,Well-structured and informative.,4
+2288176.0,8daca718703f71dc1772d911b1cabdbee3a86f7d,Limited novelty but useful results.,1
+10834575.0,eec878d2f940d79408e2a3d6e20bdc7d20c2f0c5,Well-structured and informative.,3
+2332637.0,eec878d2f940d79408e2a3d6e20bdc7d20c2f0c5,Limited novelty but useful results.,3
+2288176.0,eec878d2f940d79408e2a3d6e20bdc7d20c2f0c5,Well-structured and informative.,5
+10834575.0,8acccb75195a265961aa11ff2de5843103be764c,Interesting methodology.,4
+2332637.0,8acccb75195a265961aa11ff2de5843103be764c,Interesting methodology.,2
+2288176.0,8acccb75195a265961aa11ff2de5843103be764c,Interesting methodology.,1
+1725095.0,0003975c67dc6e9f0c405cd4dd072b04b684b742,Excellent contribution to the field.,5
+1679601.0,0003975c67dc6e9f0c405cd4dd072b04b684b742,Interesting methodology.,2
+98416103.0,03874e05c356223ba0362bc5483e2dbaba8f3202,Well-structured and informative.,1
+144295203.0,03874e05c356223ba0362bc5483e2dbaba8f3202,Excellent contribution to the field.,3
+52168775.0,56e803a517d8cd7fd9f1474ad54dc926533ec38f,Limited novelty but useful results.,4
+145313246.0,8962505574f752c9b82ee243bceabf4753bfe717,Limited novelty but useful results.,1
+2012558623.0,8962505574f752c9b82ee243bceabf4753bfe717,Interesting methodology.,4
+38713946.0,8962505574f752c9b82ee243bceabf4753bfe717,Interesting methodology.,5
+2470462.0,87c198f86bc6eaa9439d309904081ac294382abb,Interesting methodology.,4
+27030246.0,87c198f86bc6eaa9439d309904081ac294382abb,Well-structured and informative.,1
+2655147.0,e1b372337eb0606ab883cf4a290004c7d7471781,Interesting methodology.,3
+32349706.0,4683f3b5aa7c23b3ac9fbe312ef29a4f44c8bb1b,Needs more empirical validation.,4
+2088927318.0,181e892fa1207461e93a953c05e0395223345b10,Interesting methodology.,2
+35005991.0,181e892fa1207461e93a953c05e0395223345b10,Excellent contribution to the field.,5
+2239464106.0,181e892fa1207461e93a953c05e0395223345b10,Limited novelty but useful results.,2
+3213767.0,caf27f4542e8dccdaaa22a27a7b95b5ef0c6d2b8,Excellent contribution to the field.,1
+2296852110.0,caf27f4542e8dccdaaa22a27a7b95b5ef0c6d2b8,Limited novelty but useful results.,3
+2219751530.0,caf27f4542e8dccdaaa22a27a7b95b5ef0c6d2b8,Excellent contribution to the field.,4
+35138971.0,caf27f4542e8dccdaaa22a27a7b95b5ef0c6d2b8,Interesting methodology.,5
+48559520.0,000458c2651ab147d503429f6460aa80155e8e35,Excellent contribution to the field.,3
+2329600.0,000458c2651ab147d503429f6460aa80155e8e35,Well-structured and informative.,5
+145681032.0,000458c2651ab147d503429f6460aa80155e8e35,Limited novelty but useful results.,1
+144984311.0,000458c2651ab147d503429f6460aa80155e8e35,Interesting methodology.,5
+2146052891.0,000458c2651ab147d503429f6460aa80155e8e35,Limited novelty but useful results.,5
+2671368.0,000458c2651ab147d503429f6460aa80155e8e35,Needs more empirical validation.,5
+12081764.0,000458c2651ab147d503429f6460aa80155e8e35,Limited novelty but useful results.,5
+2111137251.0,000458c2651ab147d503429f6460aa80155e8e35,Interesting methodology.,1
+35122174.0,0004fe12ae50ed77aab5d8bfbe74bb58d9b333c1,Needs more empirical validation.,4
+2672595.0,0004fe12ae50ed77aab5d8bfbe74bb58d9b333c1,Excellent contribution to the field.,1
+2111261881.0,0004fe12ae50ed77aab5d8bfbe74bb58d9b333c1,Limited novelty but useful results.,1
+35122174.0,761163778df822d53efe6c3015eb7afeba768b78,Needs more empirical validation.,5
+2111261881.0,761163778df822d53efe6c3015eb7afeba768b78,Needs more empirical validation.,2
+7184251.0,761163778df822d53efe6c3015eb7afeba768b78,Excellent contribution to the field.,4
+7551433.0,761163778df822d53efe6c3015eb7afeba768b78,Interesting methodology.,3
+97503663.0,761163778df822d53efe6c3015eb7afeba768b78,Excellent contribution to the field.,2
+38635490.0,00059087c954c1af6ece33115315e3e0ecc2f2c2,Limited novelty but useful results.,5
+36126076.0,00059087c954c1af6ece33115315e3e0ecc2f2c2,Excellent contribution to the field.,5
+1741330216.0,7156051b1effa3ed5d072816cc94dbf6cb1252b3,Interesting methodology.,2
+2006601535.0,7156051b1effa3ed5d072816cc94dbf6cb1252b3,Limited novelty but useful results.,3
+2256997075.0,7156051b1effa3ed5d072816cc94dbf6cb1252b3,Excellent contribution to the field.,2
+2241473056.0,7156051b1effa3ed5d072816cc94dbf6cb1252b3,Well-structured and informative.,4
+2486762.0,7156051b1effa3ed5d072816cc94dbf6cb1252b3,Limited novelty but useful results.,2
+2158524037.0,ded7778be3d2ac18765168e04d03a22dd2aed908,Needs more empirical validation.,5
+2312335443.0,ded7778be3d2ac18765168e04d03a22dd2aed908,Well-structured and informative.,3
+2268671902.0,ded7778be3d2ac18765168e04d03a22dd2aed908,Needs more empirical validation.,4
+2257044451.0,ded7778be3d2ac18765168e04d03a22dd2aed908,Interesting methodology.,2
+2312902257.0,ded7778be3d2ac18765168e04d03a22dd2aed908,Limited novelty but useful results.,3
+2312401769.0,ded7778be3d2ac18765168e04d03a22dd2aed908,Needs more empirical validation.,4
+2304324554.0,ded7778be3d2ac18765168e04d03a22dd2aed908,Needs more empirical validation.,5
+2268515593.0,ded7778be3d2ac18765168e04d03a22dd2aed908,Interesting methodology.,5
+2281332673.0,0005b67f248df75bf0f4eba37328142951559498,Well-structured and informative.,1
+2282209914.0,0005b67f248df75bf0f4eba37328142951559498,Excellent contribution to the field.,4
+2259935939.0,0005b67f248df75bf0f4eba37328142951559498,Limited novelty but useful results.,3
+1641475500.0,0005b67f248df75bf0f4eba37328142951559498,Excellent contribution to the field.,5
+2305062011.0,0005b67f248df75bf0f4eba37328142951559498,Well-structured and informative.,3
+2304555579.0,0005b67f248df75bf0f4eba37328142951559498,Interesting methodology.,2
+2287374267.0,0005b67f248df75bf0f4eba37328142951559498,Excellent contribution to the field.,5
+1994778.0,00064ea12f64bd7770aa923e67e09597f5a9925b,Interesting methodology.,3
+145295484.0,00064ea12f64bd7770aa923e67e09597f5a9925b,Interesting methodology.,5
+144789425.0,422337fa8bfebf37fad9730b1711acf8ea5f4e92,Interesting methodology.,2
+5349619.0,422337fa8bfebf37fad9730b1711acf8ea5f4e92,Limited novelty but useful results.,4
+26908915.0,422337fa8bfebf37fad9730b1711acf8ea5f4e92,Limited novelty but useful results.,3
+2108956293.0,88b10094e3ba27033dff0f96a412329220cb1f9a,Limited novelty but useful results.,3
+2330367605.0,88b10094e3ba27033dff0f96a412329220cb1f9a,Interesting methodology.,3
+3043043.0,88b10094e3ba27033dff0f96a412329220cb1f9a,Excellent contribution to the field.,2
+2067076753.0,88b10094e3ba27033dff0f96a412329220cb1f9a,Well-structured and informative.,2
+2064267986.0,1df91e92ac8e388ed0ccf305f0c0eb769373aeff,Excellent contribution to the field.,4
+32743643.0,1df91e92ac8e388ed0ccf305f0c0eb769373aeff,Limited novelty but useful results.,1
+2272205.0,1df91e92ac8e388ed0ccf305f0c0eb769373aeff,Interesting methodology.,5
+2242910.0,1df91e92ac8e388ed0ccf305f0c0eb769373aeff,Excellent contribution to the field.,5
+2143490.0,1df91e92ac8e388ed0ccf305f0c0eb769373aeff,Needs more empirical validation.,4
+3317124.0,22301fafc0d082fe05d0c6d85693abf34527320c,Well-structured and informative.,4
+3057896.0,22301fafc0d082fe05d0c6d85693abf34527320c,Needs more empirical validation.,3
+5380819.0,22301fafc0d082fe05d0c6d85693abf34527320c,Limited novelty but useful results.,4
+144664815.0,22301fafc0d082fe05d0c6d85693abf34527320c,Excellent contribution to the field.,5
+2672192.0,c995f1f102e886192bdd6d29ac567f1c68cb03ad,Well-structured and informative.,4
+2272205.0,c995f1f102e886192bdd6d29ac567f1c68cb03ad,Excellent contribution to the field.,3
+2143490.0,c995f1f102e886192bdd6d29ac567f1c68cb03ad,Excellent contribution to the field.,1
+2242910.0,c995f1f102e886192bdd6d29ac567f1c68cb03ad,Limited novelty but useful results.,5
+2198089421.0,c995f1f102e886192bdd6d29ac567f1c68cb03ad,Excellent contribution to the field.,1
+1930256.0,f8413d402f4aa45c2f517ec9f03c7264a49df2d0,Interesting methodology.,1
+144927912.0,f8413d402f4aa45c2f517ec9f03c7264a49df2d0,Excellent contribution to the field.,4
+143610806.0,f8413d402f4aa45c2f517ec9f03c7264a49df2d0,Interesting methodology.,3
+2240710091.0,000651c8f5971dff64d5cbeafe7302a53895823e,Needs more empirical validation.,4
+37278009.0,000651c8f5971dff64d5cbeafe7302a53895823e,Well-structured and informative.,1
+144753120.0,000651c8f5971dff64d5cbeafe7302a53895823e,Limited novelty but useful results.,3
+144658464.0,000651c8f5971dff64d5cbeafe7302a53895823e,Needs more empirical validation.,3
+34673652.0,0007dba348869daebdaa5f02dd120dde7ce1a305,Needs more empirical validation.,2
+2044250.0,0007dba348869daebdaa5f02dd120dde7ce1a305,Interesting methodology.,3
+1888350.0,0007dba348869daebdaa5f02dd120dde7ce1a305,Excellent contribution to the field.,3
+2956166.0,894f88289351fc5ade3ac0c1d5cc249c7c107391,Interesting methodology.,5
+2504420.0,6b79f8f0566bada168403c18159ef4ef0206d799,Limited novelty but useful results.,3
+145761556.0,6b79f8f0566bada168403c18159ef4ef0206d799,Needs more empirical validation.,3
+2107714.0,6b79f8f0566bada168403c18159ef4ef0206d799,Limited novelty but useful results.,3
+115075591.0,6b79f8f0566bada168403c18159ef4ef0206d799,Limited novelty but useful results.,5
+73641055.0,00085367adf8049b2091ac5e87b36a7eee7155ae,Interesting methodology.,2
+30884844.0,00085367adf8049b2091ac5e87b36a7eee7155ae,Limited novelty but useful results.,4
+2615948.0,b6b7fbf9b28b99f4e4ffd4e853260ffc3a926b16,Interesting methodology.,4
+1683061.0,b6b7fbf9b28b99f4e4ffd4e853260ffc3a926b16,Well-structured and informative.,1
+1690284.0,b6b7fbf9b28b99f4e4ffd4e853260ffc3a926b16,Excellent contribution to the field.,5
+32523571.0,91137c72a9a9ff30b8dd8fad6b712b087981f07e,Limited novelty but useful results.,3
+1690284.0,91137c72a9a9ff30b8dd8fad6b712b087981f07e,Interesting methodology.,1
+2085813183.0,049034282f17a084b7e0a7839d8ddc3652468baa,Excellent contribution to the field.,4
+50422483.0,049034282f17a084b7e0a7839d8ddc3652468baa,Needs more empirical validation.,5
+2615948.0,7df8f1310faa6b63c17f19ef30a0871e726c78d6,Excellent contribution to the field.,3
+2079059752.0,7df8f1310faa6b63c17f19ef30a0871e726c78d6,Interesting methodology.,4
+2118590164.0,0008afdfa123c7d32b644f5cebafae98a58e1bfa,Needs more empirical validation.,2
+,0008afdfa123c7d32b644f5cebafae98a58e1bfa,Limited novelty but useful results.,5
+2108147319.0,0008afdfa123c7d32b644f5cebafae98a58e1bfa,Limited novelty but useful results.,5
+2313483079.0,380fdeb36995ede563642f1b77a8859f95d9fc4d,Interesting methodology.,3
+2276069729.0,380fdeb36995ede563642f1b77a8859f95d9fc4d,Well-structured and informative.,5
+2246718702.0,380fdeb36995ede563642f1b77a8859f95d9fc4d,Needs more empirical validation.,3
+2248790595.0,380fdeb36995ede563642f1b77a8859f95d9fc4d,Limited novelty but useful results.,3
+2248531892.0,380fdeb36995ede563642f1b77a8859f95d9fc4d,Needs more empirical validation.,1
+2268243667.0,380fdeb36995ede563642f1b77a8859f95d9fc4d,Well-structured and informative.,4
+2069707975.0,0008cb017b9659277632d26566e512a0bdfde553,Well-structured and informative.,5
+2116864543.0,0008cb017b9659277632d26566e512a0bdfde553,Excellent contribution to the field.,1
+2313045.0,0008cb017b9659277632d26566e512a0bdfde553,Limited novelty but useful results.,2
+2109079276.0,0008cb017b9659277632d26566e512a0bdfde553,Needs more empirical validation.,3
+38819702.0,0008cb017b9659277632d26566e512a0bdfde553,Excellent contribution to the field.,3
+2113727378.0,0008cb017b9659277632d26566e512a0bdfde553,Excellent contribution to the field.,5
+49606029.0,0008cb017b9659277632d26566e512a0bdfde553,Excellent contribution to the field.,5
+2288264743.0,229530a78e6c5c1f135f2c85ecc1b5e25e6bb463,Limited novelty but useful results.,2
+2315113931.0,229530a78e6c5c1f135f2c85ecc1b5e25e6bb463,Well-structured and informative.,2
+2150079871.0,229530a78e6c5c1f135f2c85ecc1b5e25e6bb463,Limited novelty but useful results.,3
+2288220343.0,229530a78e6c5c1f135f2c85ecc1b5e25e6bb463,Needs more empirical validation.,1
+2274572515.0,4c8da4fa2c8102a7b7dad024f85c54b49ba0636b,Interesting methodology.,4
+2109464620.0,4c8da4fa2c8102a7b7dad024f85c54b49ba0636b,Needs more empirical validation.,5
+2274454000.0,4c8da4fa2c8102a7b7dad024f85c54b49ba0636b,Needs more empirical validation.,2
+2108506492.0,4c8da4fa2c8102a7b7dad024f85c54b49ba0636b,Limited novelty but useful results.,1
+2275034014.0,4c8da4fa2c8102a7b7dad024f85c54b49ba0636b,Well-structured and informative.,5
+1914486309.0,4c8da4fa2c8102a7b7dad024f85c54b49ba0636b,Well-structured and informative.,1
+2274436707.0,4c8da4fa2c8102a7b7dad024f85c54b49ba0636b,Needs more empirical validation.,5
+,10dcde63c6ce45a850018a52d32bcec621038b21,Limited novelty but useful results.,5
+2142084504.0,10dcde63c6ce45a850018a52d32bcec621038b21,Limited novelty but useful results.,5
+2201663597.0,10dcde63c6ce45a850018a52d32bcec621038b21,Well-structured and informative.,3
+1684067.0,10dcde63c6ce45a850018a52d32bcec621038b21,Needs more empirical validation.,2
+,7b494e3e4fbc1d2fb3eeabe2ceb4b288d027470f,Interesting methodology.,1
+2142084504.0,7b494e3e4fbc1d2fb3eeabe2ceb4b288d027470f,Excellent contribution to the field.,3
+1684067.0,7b494e3e4fbc1d2fb3eeabe2ceb4b288d027470f,Well-structured and informative.,1
+2261523249.0,a4f7df958aa56eac6cdcd7aa6c25c66726e44758,Needs more empirical validation.,2
+2237900541.0,a4f7df958aa56eac6cdcd7aa6c25c66726e44758,Interesting methodology.,3
+1935088014.0,7635dd17557475edb06d91599d9a9bfc9c961cd5,Interesting methodology.,4
+1724876.0,7635dd17557475edb06d91599d9a9bfc9c961cd5,Excellent contribution to the field.,1
+2277214035.0,7635dd17557475edb06d91599d9a9bfc9c961cd5,Excellent contribution to the field.,3
+144140719.0,7635dd17557475edb06d91599d9a9bfc9c961cd5,Excellent contribution to the field.,5
+2205437693.0,7635dd17557475edb06d91599d9a9bfc9c961cd5,Needs more empirical validation.,2
+144465374.0,0009d673b46c3f79835ac13e5a987b3c5e153628,Interesting methodology.,4
+152358983.0,0009d673b46c3f79835ac13e5a987b3c5e153628,Interesting methodology.,3
+8307674.0,0009d673b46c3f79835ac13e5a987b3c5e153628,Interesting methodology.,1
+151479011.0,0009d673b46c3f79835ac13e5a987b3c5e153628,Excellent contribution to the field.,3
+144751617.0,0009d673b46c3f79835ac13e5a987b3c5e153628,Needs more empirical validation.,2
+3285568.0,0009d673b46c3f79835ac13e5a987b3c5e153628,Needs more empirical validation.,4
+1779671.0,0009d673b46c3f79835ac13e5a987b3c5e153628,Well-structured and informative.,4
+1740159.0,0009d673b46c3f79835ac13e5a987b3c5e153628,Interesting methodology.,5
+6386345.0,0009d673b46c3f79835ac13e5a987b3c5e153628,Interesting methodology.,5
+143851690.0,000a00d829abda9262013a88a5356953f449fc73,Needs more empirical validation.,4
+2076906703.0,000a00d829abda9262013a88a5356953f449fc73,Interesting methodology.,4
+9360691.0,000a00d829abda9262013a88a5356953f449fc73,Excellent contribution to the field.,3
+70466521.0,f6464f77281201e5fb811eaacc61d1497524fc8b,Needs more empirical validation.,2
+2996147.0,16fd3947cefbf8cd51d8a82832c184f1351447e6,Interesting methodology.,4
+39109691.0,16fd3947cefbf8cd51d8a82832c184f1351447e6,Excellent contribution to the field.,3
+1696384.0,2bad667e45c76b6edf8e7fe54f6cdd267189c743,Limited novelty but useful results.,2
+1985392.0,2bad667e45c76b6edf8e7fe54f6cdd267189c743,Interesting methodology.,4
+34366451.0,2bad667e45c76b6edf8e7fe54f6cdd267189c743,Well-structured and informative.,4
+2996147.0,1b0cda4e00db8567142379549dc0a53190bc77b6,Excellent contribution to the field.,4
+39109691.0,1b0cda4e00db8567142379549dc0a53190bc77b6,Limited novelty but useful results.,5
+48608299.0,f2d7849571599130272e79f20197b4b6ccb89da9,Well-structured and informative.,5
+143749205.0,f2d7849571599130272e79f20197b4b6ccb89da9,Interesting methodology.,5
+144455838.0,f2d7849571599130272e79f20197b4b6ccb89da9,Excellent contribution to the field.,5
+1765714.0,f2d7849571599130272e79f20197b4b6ccb89da9,Well-structured and informative.,5
+1689269.0,a4dacead25704c5dad8828e2c9cd5bf5d85deccb,Well-structured and informative.,4
+40059859.0,a4dacead25704c5dad8828e2c9cd5bf5d85deccb,Needs more empirical validation.,5
+145887653.0,a4dacead25704c5dad8828e2c9cd5bf5d85deccb,Well-structured and informative.,3
+145499972.0,000ab88c22b8501af71f91b4b965a19d0da1a1c8,Limited novelty but useful results.,3
+2107187631.0,000ab88c22b8501af71f91b4b965a19d0da1a1c8,Well-structured and informative.,1
+144190461.0,8920b3deb590c3082a8372cabe68e6ac67922708,Well-structured and informative.,1
+40219946.0,8920b3deb590c3082a8372cabe68e6ac67922708,Excellent contribution to the field.,1
+7567049.0,8920b3deb590c3082a8372cabe68e6ac67922708,Limited novelty but useful results.,3
+2473214.0,8920b3deb590c3082a8372cabe68e6ac67922708,Well-structured and informative.,4
+2111306679.0,8920b3deb590c3082a8372cabe68e6ac67922708,Well-structured and informative.,1
+83281498.0,8920b3deb590c3082a8372cabe68e6ac67922708,Interesting methodology.,2
+50142601.0,8920b3deb590c3082a8372cabe68e6ac67922708,Limited novelty but useful results.,5
+2136187365.0,8920b3deb590c3082a8372cabe68e6ac67922708,Needs more empirical validation.,1
+3415792.0,f9ac8a623f436b52e744fe79f45f457ced878618,Interesting methodology.,2
+31234157.0,f9ac8a623f436b52e744fe79f45f457ced878618,Well-structured and informative.,2
+151496719.0,f9ac8a623f436b52e744fe79f45f457ced878618,Limited novelty but useful results.,5
+144053307.0,f9ac8a623f436b52e744fe79f45f457ced878618,Excellent contribution to the field.,4
+97636334.0,ce150f1082cefcdb82845fefef07fb01321d33c7,Needs more empirical validation.,5
+2107187631.0,ce150f1082cefcdb82845fefef07fb01321d33c7,Well-structured and informative.,5
+2107249774.0,ce150f1082cefcdb82845fefef07fb01321d33c7,Well-structured and informative.,3
+1850823.0,ce150f1082cefcdb82845fefef07fb01321d33c7,Interesting methodology.,1
+2152094517.0,d073ba490280df2ade4e70e969896a62e6d063ce,Limited novelty but useful results.,4
+13240712.0,d073ba490280df2ade4e70e969896a62e6d063ce,Excellent contribution to the field.,2
+22200410.0,d073ba490280df2ade4e70e969896a62e6d063ce,Interesting methodology.,2
+3479626.0,d073ba490280df2ade4e70e969896a62e6d063ce,Excellent contribution to the field.,2
+30853989.0,2e4561251785cf38d691d441a7e429e55a9dd9ac,Needs more empirical validation.,1
+2240412382.0,2e4561251785cf38d691d441a7e429e55a9dd9ac,Needs more empirical validation.,3
+50463501.0,2e4561251785cf38d691d441a7e429e55a9dd9ac,Needs more empirical validation.,3
+81348578.0,2e4561251785cf38d691d441a7e429e55a9dd9ac,Limited novelty but useful results.,3
+47989911.0,2e4561251785cf38d691d441a7e429e55a9dd9ac,Excellent contribution to the field.,1
+3415792.0,3e696e53734615c4fd43ebeccc66ab1ee924a66c,Interesting methodology.,2
+144053307.0,3e696e53734615c4fd43ebeccc66ab1ee924a66c,Needs more empirical validation.,2
+10138376.0,d5d307e4e6653b6d43464c3c517032340b0e0763,Needs more empirical validation.,1
+9386624.0,d5d307e4e6653b6d43464c3c517032340b0e0763,Interesting methodology.,5
+2989395.0,000ac127a9e270e66d99d77dd6dbf4bf5186ce52,Well-structured and informative.,3
+144840972.0,000ac127a9e270e66d99d77dd6dbf4bf5186ce52,Needs more empirical validation.,1
+2233087051.0,445c71912a718b6add8b79d01ee02aaadb51a5cb,Interesting methodology.,3
+3126897.0,445c71912a718b6add8b79d01ee02aaadb51a5cb,Needs more empirical validation.,3
+2386975.0,445c71912a718b6add8b79d01ee02aaadb51a5cb,Well-structured and informative.,5
+2054167519.0,445c71912a718b6add8b79d01ee02aaadb51a5cb,Needs more empirical validation.,3
+2212139964.0,445c71912a718b6add8b79d01ee02aaadb51a5cb,Needs more empirical validation.,1
+2275460764.0,445c71912a718b6add8b79d01ee02aaadb51a5cb,Well-structured and informative.,1
+2275465565.0,445c71912a718b6add8b79d01ee02aaadb51a5cb,Excellent contribution to the field.,5
+71773551.0,643eead5e4d0bfa8ae87311d2160535e05790f55,Limited novelty but useful results.,2
+2110802437.0,643eead5e4d0bfa8ae87311d2160535e05790f55,Interesting methodology.,1
+1780499.0,643eead5e4d0bfa8ae87311d2160535e05790f55,Excellent contribution to the field.,4
+41225353.0,8f4ab8fd013ec000ef4c092ad80673543ace5aec,Limited novelty but useful results.,4
+51148185.0,8f4ab8fd013ec000ef4c092ad80673543ace5aec,Needs more empirical validation.,4
+144664298.0,8f4ab8fd013ec000ef4c092ad80673543ace5aec,Well-structured and informative.,2
+2312762746.0,870f2c241e59ac83d84c5bff8a4c56fe39e90357,Interesting methodology.,1
+1995465.0,870f2c241e59ac83d84c5bff8a4c56fe39e90357,Interesting methodology.,1
+40575321.0,870f2c241e59ac83d84c5bff8a4c56fe39e90357,Well-structured and informative.,5
+1582373683.0,d3fc9555b45cbf3f21118fd22e530cf005c8bce6,Well-structured and informative.,5
+101690814.0,d3fc9555b45cbf3f21118fd22e530cf005c8bce6,Limited novelty but useful results.,3
+31630003.0,d3fc9555b45cbf3f21118fd22e530cf005c8bce6,Excellent contribution to the field.,4
+46229027.0,d3fc9555b45cbf3f21118fd22e530cf005c8bce6,Needs more empirical validation.,1
+2006639365.0,d3fc9555b45cbf3f21118fd22e530cf005c8bce6,Interesting methodology.,1
+2115774249.0,d3fc9555b45cbf3f21118fd22e530cf005c8bce6,Needs more empirical validation.,2
+49134181.0,d3fc9555b45cbf3f21118fd22e530cf005c8bce6,Limited novelty but useful results.,5
+144428386.0,d3fc9555b45cbf3f21118fd22e530cf005c8bce6,Excellent contribution to the field.,5
+1443838989.0,c0805c0f272f253207e02cc54076722084f41b81,Interesting methodology.,4
+1443835199.0,c0805c0f272f253207e02cc54076722084f41b81,Interesting methodology.,1
+1443834498.0,c0805c0f272f253207e02cc54076722084f41b81,Limited novelty but useful results.,1
+1443837944.0,c0805c0f272f253207e02cc54076722084f41b81,Limited novelty but useful results.,3
+2112231675.0,c0805c0f272f253207e02cc54076722084f41b81,Needs more empirical validation.,1
+97420399.0,1968d81206a3345bc41566213fe63e15ac6ff777,Well-structured and informative.,2
+2069694304.0,1968d81206a3345bc41566213fe63e15ac6ff777,Needs more empirical validation.,3
+11130594.0,e0cbad8f82752d6c8dfd5d866e70d56125a09590,Well-structured and informative.,3
+9246173.0,e0cbad8f82752d6c8dfd5d866e70d56125a09590,Interesting methodology.,1
+49329897.0,000b6bd77cb3b90c436b1e77b69354f5b41adb0e,Limited novelty but useful results.,4
+1652928715.0,000b6bd77cb3b90c436b1e77b69354f5b41adb0e,Needs more empirical validation.,3
+46572901.0,000b6bd77cb3b90c436b1e77b69354f5b41adb0e,Interesting methodology.,2
+145031580.0,000b6bd77cb3b90c436b1e77b69354f5b41adb0e,Well-structured and informative.,1
+1643876615.0,000b6bd77cb3b90c436b1e77b69354f5b41adb0e,Interesting methodology.,4
+2155554118.0,000b6bd77cb3b90c436b1e77b69354f5b41adb0e,Needs more empirical validation.,5
+2111435045.0,186aeaf08e545a62fd975ac56068d9b5f2043ad9,Needs more empirical validation.,1
+2248178756.0,186aeaf08e545a62fd975ac56068d9b5f2043ad9,Needs more empirical validation.,4
+2192664589.0,186aeaf08e545a62fd975ac56068d9b5f2043ad9,Needs more empirical validation.,5
+2218088927.0,186aeaf08e545a62fd975ac56068d9b5f2043ad9,Interesting methodology.,5
+2140049261.0,186aeaf08e545a62fd975ac56068d9b5f2043ad9,Excellent contribution to the field.,2
+2264819041.0,ef8b54c52d391b3c06099aa2265bfcd159088d24,Needs more empirical validation.,4
+2266423009.0,ef8b54c52d391b3c06099aa2265bfcd159088d24,Limited novelty but useful results.,1
+2266428217.0,ef8b54c52d391b3c06099aa2265bfcd159088d24,Excellent contribution to the field.,3
+2109693729.0,472a2bcc097f367686ac2edffff3d720babfea36,Needs more empirical validation.,2
+2213822310.0,472a2bcc097f367686ac2edffff3d720babfea36,Excellent contribution to the field.,1
+2213936366.0,472a2bcc097f367686ac2edffff3d720babfea36,Limited novelty but useful results.,4
+47421545.0,cd635c8052a68b18b1e5c16107fa688289651f1a,Interesting methodology.,4
+2153687490.0,cd635c8052a68b18b1e5c16107fa688289651f1a,Needs more empirical validation.,2
+145583986.0,cd635c8052a68b18b1e5c16107fa688289651f1a,Interesting methodology.,2
+2144438988.0,39f451a22837a0fce6946c7df3c8a7cab11771ea,Excellent contribution to the field.,2
+37829131.0,39f451a22837a0fce6946c7df3c8a7cab11771ea,Well-structured and informative.,5
+2304031.0,39f451a22837a0fce6946c7df3c8a7cab11771ea,Excellent contribution to the field.,4
+2068251206.0,39f451a22837a0fce6946c7df3c8a7cab11771ea,Limited novelty but useful results.,3
+2056029813.0,f0e8ab83768a4a8aaf319460d4a70383415a0cc8,Interesting methodology.,1
+2108748798.0,f0e8ab83768a4a8aaf319460d4a70383415a0cc8,Needs more empirical validation.,2
+3102353.0,f0e8ab83768a4a8aaf319460d4a70383415a0cc8,Limited novelty but useful results.,5
+2117989522.0,f0e8ab83768a4a8aaf319460d4a70383415a0cc8,Well-structured and informative.,3
+50591589.0,f0e8ab83768a4a8aaf319460d4a70383415a0cc8,Needs more empirical validation.,3
+2112457000.0,f0e8ab83768a4a8aaf319460d4a70383415a0cc8,Interesting methodology.,3
+1749477.0,411bae78bc9f4f26604f58e2fddd0f5aad38d95c,Needs more empirical validation.,3
+150349953.0,411bae78bc9f4f26604f58e2fddd0f5aad38d95c,Well-structured and informative.,4
+151123215.0,411bae78bc9f4f26604f58e2fddd0f5aad38d95c,Well-structured and informative.,1
+1721165.0,411bae78bc9f4f26604f58e2fddd0f5aad38d95c,Needs more empirical validation.,5
+2780667.0,411bae78bc9f4f26604f58e2fddd0f5aad38d95c,Limited novelty but useful results.,1
+35729719.0,411bae78bc9f4f26604f58e2fddd0f5aad38d95c,Interesting methodology.,1
+1696030.0,411bae78bc9f4f26604f58e2fddd0f5aad38d95c,Needs more empirical validation.,3
+1728262.0,000bc721cefe3f2ba2425e8b95b042dc1e9778f9,Excellent contribution to the field.,3
+2341041934.0,000bc721cefe3f2ba2425e8b95b042dc1e9778f9,Excellent contribution to the field.,2
+3215063.0,9f3bc4e8814d81fa278ad9baa5c3e529e079067c,Needs more empirical validation.,2
+31871632.0,9f3bc4e8814d81fa278ad9baa5c3e529e079067c,Excellent contribution to the field.,5
+7279070.0,9f3bc4e8814d81fa278ad9baa5c3e529e079067c,Limited novelty but useful results.,4
+1644635852.0,9f3bc4e8814d81fa278ad9baa5c3e529e079067c,Interesting methodology.,3
+146267713.0,9f3bc4e8814d81fa278ad9baa5c3e529e079067c,Well-structured and informative.,4
+152426179.0,9f3bc4e8814d81fa278ad9baa5c3e529e079067c,Well-structured and informative.,1
+1692790.0,9f3bc4e8814d81fa278ad9baa5c3e529e079067c,Interesting methodology.,3
+1729420201.0,b6b5bf11c18c0ef0a2cc4e2087a04fcc48648731,Needs more empirical validation.,2
+10604706.0,b6b5bf11c18c0ef0a2cc4e2087a04fcc48648731,Well-structured and informative.,5
+2112692906.0,b6b5bf11c18c0ef0a2cc4e2087a04fcc48648731,Excellent contribution to the field.,4
+2141630360.0,b6b5bf11c18c0ef0a2cc4e2087a04fcc48648731,Well-structured and informative.,3
+2141640922.0,b6b5bf11c18c0ef0a2cc4e2087a04fcc48648731,Well-structured and informative.,2
+1708491.0,b6b5bf11c18c0ef0a2cc4e2087a04fcc48648731,Limited novelty but useful results.,4
+70175077.0,17816e9666bf1b59af8dba4723246945bc251c1f,Limited novelty but useful results.,2
+33833878.0,17816e9666bf1b59af8dba4723246945bc251c1f,Limited novelty but useful results.,3
+2188449354.0,17816e9666bf1b59af8dba4723246945bc251c1f,Interesting methodology.,4
+2217670759.0,c00852e27f4bda20d9572436c4d19886a7f8aec3,Excellent contribution to the field.,1
+151498162.0,c00852e27f4bda20d9572436c4d19886a7f8aec3,Excellent contribution to the field.,2
+2248692.0,c00852e27f4bda20d9572436c4d19886a7f8aec3,Well-structured and informative.,3
+2120309280.0,c00852e27f4bda20d9572436c4d19886a7f8aec3,Needs more empirical validation.,5
+2288376751.0,c00852e27f4bda20d9572436c4d19886a7f8aec3,Needs more empirical validation.,2
+39821303.0,254b341011c8e108e6c4f25f9ecebfcf73a3c3be,Limited novelty but useful results.,4
+2360694.0,254b341011c8e108e6c4f25f9ecebfcf73a3c3be,Interesting methodology.,2
+,254b341011c8e108e6c4f25f9ecebfcf73a3c3be,Limited novelty but useful results.,4
+29811970.0,000c021cc296b72bb72fa71e3091af594a6c9c87,Limited novelty but useful results.,5
+39165583.0,000c021cc296b72bb72fa71e3091af594a6c9c87,Well-structured and informative.,2
+3328061.0,000c021cc296b72bb72fa71e3091af594a6c9c87,Needs more empirical validation.,3
+8306347.0,000c021cc296b72bb72fa71e3091af594a6c9c87,Well-structured and informative.,4
+4068708.0,ffa6358e22a4a64e405bc265ffe7af433c159891,Excellent contribution to the field.,4
+40438170.0,ffa6358e22a4a64e405bc265ffe7af433c159891,Interesting methodology.,5
+9147746.0,ffa6358e22a4a64e405bc265ffe7af433c159891,Interesting methodology.,4
+5347810.0,ffa6358e22a4a64e405bc265ffe7af433c159891,Limited novelty but useful results.,2
+23594535.0,34b6eaccd2f33fc7fa47194b80717c90ca9c39d6,Well-structured and informative.,4
+1435255302.0,991ccd62c8ad721b6d64dbc3be215f8cda060dc0,Needs more empirical validation.,2
+49866582.0,991ccd62c8ad721b6d64dbc3be215f8cda060dc0,Needs more empirical validation.,5
+5722287.0,991ccd62c8ad721b6d64dbc3be215f8cda060dc0,Excellent contribution to the field.,5
+2224491502.0,991ccd62c8ad721b6d64dbc3be215f8cda060dc0,Needs more empirical validation.,3
+47675324.0,991ccd62c8ad721b6d64dbc3be215f8cda060dc0,Interesting methodology.,3
+3433846.0,6e58d41d7753766304c26b1f4f57801996fcfc7f,Excellent contribution to the field.,1
+3332638.0,6e58d41d7753766304c26b1f4f57801996fcfc7f,Interesting methodology.,1
+2462812.0,6e58d41d7753766304c26b1f4f57801996fcfc7f,Interesting methodology.,4
+2622785.0,6e58d41d7753766304c26b1f4f57801996fcfc7f,Well-structured and informative.,1
+50451668.0,6e58d41d7753766304c26b1f4f57801996fcfc7f,Excellent contribution to the field.,1
+144368188.0,6e58d41d7753766304c26b1f4f57801996fcfc7f,Needs more empirical validation.,2
+1397412776.0,6e58d41d7753766304c26b1f4f57801996fcfc7f,Well-structured and informative.,2
+2985407.0,3ef1aa70d22148011d5fd8d05a64babd9f61c895,Interesting methodology.,4
+34564922.0,3ef1aa70d22148011d5fd8d05a64babd9f61c895,Excellent contribution to the field.,1
+3989370.0,3ef1aa70d22148011d5fd8d05a64babd9f61c895,Needs more empirical validation.,3
+2097278.0,3ef1aa70d22148011d5fd8d05a64babd9f61c895,Well-structured and informative.,4
+2792502.0,3ef1aa70d22148011d5fd8d05a64babd9f61c895,Well-structured and informative.,4
+24921137.0,3ef1aa70d22148011d5fd8d05a64babd9f61c895,Limited novelty but useful results.,5
+34189754.0,3ef1aa70d22148011d5fd8d05a64babd9f61c895,Well-structured and informative.,2
+144402064.0,3ef1aa70d22148011d5fd8d05a64babd9f61c895,Needs more empirical validation.,5
+1789459.0,3ef1aa70d22148011d5fd8d05a64babd9f61c895,Needs more empirical validation.,4
+2259522390.0,3ef1aa70d22148011d5fd8d05a64babd9f61c895,Needs more empirical validation.,1
+2580797.0,3ef1aa70d22148011d5fd8d05a64babd9f61c895,Interesting methodology.,5
+7992909.0,3ef1aa70d22148011d5fd8d05a64babd9f61c895,Limited novelty but useful results.,5
+35339352.0,3ef1aa70d22148011d5fd8d05a64babd9f61c895,Needs more empirical validation.,3
+1699926.0,3ef1aa70d22148011d5fd8d05a64babd9f61c895,Needs more empirical validation.,4
+2410201.0,3ef1aa70d22148011d5fd8d05a64babd9f61c895,Interesting methodology.,4
+34609958.0,d3249c5d09744a74f9b20cc4fef96ad19fd3ecaf,Interesting methodology.,4
+40285311.0,d3249c5d09744a74f9b20cc4fef96ad19fd3ecaf,Needs more empirical validation.,1
+6992861.0,d3249c5d09744a74f9b20cc4fef96ad19fd3ecaf,Interesting methodology.,4
+7373211.0,d3249c5d09744a74f9b20cc4fef96ad19fd3ecaf,Well-structured and informative.,5
+2099707751.0,d3249c5d09744a74f9b20cc4fef96ad19fd3ecaf,Limited novelty but useful results.,5
+3753236.0,d3249c5d09744a74f9b20cc4fef96ad19fd3ecaf,Needs more empirical validation.,1
+34914218.0,d3249c5d09744a74f9b20cc4fef96ad19fd3ecaf,Excellent contribution to the field.,4
+3879170.0,d3249c5d09744a74f9b20cc4fef96ad19fd3ecaf,Limited novelty but useful results.,5
+35057477.0,d3249c5d09744a74f9b20cc4fef96ad19fd3ecaf,Excellent contribution to the field.,4
+40318989.0,d3249c5d09744a74f9b20cc4fef96ad19fd3ecaf,Needs more empirical validation.,3
+152711734.0,d3249c5d09744a74f9b20cc4fef96ad19fd3ecaf,Excellent contribution to the field.,1
+2302598291.0,e59ad10bd9048e0ccfc93a518387a132c23a79a9,Interesting methodology.,3
+2149654730.0,e59ad10bd9048e0ccfc93a518387a132c23a79a9,Excellent contribution to the field.,1
+2193621733.0,000ce80a8d4b0cf6be199cf97d8912b9dc9b44b2,Well-structured and informative.,2
+1808054.0,000ce80a8d4b0cf6be199cf97d8912b9dc9b44b2,Interesting methodology.,1
+2729535.0,000ce80a8d4b0cf6be199cf97d8912b9dc9b44b2,Needs more empirical validation.,4
+17922538.0,000ce80a8d4b0cf6be199cf97d8912b9dc9b44b2,Excellent contribution to the field.,3
+2199592928.0,000ce80a8d4b0cf6be199cf97d8912b9dc9b44b2,Needs more empirical validation.,3
+2109394807.0,000ce80a8d4b0cf6be199cf97d8912b9dc9b44b2,Excellent contribution to the field.,2
+1394853797.0,309632fe3feee8f85b2ca98772bce31b2a3ede06,Well-structured and informative.,5
+2308379327.0,309632fe3feee8f85b2ca98772bce31b2a3ede06,Interesting methodology.,4
+2293773851.0,309632fe3feee8f85b2ca98772bce31b2a3ede06,Limited novelty but useful results.,2
+48588429.0,9b48f505f41e22b37201a841a15ba69b6e78cadb,Needs more empirical validation.,2
+2287828369.0,9b48f505f41e22b37201a841a15ba69b6e78cadb,Interesting methodology.,5
+2301263429.0,9b48f505f41e22b37201a841a15ba69b6e78cadb,Excellent contribution to the field.,2
+2224149791.0,9b48f505f41e22b37201a841a15ba69b6e78cadb,Excellent contribution to the field.,1
+2241567710.0,9b48f505f41e22b37201a841a15ba69b6e78cadb,Excellent contribution to the field.,2
+2266224095.0,9b48f505f41e22b37201a841a15ba69b6e78cadb,Excellent contribution to the field.,4
+2239164989.0,9b48f505f41e22b37201a841a15ba69b6e78cadb,Needs more empirical validation.,4
+1380210582.0,000d02535797fd8ca7b0f04edcbf356e089a5338,Limited novelty but useful results.,5
+2224850812.0,000d02535797fd8ca7b0f04edcbf356e089a5338,Well-structured and informative.,1
+2266393147.0,000d02535797fd8ca7b0f04edcbf356e089a5338,Needs more empirical validation.,4
+2158038131.0,000d02535797fd8ca7b0f04edcbf356e089a5338,Excellent contribution to the field.,5
+2224871422.0,000d02535797fd8ca7b0f04edcbf356e089a5338,Limited novelty but useful results.,4
+2737115.0,000d0f73efd55bfaf20386ceefbdd567bb09524c,Interesting methodology.,4
+40446561.0,000d0f73efd55bfaf20386ceefbdd567bb09524c,Excellent contribution to the field.,3
+2074183.0,000d0f73efd55bfaf20386ceefbdd567bb09524c,Limited novelty but useful results.,5
+49889222.0,000d0f73efd55bfaf20386ceefbdd567bb09524c,Excellent contribution to the field.,4
+2129552805.0,31a2887c35ca62a31349f45c4856e7e0a200759f,Well-structured and informative.,3
+144422851.0,31a2887c35ca62a31349f45c4856e7e0a200759f,Limited novelty but useful results.,4
+51305157.0,31a2887c35ca62a31349f45c4856e7e0a200759f,Well-structured and informative.,1
+31945834.0,31a2887c35ca62a31349f45c4856e7e0a200759f,Needs more empirical validation.,2
+7387549.0,31a2887c35ca62a31349f45c4856e7e0a200759f,Limited novelty but useful results.,4
+40504639.0,f6c9b52a78ab2cd4788d49d2d7a61627bec2b3c3,Interesting methodology.,1
+2110321280.0,f6c9b52a78ab2cd4788d49d2d7a61627bec2b3c3,Excellent contribution to the field.,5
+2045328466.0,f6c9b52a78ab2cd4788d49d2d7a61627bec2b3c3,Limited novelty but useful results.,2
+2145179631.0,f6c9b52a78ab2cd4788d49d2d7a61627bec2b3c3,Interesting methodology.,1
+2108528093.0,f6c9b52a78ab2cd4788d49d2d7a61627bec2b3c3,Limited novelty but useful results.,4
+49227857.0,f6c9b52a78ab2cd4788d49d2d7a61627bec2b3c3,Limited novelty but useful results.,4
+144127187.0,3e99f59092557dc008fc0bee3b5749580cc96c43,Interesting methodology.,2
+2001430.0,3e99f59092557dc008fc0bee3b5749580cc96c43,Limited novelty but useful results.,3
+3105567.0,3e99f59092557dc008fc0bee3b5749580cc96c43,Needs more empirical validation.,4
+2068237073.0,0287899b197e373ec6679f434396e226fe4e0ce5,Well-structured and informative.,1
+2151977879.0,0287899b197e373ec6679f434396e226fe4e0ce5,Limited novelty but useful results.,5
+2108862160.0,0287899b197e373ec6679f434396e226fe4e0ce5,Interesting methodology.,1
+49420283.0,6889a0eac30cfcd5b9679ba4398ea482f5dfecce,Needs more empirical validation.,4
+2110858505.0,6889a0eac30cfcd5b9679ba4398ea482f5dfecce,Excellent contribution to the field.,3
+2631604.0,081d31827f8ac4aa08eb63ce7acecf23fa775e6d,Needs more empirical validation.,3
+24930472.0,081d31827f8ac4aa08eb63ce7acecf23fa775e6d,Well-structured and informative.,4
+144993939.0,081d31827f8ac4aa08eb63ce7acecf23fa775e6d,Needs more empirical validation.,4
+145122221.0,081d31827f8ac4aa08eb63ce7acecf23fa775e6d,Well-structured and informative.,3
+2631604.0,ba44d5ca40bc4f5b3e8df83c0aefdc7d6a5d09c6,Limited novelty but useful results.,5
+24872217.0,ba44d5ca40bc4f5b3e8df83c0aefdc7d6a5d09c6,Excellent contribution to the field.,5
+144993939.0,ba44d5ca40bc4f5b3e8df83c0aefdc7d6a5d09c6,Excellent contribution to the field.,1
+24930472.0,ba44d5ca40bc4f5b3e8df83c0aefdc7d6a5d09c6,Well-structured and informative.,3
+145122221.0,ba44d5ca40bc4f5b3e8df83c0aefdc7d6a5d09c6,Limited novelty but useful results.,5
+49039276.0,000d21240aff6bc045cb81755b532552432fdb69,Excellent contribution to the field.,4
+145309490.0,000d21240aff6bc045cb81755b532552432fdb69,Limited novelty but useful results.,3
+1741829.0,000d21240aff6bc045cb81755b532552432fdb69,Limited novelty but useful results.,3
+52174183.0,000d21240aff6bc045cb81755b532552432fdb69,Limited novelty but useful results.,5
+50322456.0,36a1d00f5a77b47ba7ebb5c51578f1dc3f0f7256,Excellent contribution to the field.,2
+2237952223.0,36a1d00f5a77b47ba7ebb5c51578f1dc3f0f7256,Interesting methodology.,1
+2307928585.0,36a1d00f5a77b47ba7ebb5c51578f1dc3f0f7256,Interesting methodology.,4
+48569168.0,36a1d00f5a77b47ba7ebb5c51578f1dc3f0f7256,Limited novelty but useful results.,4
+2237945971.0,36a1d00f5a77b47ba7ebb5c51578f1dc3f0f7256,Excellent contribution to the field.,3
+2286537928.0,36a1d00f5a77b47ba7ebb5c51578f1dc3f0f7256,Excellent contribution to the field.,5
+2282238151.0,36a1d00f5a77b47ba7ebb5c51578f1dc3f0f7256,Limited novelty but useful results.,2
+2237133208.0,36a1d00f5a77b47ba7ebb5c51578f1dc3f0f7256,Well-structured and informative.,5
+2238183604.0,6aa08ece7113d0bbf96644e3a61f5be416f4358f,Interesting methodology.,3
+2249753104.0,6aa08ece7113d0bbf96644e3a61f5be416f4358f,Needs more empirical validation.,1
+2284062432.0,6aa08ece7113d0bbf96644e3a61f5be416f4358f,Limited novelty but useful results.,1
+2284299482.0,6aa08ece7113d0bbf96644e3a61f5be416f4358f,Well-structured and informative.,4
+2265482139.0,6aa08ece7113d0bbf96644e3a61f5be416f4358f,Excellent contribution to the field.,1
+2303300646.0,6aa08ece7113d0bbf96644e3a61f5be416f4358f,Excellent contribution to the field.,5
+2047367251.0,6aa08ece7113d0bbf96644e3a61f5be416f4358f,Well-structured and informative.,3
+2303496429.0,6aa08ece7113d0bbf96644e3a61f5be416f4358f,Limited novelty but useful results.,2
+2303320787.0,6aa08ece7113d0bbf96644e3a61f5be416f4358f,Excellent contribution to the field.,4
+2265488199.0,6aa08ece7113d0bbf96644e3a61f5be416f4358f,Limited novelty but useful results.,1
+150061884.0,ab4249e9f758ede75ee22ccf28d3717c418072e6,Excellent contribution to the field.,3
+9732252.0,ab4249e9f758ede75ee22ccf28d3717c418072e6,Needs more empirical validation.,4
+8713362.0,ab4249e9f758ede75ee22ccf28d3717c418072e6,Needs more empirical validation.,1
+2237081674.0,ab4249e9f758ede75ee22ccf28d3717c418072e6,Interesting methodology.,5
+2233724.0,ab4249e9f758ede75ee22ccf28d3717c418072e6,Excellent contribution to the field.,4
+30479205.0,ab4249e9f758ede75ee22ccf28d3717c418072e6,Excellent contribution to the field.,4
+2171746590.0,ab4249e9f758ede75ee22ccf28d3717c418072e6,Needs more empirical validation.,5
+2288313434.0,ab4249e9f758ede75ee22ccf28d3717c418072e6,Limited novelty but useful results.,1
+1760292.0,ab4249e9f758ede75ee22ccf28d3717c418072e6,Well-structured and informative.,2
+1380264987.0,ab4249e9f758ede75ee22ccf28d3717c418072e6,Needs more empirical validation.,1
+2283589352.0,26e9d0f6e68faccca757e4f0c0a93b5ed4494074,Needs more empirical validation.,5
+2283590134.0,26e9d0f6e68faccca757e4f0c0a93b5ed4494074,Well-structured and informative.,3
+2283588819.0,26e9d0f6e68faccca757e4f0c0a93b5ed4494074,Excellent contribution to the field.,5
+145189138.0,000d797e163371d16daeaec893cf4d6e37003db2,Limited novelty but useful results.,4
+143874350.0,000d797e163371d16daeaec893cf4d6e37003db2,Excellent contribution to the field.,5
+2205704.0,000d797e163371d16daeaec893cf4d6e37003db2,Excellent contribution to the field.,1
+1734579.0,000d797e163371d16daeaec893cf4d6e37003db2,Well-structured and informative.,3
+144090937.0,000d797e163371d16daeaec893cf4d6e37003db2,Limited novelty but useful results.,2
+145189138.0,159a99b5af3260ab571dc86010e6576e101544d0,Interesting methodology.,1
+1397875622.0,159a99b5af3260ab571dc86010e6576e101544d0,Interesting methodology.,2
+50061154.0,159a99b5af3260ab571dc86010e6576e101544d0,Limited novelty but useful results.,2
+143874350.0,159a99b5af3260ab571dc86010e6576e101544d0,Limited novelty but useful results.,2
+2093067.0,159a99b5af3260ab571dc86010e6576e101544d0,Needs more empirical validation.,3
+31404280.0,377d44f890140e0dcd36fa32290b3814d666f2b6,Limited novelty but useful results.,4
+1712131.0,377d44f890140e0dcd36fa32290b3814d666f2b6,Excellent contribution to the field.,1
+40995688.0,377d44f890140e0dcd36fa32290b3814d666f2b6,Well-structured and informative.,4
+1787136.0,377d44f890140e0dcd36fa32290b3814d666f2b6,Needs more empirical validation.,5
+143874350.0,377d44f890140e0dcd36fa32290b3814d666f2b6,Excellent contribution to the field.,5
+144090937.0,377d44f890140e0dcd36fa32290b3814d666f2b6,Needs more empirical validation.,1
+1734579.0,377d44f890140e0dcd36fa32290b3814d666f2b6,Needs more empirical validation.,3
+40992794.0,377d44f890140e0dcd36fa32290b3814d666f2b6,Excellent contribution to the field.,5
+9081907.0,000db9915add5a825b593326acc98f24775f776e,Excellent contribution to the field.,4
+3287693.0,000db9915add5a825b593326acc98f24775f776e,Well-structured and informative.,5
+3132058.0,000db9915add5a825b593326acc98f24775f776e,Well-structured and informative.,2
+40118887.0,000db9915add5a825b593326acc98f24775f776e,Well-structured and informative.,3
+144313209.0,7472ff8b09063a2e2d5aa43d8305ed7060b1eeb5,Interesting methodology.,1
+2108651594.0,7472ff8b09063a2e2d5aa43d8305ed7060b1eeb5,Limited novelty but useful results.,3
+2145268089.0,7472ff8b09063a2e2d5aa43d8305ed7060b1eeb5,Interesting methodology.,1
+3445903.0,79b2367b4ad78cd22eb5c9e1f6a81620077d084b,Needs more empirical validation.,4
+3010687.0,79b2367b4ad78cd22eb5c9e1f6a81620077d084b,Limited novelty but useful results.,4
+30560416.0,eb009311ec785844e49ac3bc24c23e3c21007efe,Limited novelty but useful results.,5
+31532029.0,eb009311ec785844e49ac3bc24c23e3c21007efe,Limited novelty but useful results.,4
+32392216.0,eb009311ec785844e49ac3bc24c23e3c21007efe,Well-structured and informative.,4
+31246215.0,eb009311ec785844e49ac3bc24c23e3c21007efe,Well-structured and informative.,3
+2197089945.0,553f14bca493edf3de05af576bd68044ee79c20f,Excellent contribution to the field.,1
+3287693.0,553f14bca493edf3de05af576bd68044ee79c20f,Interesting methodology.,5
+1908321.0,2808f416ce680be15e36576c65acd50622c19ff0,Interesting methodology.,4
+51304741.0,2808f416ce680be15e36576c65acd50622c19ff0,Interesting methodology.,2
+51287766.0,2808f416ce680be15e36576c65acd50622c19ff0,Needs more empirical validation.,1
+2151811163.0,2cc40447281b4d8604c7c7dda22c5ecb53812e73,Well-structured and informative.,2
+50164908.0,2cc40447281b4d8604c7c7dda22c5ecb53812e73,Well-structured and informative.,3
+1861844.0,2cc40447281b4d8604c7c7dda22c5ecb53812e73,Well-structured and informative.,5
+33128245.0,2cc40447281b4d8604c7c7dda22c5ecb53812e73,Needs more empirical validation.,1
+2119314601.0,2cc40447281b4d8604c7c7dda22c5ecb53812e73,Interesting methodology.,1
+71108856.0,000e2688b1830dc2b4c7d9cd54447d5759ceadde,Limited novelty but useful results.,1
+2302274495.0,000e2688b1830dc2b4c7d9cd54447d5759ceadde,Limited novelty but useful results.,4
+2287511219.0,9badb1277c4ad05546629e7e540e0fb9b9929576,Interesting methodology.,5
+2287502472.0,9badb1277c4ad05546629e7e540e0fb9b9929576,Limited novelty but useful results.,2
+,9badb1277c4ad05546629e7e540e0fb9b9929576,Excellent contribution to the field.,2
+2123848309.0,9badb1277c4ad05546629e7e540e0fb9b9929576,Needs more empirical validation.,2
+2123848287.0,9badb1277c4ad05546629e7e540e0fb9b9929576,Needs more empirical validation.,4
+102566250.0,2e4dea5d2d4dc047e77a0b7f809259e6a20df556,Limited novelty but useful results.,5
+38384230.0,2e4dea5d2d4dc047e77a0b7f809259e6a20df556,Limited novelty but useful results.,4
+97437767.0,2e4dea5d2d4dc047e77a0b7f809259e6a20df556,Excellent contribution to the field.,2
+2519125.0,000f18a98b1a305d5ff07972b2a63849f9b26908,Limited novelty but useful results.,4
+1888818.0,000f18a98b1a305d5ff07972b2a63849f9b26908,Well-structured and informative.,1
+2744545.0,000f18a98b1a305d5ff07972b2a63849f9b26908,Well-structured and informative.,1
+1840375.0,000f18a98b1a305d5ff07972b2a63849f9b26908,Excellent contribution to the field.,1
+1722513.0,000f18a98b1a305d5ff07972b2a63849f9b26908,Well-structured and informative.,5
+2108193065.0,8d42fb68be9c84cdf238ab177ce6650e01821549,Excellent contribution to the field.,4
+32482326.0,8d42fb68be9c84cdf238ab177ce6650e01821549,Interesting methodology.,1
+1957040.0,8d42fb68be9c84cdf238ab177ce6650e01821549,Well-structured and informative.,5
+3451123.0,a4499adb70b2e62991e79902e5a4199c2083edf6,Excellent contribution to the field.,1
+2143541556.0,a4499adb70b2e62991e79902e5a4199c2083edf6,Interesting methodology.,2
+1738293134.0,a4499adb70b2e62991e79902e5a4199c2083edf6,Excellent contribution to the field.,2
+2061479319.0,a4499adb70b2e62991e79902e5a4199c2083edf6,Interesting methodology.,2
+1957040.0,a4499adb70b2e62991e79902e5a4199c2083edf6,Interesting methodology.,3
+1722513.0,a4499adb70b2e62991e79902e5a4199c2083edf6,Excellent contribution to the field.,1
+37472987.0,c9a91a893d6b02ff19854a8cdbfe6e7cec5e4f0d,Interesting methodology.,2
+49773674.0,c9a91a893d6b02ff19854a8cdbfe6e7cec5e4f0d,Well-structured and informative.,1
+8855702.0,afbbd472d04b1c1051b70f2ec245dd9cae9d7930,Interesting methodology.,2
+40881092.0,afbbd472d04b1c1051b70f2ec245dd9cae9d7930,Interesting methodology.,4
+3451123.0,afbbd472d04b1c1051b70f2ec245dd9cae9d7930,Well-structured and informative.,3
+2146207225.0,afbbd472d04b1c1051b70f2ec245dd9cae9d7930,Excellent contribution to the field.,2
+40880270.0,afbbd472d04b1c1051b70f2ec245dd9cae9d7930,Excellent contribution to the field.,2
+1722513.0,afbbd472d04b1c1051b70f2ec245dd9cae9d7930,Well-structured and informative.,3
+1709408.0,305826910778ccbb0c39d830e90913a1fcef6c57,Excellent contribution to the field.,5
+1695853.0,305826910778ccbb0c39d830e90913a1fcef6c57,Needs more empirical validation.,2
+51470468.0,305826910778ccbb0c39d830e90913a1fcef6c57,Needs more empirical validation.,5
+2609324.0,305826910778ccbb0c39d830e90913a1fcef6c57,Interesting methodology.,3
+1402189178.0,305826910778ccbb0c39d830e90913a1fcef6c57,Interesting methodology.,4
+38407187.0,305826910778ccbb0c39d830e90913a1fcef6c57,Limited novelty but useful results.,4
+47770695.0,305826910778ccbb0c39d830e90913a1fcef6c57,Excellent contribution to the field.,1
+1421194792.0,305826910778ccbb0c39d830e90913a1fcef6c57,Well-structured and informative.,1
+116611083.0,305826910778ccbb0c39d830e90913a1fcef6c57,Interesting methodology.,4
+2300298.0,305826910778ccbb0c39d830e90913a1fcef6c57,Excellent contribution to the field.,3
+9941473.0,305826910778ccbb0c39d830e90913a1fcef6c57,Well-structured and informative.,5
+2078614166.0,305826910778ccbb0c39d830e90913a1fcef6c57,Limited novelty but useful results.,5
+3360674.0,305826910778ccbb0c39d830e90913a1fcef6c57,Well-structured and informative.,5
+47757869.0,305826910778ccbb0c39d830e90913a1fcef6c57,Limited novelty but useful results.,5
+1417469120.0,305826910778ccbb0c39d830e90913a1fcef6c57,Limited novelty but useful results.,5
+144690860.0,305826910778ccbb0c39d830e90913a1fcef6c57,Well-structured and informative.,2
+82486328.0,305826910778ccbb0c39d830e90913a1fcef6c57,Needs more empirical validation.,2
+2827326.0,305826910778ccbb0c39d830e90913a1fcef6c57,Interesting methodology.,2
+98043161.0,6b6cc76db0fd967f763502e0e9455e3acbba8ef4,Excellent contribution to the field.,5
+3379502.0,6b6cc76db0fd967f763502e0e9455e3acbba8ef4,Well-structured and informative.,4
+98043161.0,474bc7708af82585aefdb9c402acb5cc1d1e4c5c,Interesting methodology.,2
+3379502.0,474bc7708af82585aefdb9c402acb5cc1d1e4c5c,Well-structured and informative.,2
+8632321.0,34546f41d8a06e37a651f86b3a23ad7c16023348,Well-structured and informative.,2
+47045246.0,34546f41d8a06e37a651f86b3a23ad7c16023348,Interesting methodology.,1
+144637246.0,34546f41d8a06e37a651f86b3a23ad7c16023348,Interesting methodology.,2
+4429539.0,616717b3467f03fe106446e6c2ee15e875087d4b,Well-structured and informative.,3
+11411544.0,616717b3467f03fe106446e6c2ee15e875087d4b,Well-structured and informative.,2
+2281781596.0,616717b3467f03fe106446e6c2ee15e875087d4b,Interesting methodology.,3
+144666084.0,616717b3467f03fe106446e6c2ee15e875087d4b,Well-structured and informative.,5
+31102349.0,c2335c67d9d40444232234ed34208742678676b6,Interesting methodology.,3
+9134532.0,c2335c67d9d40444232234ed34208742678676b6,Interesting methodology.,2
+103369396.0,c2335c67d9d40444232234ed34208742678676b6,Needs more empirical validation.,2
+3338497.0,c2335c67d9d40444232234ed34208742678676b6,Well-structured and informative.,1
+2795986.0,000f8fb442e7eee012c43f4c0a123ae060af645b,Well-structured and informative.,5
+1844816.0,8ec7fb565aedf9f583d0e2b328b7541e549484fa,Interesting methodology.,4
+2056433522.0,8ec7fb565aedf9f583d0e2b328b7541e549484fa,Limited novelty but useful results.,3
+145140106.0,8ec7fb565aedf9f583d0e2b328b7541e549484fa,Limited novelty but useful results.,1
+143709703.0,8ec7fb565aedf9f583d0e2b328b7541e549484fa,Interesting methodology.,4
+1736838.0,ec9a3ff3df59ed0769dda084a1ca654b67fe8b37,Well-structured and informative.,1
+2345395321.0,00102c0a275cfd235e1e2af44ea94a3ba5ead870,Well-structured and informative.,4
+49632828.0,00102c0a275cfd235e1e2af44ea94a3ba5ead870,Well-structured and informative.,2
+2711601.0,00102c0a275cfd235e1e2af44ea94a3ba5ead870,Well-structured and informative.,1
+1820776989.0,7ebff41444a4deaf34f4d233e121ba8bfd273580,Well-structured and informative.,4
+2218446983.0,7ebff41444a4deaf34f4d233e121ba8bfd273580,Limited novelty but useful results.,2
+1807620.0,7ebff41444a4deaf34f4d233e121ba8bfd273580,Well-structured and informative.,1
+1711271.0,7ebff41444a4deaf34f4d233e121ba8bfd273580,Well-structured and informative.,3
+2346325829.0,32ceeea93337692adee627df8f02115d913d084c,Interesting methodology.,2
+2067771282.0,32ceeea93337692adee627df8f02115d913d084c,Interesting methodology.,5
+46447254.0,32ceeea93337692adee627df8f02115d913d084c,Interesting methodology.,4
+93318142.0,fc075ef7923d4299c503abd59d2952c66b0d3f1f,Limited novelty but useful results.,1
+2217907653.0,fc075ef7923d4299c503abd59d2952c66b0d3f1f,Limited novelty but useful results.,4
+32008190.0,fc075ef7923d4299c503abd59d2952c66b0d3f1f,Limited novelty but useful results.,3
+92847932.0,fc075ef7923d4299c503abd59d2952c66b0d3f1f,Well-structured and informative.,2
+2119273332.0,fc075ef7923d4299c503abd59d2952c66b0d3f1f,Excellent contribution to the field.,3
+2185358764.0,fc075ef7923d4299c503abd59d2952c66b0d3f1f,Excellent contribution to the field.,2
+2107646088.0,fc075ef7923d4299c503abd59d2952c66b0d3f1f,Interesting methodology.,5
+2233541007.0,fc075ef7923d4299c503abd59d2952c66b0d3f1f,Excellent contribution to the field.,5
+2185344138.0,fc075ef7923d4299c503abd59d2952c66b0d3f1f,Limited novelty but useful results.,3
+2067297189.0,c11ef1a6ed5588a1945d7dedf3bc3b1b670f0d18,Interesting methodology.,1
+51265125.0,c11ef1a6ed5588a1945d7dedf3bc3b1b670f0d18,Interesting methodology.,3
+1910686.0,c11ef1a6ed5588a1945d7dedf3bc3b1b670f0d18,Limited novelty but useful results.,2
+37860402.0,c11ef1a6ed5588a1945d7dedf3bc3b1b670f0d18,Limited novelty but useful results.,2
+144925475.0,001052d42535c0f72d748b37076e71ced3a61f1f,Needs more empirical validation.,5
+2066416221.0,001052d42535c0f72d748b37076e71ced3a61f1f,Well-structured and informative.,4
+3004362.0,001052d42535c0f72d748b37076e71ced3a61f1f,Needs more empirical validation.,2
+2886828.0,907fbb97d6a26ddc12d8880f0639318f29c065b4,Excellent contribution to the field.,4
+46347441.0,907fbb97d6a26ddc12d8880f0639318f29c065b4,Interesting methodology.,2
+3309591.0,907fbb97d6a26ddc12d8880f0639318f29c065b4,Needs more empirical validation.,1
+1721034485.0,907fbb97d6a26ddc12d8880f0639318f29c065b4,Interesting methodology.,5
+144925475.0,0e17628697b215262db6755939b92e8400575f6e,Excellent contribution to the field.,1
+145649739.0,0e17628697b215262db6755939b92e8400575f6e,Excellent contribution to the field.,2
+3004362.0,0e17628697b215262db6755939b92e8400575f6e,Excellent contribution to the field.,2
+49469977.0,0010963f374d625ad7fb42b64eb30de2244863d5,Excellent contribution to the field.,3
+66063851.0,0010963f374d625ad7fb42b64eb30de2244863d5,Well-structured and informative.,3
+145292435.0,0010963f374d625ad7fb42b64eb30de2244863d5,Limited novelty but useful results.,1
+91353860.0,0010963f374d625ad7fb42b64eb30de2244863d5,Excellent contribution to the field.,4
+2108716433.0,a1fac1c5fe5e09f8e5c0dd6acb314a373f766ba9,Needs more empirical validation.,4
+2036399110.0,a1fac1c5fe5e09f8e5c0dd6acb314a373f766ba9,Excellent contribution to the field.,1
+2204802757.0,a1fac1c5fe5e09f8e5c0dd6acb314a373f766ba9,Needs more empirical validation.,2
+2031124916.0,a1fac1c5fe5e09f8e5c0dd6acb314a373f766ba9,Interesting methodology.,1
+50061551.0,a1fac1c5fe5e09f8e5c0dd6acb314a373f766ba9,Limited novelty but useful results.,4
+2220070414.0,a1fac1c5fe5e09f8e5c0dd6acb314a373f766ba9,Needs more empirical validation.,3
+145199941.0,a1fac1c5fe5e09f8e5c0dd6acb314a373f766ba9,Excellent contribution to the field.,3
+66063851.0,63dacdaab9261059dfcb0c76a96f067ae3043649,Well-structured and informative.,1
+49469977.0,63dacdaab9261059dfcb0c76a96f067ae3043649,Interesting methodology.,4
+2167115517.0,63dacdaab9261059dfcb0c76a96f067ae3043649,Needs more empirical validation.,5
+1518658213.0,63dacdaab9261059dfcb0c76a96f067ae3043649,Limited novelty but useful results.,3
+145292435.0,63dacdaab9261059dfcb0c76a96f067ae3043649,Limited novelty but useful results.,5
+91353860.0,63dacdaab9261059dfcb0c76a96f067ae3043649,Excellent contribution to the field.,4
+144137069.0,0010fabe2a25b36c5bcf6057baafb61a40e37e3b,Interesting methodology.,2
+144718788.0,0010fabe2a25b36c5bcf6057baafb61a40e37e3b,Interesting methodology.,5
+1395813836.0,0010fabe2a25b36c5bcf6057baafb61a40e37e3b,Interesting methodology.,3
+1748051.0,0010fabe2a25b36c5bcf6057baafb61a40e37e3b,Interesting methodology.,5
+46963731.0,564992c12097a87c279a90a1459eb72bbd007090,Interesting methodology.,1
+66879943.0,564992c12097a87c279a90a1459eb72bbd007090,Needs more empirical validation.,3
+3381663.0,564992c12097a87c279a90a1459eb72bbd007090,Excellent contribution to the field.,3
+1747849.0,564992c12097a87c279a90a1459eb72bbd007090,Well-structured and informative.,3
+145762466.0,564992c12097a87c279a90a1459eb72bbd007090,Limited novelty but useful results.,4
+3449407.0,14c940926a046e6c33cc4eca9ea73cac1bcfa347,Limited novelty but useful results.,3
+2093471065.0,14c940926a046e6c33cc4eca9ea73cac1bcfa347,Limited novelty but useful results.,2
+32219881.0,14c940926a046e6c33cc4eca9ea73cac1bcfa347,Excellent contribution to the field.,1
+82290814.0,14c940926a046e6c33cc4eca9ea73cac1bcfa347,Well-structured and informative.,4
+34808625.0,14c940926a046e6c33cc4eca9ea73cac1bcfa347,Well-structured and informative.,4
+1723636206.0,14c940926a046e6c33cc4eca9ea73cac1bcfa347,Excellent contribution to the field.,2
+2033743103.0,14c940926a046e6c33cc4eca9ea73cac1bcfa347,Well-structured and informative.,5
+2936411.0,14c940926a046e6c33cc4eca9ea73cac1bcfa347,Limited novelty but useful results.,5
+2022124.0,14c940926a046e6c33cc4eca9ea73cac1bcfa347,Interesting methodology.,1
+66879943.0,d29036946152bddf950fec7a08c2828a8a8f902e,Limited novelty but useful results.,4
+1666177566.0,d29036946152bddf950fec7a08c2828a8a8f902e,Limited novelty but useful results.,3
+46963731.0,d29036946152bddf950fec7a08c2828a8a8f902e,Excellent contribution to the field.,4
+3381663.0,d29036946152bddf950fec7a08c2828a8a8f902e,Well-structured and informative.,2
+145762466.0,d29036946152bddf950fec7a08c2828a8a8f902e,Well-structured and informative.,3
+1747849.0,d29036946152bddf950fec7a08c2828a8a8f902e,Well-structured and informative.,3
+20662387.0,aee8581c60d8c812bd31503fab00f9df8d88a766,Interesting methodology.,3
+1747893.0,aee8581c60d8c812bd31503fab00f9df8d88a766,Interesting methodology.,5
+2058349088.0,b79c4a24fec1d5ff6a6a41b3c8658450357de2c3,Well-structured and informative.,4
+1500528818.0,b79c4a24fec1d5ff6a6a41b3c8658450357de2c3,Well-structured and informative.,2
+1753096.0,b79c4a24fec1d5ff6a6a41b3c8658450357de2c3,Well-structured and informative.,5
+47210642.0,9c49cdf0ac4665b320262156eb19bf2e39cb1bb4,Well-structured and informative.,5
+2058958734.0,9c49cdf0ac4665b320262156eb19bf2e39cb1bb4,Interesting methodology.,1
+39674628.0,9c49cdf0ac4665b320262156eb19bf2e39cb1bb4,Needs more empirical validation.,3
+3466272.0,f9d4012dc9e6a97328ba674bf5edcc564b3de54d,Interesting methodology.,3
+2065549193.0,f9d4012dc9e6a97328ba674bf5edcc564b3de54d,Interesting methodology.,5
+2065824446.0,f9d4012dc9e6a97328ba674bf5edcc564b3de54d,Needs more empirical validation.,1
+2064172851.0,f9d4012dc9e6a97328ba674bf5edcc564b3de54d,Well-structured and informative.,3
+37411114.0,f9d4012dc9e6a97328ba674bf5edcc564b3de54d,Excellent contribution to the field.,2
+2973433.0,72260ed4fcb8390c27bf10048ca58849c63bc342,Well-structured and informative.,4
+3025472.0,72260ed4fcb8390c27bf10048ca58849c63bc342,Well-structured and informative.,2
+48594686.0,001188339c776654004094183ab01c3e67e48a43,Well-structured and informative.,1
+2145894805.0,001188339c776654004094183ab01c3e67e48a43,Well-structured and informative.,2
+9152088.0,001188339c776654004094183ab01c3e67e48a43,Limited novelty but useful results.,1
+89820401.0,54662da5de373d5bfc2c4f6144303d53c17f7006,Limited novelty but useful results.,4
+71544601.0,54662da5de373d5bfc2c4f6144303d53c17f7006,Interesting methodology.,3
+50562121.0,54662da5de373d5bfc2c4f6144303d53c17f7006,Needs more empirical validation.,4
+29870338.0,54662da5de373d5bfc2c4f6144303d53c17f7006,Limited novelty but useful results.,4
+2188021634.0,54662da5de373d5bfc2c4f6144303d53c17f7006,Interesting methodology.,1
+145137363.0,2ba2ca5d1ff7532a987ca5e4224e257b32f5e140,Needs more empirical validation.,4
+2231645.0,2ba2ca5d1ff7532a987ca5e4224e257b32f5e140,Well-structured and informative.,4
+144129346.0,702d3bbc9f64c7d7f6c3be5d122ec27415b0952f,Well-structured and informative.,1
+153753899.0,702d3bbc9f64c7d7f6c3be5d122ec27415b0952f,Needs more empirical validation.,1
+2387411.0,702d3bbc9f64c7d7f6c3be5d122ec27415b0952f,Limited novelty but useful results.,2
+143821170.0,702d3bbc9f64c7d7f6c3be5d122ec27415b0952f,Excellent contribution to the field.,5
+2084787.0,12fc3be3e509f873e464f52440482cc4aa711dcf,Excellent contribution to the field.,4
+2264186.0,12fc3be3e509f873e464f52440482cc4aa711dcf,Needs more empirical validation.,3
+3081044.0,12fc3be3e509f873e464f52440482cc4aa711dcf,Excellent contribution to the field.,3
+144182746.0,12fc3be3e509f873e464f52440482cc4aa711dcf,Limited novelty but useful results.,1
+9428697.0,0011a555a82a60a71dd70076bcdd0f23402e7d7c,Limited novelty but useful results.,4
+2297981221.0,4cbaf5067f3e62bdc5fd07d0acefa0b2aed7aaee,Needs more empirical validation.,2
+2297982429.0,4cbaf5067f3e62bdc5fd07d0acefa0b2aed7aaee,Excellent contribution to the field.,5
+2236845573.0,4cbaf5067f3e62bdc5fd07d0acefa0b2aed7aaee,Needs more empirical validation.,5
+2242098286.0,4cbaf5067f3e62bdc5fd07d0acefa0b2aed7aaee,Interesting methodology.,3
+3246790.0,4cbaf5067f3e62bdc5fd07d0acefa0b2aed7aaee,Well-structured and informative.,2
+145212653.0,d0ec065f7f3a7239612de00859b75efabd3c9f7f,Needs more empirical validation.,5
+1419882928.0,d0ec065f7f3a7239612de00859b75efabd3c9f7f,Well-structured and informative.,3
+1455982442.0,d0ec065f7f3a7239612de00859b75efabd3c9f7f,Limited novelty but useful results.,1
+2172495962.0,d0ec065f7f3a7239612de00859b75efabd3c9f7f,Interesting methodology.,4
+32320216.0,4f85463b404876bc2d21a8f108817d25ca6288af,Interesting methodology.,1
+152171655.0,4f85463b404876bc2d21a8f108817d25ca6288af,Limited novelty but useful results.,1
+144256139.0,4f85463b404876bc2d21a8f108817d25ca6288af,Interesting methodology.,5
+1388497426.0,4f85463b404876bc2d21a8f108817d25ca6288af,Excellent contribution to the field.,3
+1961336197.0,28dc34d817fe7047343f7a125b4ecf5379c2ca81,Well-structured and informative.,2
+34598977.0,28dc34d817fe7047343f7a125b4ecf5379c2ca81,Interesting methodology.,3
+2108649890.0,0011ef9fd18888cef786ffb0a6ef215f09dc1e03,Needs more empirical validation.,3
+2808992.0,0011ef9fd18888cef786ffb0a6ef215f09dc1e03,Interesting methodology.,5
+47008023.0,0011ef9fd18888cef786ffb0a6ef215f09dc1e03,Needs more empirical validation.,4
+103073143.0,0011ef9fd18888cef786ffb0a6ef215f09dc1e03,Needs more empirical validation.,1
+49417468.0,0011ef9fd18888cef786ffb0a6ef215f09dc1e03,Interesting methodology.,3
+1750929449.0,99165d1f75e67895c7bbc8270ced6f92beebbaa1,Well-structured and informative.,4
+1397616706.0,99165d1f75e67895c7bbc8270ced6f92beebbaa1,Excellent contribution to the field.,3
+144575277.0,99165d1f75e67895c7bbc8270ced6f92beebbaa1,Excellent contribution to the field.,3
+1701549.0,99165d1f75e67895c7bbc8270ced6f92beebbaa1,Interesting methodology.,3
+145368587.0,99165d1f75e67895c7bbc8270ced6f92beebbaa1,Needs more empirical validation.,3
+2152786117.0,d1f1d4c74cd03d7560e740578ce88e8d0c1d3d32,Interesting methodology.,4
+9533837.0,d1f1d4c74cd03d7560e740578ce88e8d0c1d3d32,Limited novelty but useful results.,5
+47008023.0,d1f1d4c74cd03d7560e740578ce88e8d0c1d3d32,Well-structured and informative.,3
+1908622.0,d1f1d4c74cd03d7560e740578ce88e8d0c1d3d32,Limited novelty but useful results.,3
+2152140288.0,d1f1d4c74cd03d7560e740578ce88e8d0c1d3d32,Needs more empirical validation.,4
+2108649890.0,f794f0cc1b55ea8cf26bf0372bc7ba6740ca8e83,Needs more empirical validation.,4
+47008023.0,f794f0cc1b55ea8cf26bf0372bc7ba6740ca8e83,Well-structured and informative.,5
+1731681.0,f794f0cc1b55ea8cf26bf0372bc7ba6740ca8e83,Interesting methodology.,4
+2808992.0,f794f0cc1b55ea8cf26bf0372bc7ba6740ca8e83,Well-structured and informative.,3
+2108901244.0,f794f0cc1b55ea8cf26bf0372bc7ba6740ca8e83,Interesting methodology.,2
+2108649890.0,48615c3cba178c4193d5106b59205861217fb52f,Well-structured and informative.,5
+47008023.0,48615c3cba178c4193d5106b59205861217fb52f,Needs more empirical validation.,4
+1731681.0,48615c3cba178c4193d5106b59205861217fb52f,Limited novelty but useful results.,4
+2808992.0,48615c3cba178c4193d5106b59205861217fb52f,Needs more empirical validation.,1
+1908622.0,48615c3cba178c4193d5106b59205861217fb52f,Limited novelty but useful results.,3
+2108649890.0,55f0404b6e67405f2fa0ef7ba3550f4fa86c5631,Needs more empirical validation.,4
+47008023.0,55f0404b6e67405f2fa0ef7ba3550f4fa86c5631,Limited novelty but useful results.,5
+2808992.0,55f0404b6e67405f2fa0ef7ba3550f4fa86c5631,Excellent contribution to the field.,5
+1794138.0,55f0404b6e67405f2fa0ef7ba3550f4fa86c5631,Needs more empirical validation.,3
+2292253.0,55f0404b6e67405f2fa0ef7ba3550f4fa86c5631,Well-structured and informative.,4
+3882507.0,3377cd2febd3162747072d433cd8df9e6652b124,Well-structured and informative.,5
+1754686.0,3377cd2febd3162747072d433cd8df9e6652b124,Excellent contribution to the field.,3
+137797596.0,3377cd2febd3162747072d433cd8df9e6652b124,Limited novelty but useful results.,1
+2184768291.0,3377cd2febd3162747072d433cd8df9e6652b124,Needs more empirical validation.,5
+9308606.0,3377cd2febd3162747072d433cd8df9e6652b124,Well-structured and informative.,5
+1401238067.0,3377cd2febd3162747072d433cd8df9e6652b124,Well-structured and informative.,2
+1670457505.0,3377cd2febd3162747072d433cd8df9e6652b124,Excellent contribution to the field.,3
+102762161.0,3377cd2febd3162747072d433cd8df9e6652b124,Interesting methodology.,5
+2749944.0,8b9411fc2a95899be9a4a543736f6d4348a64759,Needs more empirical validation.,2
+137797596.0,8b9411fc2a95899be9a4a543736f6d4348a64759,Limited novelty but useful results.,3
+15015166.0,8b9411fc2a95899be9a4a543736f6d4348a64759,Well-structured and informative.,1
+3882507.0,8b9411fc2a95899be9a4a543736f6d4348a64759,Excellent contribution to the field.,4
+71917557.0,8b9411fc2a95899be9a4a543736f6d4348a64759,Excellent contribution to the field.,5
+102762161.0,8b9411fc2a95899be9a4a543736f6d4348a64759,Interesting methodology.,5
+3372390.0,8b9411fc2a95899be9a4a543736f6d4348a64759,Limited novelty but useful results.,3
+2150533771.0,8b9411fc2a95899be9a4a543736f6d4348a64759,Excellent contribution to the field.,1
+47994557.0,9a1ec46c7afe7e06b5d09d68040269a1cb2f8d50,Limited novelty but useful results.,2
+2146410807.0,9a1ec46c7afe7e06b5d09d68040269a1cb2f8d50,Well-structured and informative.,2
+1516137971.0,9a1ec46c7afe7e06b5d09d68040269a1cb2f8d50,Well-structured and informative.,3
+3109796.0,9a1ec46c7afe7e06b5d09d68040269a1cb2f8d50,Needs more empirical validation.,2
+2149139943.0,9a1ec46c7afe7e06b5d09d68040269a1cb2f8d50,Needs more empirical validation.,2
+1934350.0,2c9873f06b99fb867a0545a13a9f0fe0e33b1326,Needs more empirical validation.,5
+2266990041.0,2c9873f06b99fb867a0545a13a9f0fe0e33b1326,Needs more empirical validation.,1
+2320745156.0,2c9873f06b99fb867a0545a13a9f0fe0e33b1326,Excellent contribution to the field.,5
+2266984864.0,2c9873f06b99fb867a0545a13a9f0fe0e33b1326,Well-structured and informative.,2
+2239233404.0,2c9873f06b99fb867a0545a13a9f0fe0e33b1326,Excellent contribution to the field.,5
+2153523121.0,2c9873f06b99fb867a0545a13a9f0fe0e33b1326,Limited novelty but useful results.,4
+120738683.0,00133d41d5ecef1a9d046d2b92bb2a23a335cb7c,Limited novelty but useful results.,3
+31186224.0,00133d41d5ecef1a9d046d2b92bb2a23a335cb7c,Interesting methodology.,3
+2117426487.0,00133d41d5ecef1a9d046d2b92bb2a23a335cb7c,Interesting methodology.,4
+2249618490.0,40bd70d2d176d2112259b7350cccfc058e6b7afa,Interesting methodology.,5
+2249602883.0,40bd70d2d176d2112259b7350cccfc058e6b7afa,Needs more empirical validation.,3
+144122124.0,40bd70d2d176d2112259b7350cccfc058e6b7afa,Well-structured and informative.,3
+31773628.0,e046eaa83e43c5663332eac4f9a6797931e8c6cd,Excellent contribution to the field.,2
+2269331.0,e046eaa83e43c5663332eac4f9a6797931e8c6cd,Limited novelty but useful results.,2
+2142802.0,e046eaa83e43c5663332eac4f9a6797931e8c6cd,Limited novelty but useful results.,5
+144227442.0,e046eaa83e43c5663332eac4f9a6797931e8c6cd,Interesting methodology.,5
+2803078.0,ba31105df62c9118f22ad70637aa7dc8c11a80dd,Excellent contribution to the field.,2
+51930423.0,ba31105df62c9118f22ad70637aa7dc8c11a80dd,Well-structured and informative.,5
+145033828.0,ba31105df62c9118f22ad70637aa7dc8c11a80dd,Limited novelty but useful results.,3
+31773628.0,9df1b2509eb2e81da2bf3414b52e402a20dbf89e,Limited novelty but useful results.,4
+2269331.0,9df1b2509eb2e81da2bf3414b52e402a20dbf89e,Interesting methodology.,4
+2778943.0,4bc598267a691eb3b7a59197d82f2bda3a421c54,Needs more empirical validation.,3
+1706825.0,4bc598267a691eb3b7a59197d82f2bda3a421c54,Excellent contribution to the field.,5
+2464297.0,eb6e23cb648246d730552cdd6ea7c254184abe4c,Limited novelty but useful results.,3
+2244075287.0,eb6e23cb648246d730552cdd6ea7c254184abe4c,Needs more empirical validation.,1
+8821014.0,7e06c9b985ddde8090e75ad2b0d70a312b38ede8,Excellent contribution to the field.,3
+143863987.0,7e06c9b985ddde8090e75ad2b0d70a312b38ede8,Limited novelty but useful results.,5
+38930076.0,001431f69d0268a4497f39002c412c728ff44276,Excellent contribution to the field.,4
+144666283.0,001431f69d0268a4497f39002c412c728ff44276,Well-structured and informative.,4
+38459018.0,001431f69d0268a4497f39002c412c728ff44276,Excellent contribution to the field.,3
+2152769626.0,cef530e1a4b270262e1d17327711d4c59a7d99a5,Well-structured and informative.,4
+3008614.0,cef530e1a4b270262e1d17327711d4c59a7d99a5,Well-structured and informative.,4
+2121366199.0,cef530e1a4b270262e1d17327711d4c59a7d99a5,Interesting methodology.,3
+7550152.0,cef530e1a4b270262e1d17327711d4c59a7d99a5,Well-structured and informative.,1
+31139966.0,29330205c83a1752da4fbbc36ba4d34cef2d55bf,Needs more empirical validation.,4
+144402926.0,29330205c83a1752da4fbbc36ba4d34cef2d55bf,Well-structured and informative.,5
+2158083255.0,29330205c83a1752da4fbbc36ba4d34cef2d55bf,Needs more empirical validation.,4
+47273915.0,d56094c3213fa7fc9b445ed2e77b4b215e47696f,Needs more empirical validation.,1
+2146028670.0,d56094c3213fa7fc9b445ed2e77b4b215e47696f,Well-structured and informative.,5
+1700326.0,d40a3d4b53c613fbd487c2d8fc02b59ae7038035,Excellent contribution to the field.,4
+1708869.0,d40a3d4b53c613fbd487c2d8fc02b59ae7038035,Excellent contribution to the field.,5
+145222925.0,d40a3d4b53c613fbd487c2d8fc02b59ae7038035,Limited novelty but useful results.,1
+145131827.0,d40a3d4b53c613fbd487c2d8fc02b59ae7038035,Limited novelty but useful results.,3
+1786954.0,d40a3d4b53c613fbd487c2d8fc02b59ae7038035,Well-structured and informative.,2
+2116581861.0,d40a3d4b53c613fbd487c2d8fc02b59ae7038035,Well-structured and informative.,3
+1741269.0,d40a3d4b53c613fbd487c2d8fc02b59ae7038035,Well-structured and informative.,1
+32215523.0,d40a3d4b53c613fbd487c2d8fc02b59ae7038035,Interesting methodology.,2
+70119713.0,d40a3d4b53c613fbd487c2d8fc02b59ae7038035,Limited novelty but useful results.,3
+2058009148.0,d40a3d4b53c613fbd487c2d8fc02b59ae7038035,Excellent contribution to the field.,5
+2155142430.0,10c6e5070faa24d2f7a823eff0c40f93d4ef8291,Interesting methodology.,4
+2119918192.0,10c6e5070faa24d2f7a823eff0c40f93d4ef8291,Needs more empirical validation.,4
+7595994.0,10c6e5070faa24d2f7a823eff0c40f93d4ef8291,Interesting methodology.,1
+2145483763.0,10c6e5070faa24d2f7a823eff0c40f93d4ef8291,Excellent contribution to the field.,3
+2127092888.0,10c6e5070faa24d2f7a823eff0c40f93d4ef8291,Needs more empirical validation.,1
+2064208427.0,10c6e5070faa24d2f7a823eff0c40f93d4ef8291,Interesting methodology.,3
+2118443695.0,10c6e5070faa24d2f7a823eff0c40f93d4ef8291,Excellent contribution to the field.,5
+9220930.0,10c6e5070faa24d2f7a823eff0c40f93d4ef8291,Interesting methodology.,1
+1749863.0,72f9ccea442fdbd7501c6684996d3c2033e0ba76,Needs more empirical validation.,2
+47267734.0,72f9ccea442fdbd7501c6684996d3c2033e0ba76,Excellent contribution to the field.,5
+145594535.0,72f9ccea442fdbd7501c6684996d3c2033e0ba76,Well-structured and informative.,5
+7560563.0,72f9ccea442fdbd7501c6684996d3c2033e0ba76,Needs more empirical validation.,2
+1811447970.0,778f04e582e6916db7297b331f19b80461551a3d,Needs more empirical validation.,2
+49077336.0,778f04e582e6916db7297b331f19b80461551a3d,Interesting methodology.,4
+1388822055.0,778f04e582e6916db7297b331f19b80461551a3d,Limited novelty but useful results.,4
+2110970966.0,57f2a6f30e5bbebb4dbe774367dd037b2ef953bb,Interesting methodology.,1
+1388822055.0,57f2a6f30e5bbebb4dbe774367dd037b2ef953bb,Excellent contribution to the field.,1
+2983898.0,0014a057ebdeca672b1cdee8104cca4dc928ef3e,Needs more empirical validation.,4
+143751119.0,0014a057ebdeca672b1cdee8104cca4dc928ef3e,Limited novelty but useful results.,5
+2344173244.0,75d63ceceae638750f4a4ed5f98044075ec66232,Well-structured and informative.,5
+2145782935.0,eaa308e5e0a620ea5f9df56dfd522ee517ecb529,Limited novelty but useful results.,4
+48979871.0,eaa308e5e0a620ea5f9df56dfd522ee517ecb529,Needs more empirical validation.,2
+2512318.0,eaa308e5e0a620ea5f9df56dfd522ee517ecb529,Limited novelty but useful results.,2
+2109963471.0,eaa308e5e0a620ea5f9df56dfd522ee517ecb529,Needs more empirical validation.,5
+3166515.0,eaa308e5e0a620ea5f9df56dfd522ee517ecb529,Well-structured and informative.,3
+47002847.0,f453974f98cd78d634617f9b3b47e02e8a1ab0f7,Needs more empirical validation.,5
+1678689.0,f453974f98cd78d634617f9b3b47e02e8a1ab0f7,Needs more empirical validation.,3
+2142141158.0,0014c6eaa38d7a4da24dd0258572a13c45b93b16,Limited novelty but useful results.,2
+14454974.0,0014c6eaa38d7a4da24dd0258572a13c45b93b16,Limited novelty but useful results.,4
+2295512864.0,0014c6eaa38d7a4da24dd0258572a13c45b93b16,Well-structured and informative.,5
+2295624681.0,0014c6eaa38d7a4da24dd0258572a13c45b93b16,Excellent contribution to the field.,5
+32791484.0,001528e5987d8864a0187dff279eafdce0fbe703,Limited novelty but useful results.,2
+2064191776.0,001528e5987d8864a0187dff279eafdce0fbe703,Limited novelty but useful results.,4
+144261500.0,001528e5987d8864a0187dff279eafdce0fbe703,Limited novelty but useful results.,3
+1758123.0,001528e5987d8864a0187dff279eafdce0fbe703,Limited novelty but useful results.,2
+32791484.0,9c04bf14dc03a4290d16e936166a611aac770ae4,Interesting methodology.,4
+2064191776.0,9c04bf14dc03a4290d16e936166a611aac770ae4,Limited novelty but useful results.,2
+1758123.0,9c04bf14dc03a4290d16e936166a611aac770ae4,Well-structured and informative.,3
+144261500.0,9c04bf14dc03a4290d16e936166a611aac770ae4,Limited novelty but useful results.,4
+2069571812.0,9c04bf14dc03a4290d16e936166a611aac770ae4,Excellent contribution to the field.,1
+1659124275.0,9c04bf14dc03a4290d16e936166a611aac770ae4,Limited novelty but useful results.,4
+52135845.0,0015948be940cc9d976ef3874be9cad30b4710be,Interesting methodology.,4
+2042696323.0,0015948be940cc9d976ef3874be9cad30b4710be,Limited novelty but useful results.,4
+31081428.0,0015948be940cc9d976ef3874be9cad30b4710be,Interesting methodology.,1
+2125331590.0,3bf289262439bc9e024d6d590d26cc517534b517,Well-structured and informative.,1
+2612287.0,3bf289262439bc9e024d6d590d26cc517534b517,Well-structured and informative.,1
+1412831642.0,3bf289262439bc9e024d6d590d26cc517534b517,Limited novelty but useful results.,4
+81475044.0,656b089967c544d32d0c0e6afdde2671aad3b04e,Limited novelty but useful results.,4
+2112731368.0,656b089967c544d32d0c0e6afdde2671aad3b04e,Needs more empirical validation.,2
+81074971.0,656b089967c544d32d0c0e6afdde2671aad3b04e,Interesting methodology.,3
+1766495.0,656b089967c544d32d0c0e6afdde2671aad3b04e,Excellent contribution to the field.,5
+143756149.0,656b089967c544d32d0c0e6afdde2671aad3b04e,Excellent contribution to the field.,3
+1388017711.0,b97d8b27224efb6655091393f27441b6ed8e6395,Well-structured and informative.,1
+1756036.0,b97d8b27224efb6655091393f27441b6ed8e6395,Interesting methodology.,3
+3282877.0,00159a3f909534e328276ac4a4424a100802708c,Needs more empirical validation.,1
+2259100.0,00159a3f909534e328276ac4a4424a100802708c,Limited novelty but useful results.,3
+50655248.0,00159a3f909534e328276ac4a4424a100802708c,Excellent contribution to the field.,3
+2082372.0,00159a3f909534e328276ac4a4424a100802708c,Well-structured and informative.,5
+2319835354.0,efad4f0d7d54f0802bf101089338251f20d78064,Well-structured and informative.,5
+2319829234.0,efad4f0d7d54f0802bf101089338251f20d78064,Excellent contribution to the field.,1
+2040096928.0,efad4f0d7d54f0802bf101089338251f20d78064,Excellent contribution to the field.,5
+3041243.0,efad4f0d7d54f0802bf101089338251f20d78064,Well-structured and informative.,2
+2237429476.0,efad4f0d7d54f0802bf101089338251f20d78064,Needs more empirical validation.,3
+2061298.0,458dd28b79d32a1d7f0287f56f486f4059909329,Interesting methodology.,1
+2174075151.0,458dd28b79d32a1d7f0287f56f486f4059909329,Excellent contribution to the field.,2
+1443738204.0,458dd28b79d32a1d7f0287f56f486f4059909329,Limited novelty but useful results.,1
+1897785.0,458dd28b79d32a1d7f0287f56f486f4059909329,Well-structured and informative.,4
+50459267.0,001724979a91f382172c885b17b6ffa91532f089,Interesting methodology.,4
+1697887.0,d54ecc745b88f0b53c9556a864197f8435620545,Limited novelty but useful results.,2
+1702232.0,d54ecc745b88f0b53c9556a864197f8435620545,Well-structured and informative.,4
+51170193.0,0017372ff28b2330352af629d2e4901ec4ffafce,Limited novelty but useful results.,4
+3379298.0,0017372ff28b2330352af629d2e4901ec4ffafce,Well-structured and informative.,2
+143612725.0,0017372ff28b2330352af629d2e4901ec4ffafce,Excellent contribution to the field.,1
+2282210203.0,2ae73d1207e01813b143f500bc40309816828076,Interesting methodology.,3
+2302563016.0,2ae73d1207e01813b143f500bc40309816828076,Limited novelty but useful results.,1
+2242416696.0,2ae73d1207e01813b143f500bc40309816828076,Excellent contribution to the field.,1
+2242518499.0,2ae73d1207e01813b143f500bc40309816828076,Limited novelty but useful results.,2
+3044069.0,2ae73d1207e01813b143f500bc40309816828076,Needs more empirical validation.,5
+1869245.0,0017b46755fcf120d447c439d9ac5cefbb9ba0de,Needs more empirical validation.,2
+1825377.0,0017b46755fcf120d447c439d9ac5cefbb9ba0de,Well-structured and informative.,4
+2070711418.0,0017b46755fcf120d447c439d9ac5cefbb9ba0de,Excellent contribution to the field.,5
+1703770.0,0017b46755fcf120d447c439d9ac5cefbb9ba0de,Excellent contribution to the field.,5
+1779748.0,0cd5892b6b67255a639a14c646accbf60ff33db9,Interesting methodology.,3
+49077062.0,0cd5892b6b67255a639a14c646accbf60ff33db9,Well-structured and informative.,5
+16875947.0,0cd5892b6b67255a639a14c646accbf60ff33db9,Needs more empirical validation.,2
+46700208.0,0cd5892b6b67255a639a14c646accbf60ff33db9,Excellent contribution to the field.,1
+2131370808.0,0cd5892b6b67255a639a14c646accbf60ff33db9,Interesting methodology.,5
+2111137251.0,0cd5892b6b67255a639a14c646accbf60ff33db9,Excellent contribution to the field.,4
+39572596.0,b50ebcbbec47e6e3c8c98e5990c7dcafc7508409,Limited novelty but useful results.,3
+1869245.0,b50ebcbbec47e6e3c8c98e5990c7dcafc7508409,Limited novelty but useful results.,4
+144914281.0,b50ebcbbec47e6e3c8c98e5990c7dcafc7508409,Well-structured and informative.,3
+118310609.0,b50ebcbbec47e6e3c8c98e5990c7dcafc7508409,Excellent contribution to the field.,3
+49825479.0,b50ebcbbec47e6e3c8c98e5990c7dcafc7508409,Needs more empirical validation.,2
+2120204905.0,85c06da76c7e9fa953df5c7aa9bf2aae3006c102,Excellent contribution to the field.,4
+48242253.0,85c06da76c7e9fa953df5c7aa9bf2aae3006c102,Excellent contribution to the field.,4
+1869245.0,85c06da76c7e9fa953df5c7aa9bf2aae3006c102,Interesting methodology.,1
+152602127.0,bb44d6d419e00402529689038c2479df928fcfd3,Interesting methodology.,4
+2052215052.0,bb44d6d419e00402529689038c2479df928fcfd3,Limited novelty but useful results.,1
+2378118.0,bb44d6d419e00402529689038c2479df928fcfd3,Interesting methodology.,3
+1756511.0,bb44d6d419e00402529689038c2479df928fcfd3,Interesting methodology.,4
+1691720.0,bb44d6d419e00402529689038c2479df928fcfd3,Needs more empirical validation.,3
+35601593.0,3babfe75c2831361e4df70e3001adfc7d14cb903,Excellent contribution to the field.,5
+1591125925.0,3babfe75c2831361e4df70e3001adfc7d14cb903,Needs more empirical validation.,2
+145411696.0,3babfe75c2831361e4df70e3001adfc7d14cb903,Interesting methodology.,4
+13477045.0,da981e00c5f4a2aa931d02ae2a3211b0a0ac1b63,Well-structured and informative.,5
+1735303.0,da981e00c5f4a2aa931d02ae2a3211b0a0ac1b63,Well-structured and informative.,4
+1689001.0,da981e00c5f4a2aa931d02ae2a3211b0a0ac1b63,Excellent contribution to the field.,1
+144395551.0,ac6ec6a266df0d8245959319d55caa1c133adf7e,Needs more empirical validation.,3
+1712090.0,ac6ec6a266df0d8245959319d55caa1c133adf7e,Well-structured and informative.,1
+143651750.0,ac6ec6a266df0d8245959319d55caa1c133adf7e,Interesting methodology.,1
+3113695.0,ac6ec6a266df0d8245959319d55caa1c133adf7e,Well-structured and informative.,3
+143742626.0,ac6ec6a266df0d8245959319d55caa1c133adf7e,Interesting methodology.,3
+1740341.0,ac6ec6a266df0d8245959319d55caa1c133adf7e,Well-structured and informative.,1
+1789290.0,ac6ec6a266df0d8245959319d55caa1c133adf7e,Excellent contribution to the field.,2
+33627984.0,ac6ec6a266df0d8245959319d55caa1c133adf7e,Interesting methodology.,3
+34664252.0,ac6ec6a266df0d8245959319d55caa1c133adf7e,Well-structured and informative.,2
+2700036.0,0018b02a968c3e279c83be92224b525ba8360a40,Excellent contribution to the field.,2
+2112789.0,0018b02a968c3e279c83be92224b525ba8360a40,Well-structured and informative.,4
+35455751.0,0018b02a968c3e279c83be92224b525ba8360a40,Limited novelty but useful results.,2
+2136203.0,0018b02a968c3e279c83be92224b525ba8360a40,Interesting methodology.,2
+1719689.0,0018b02a968c3e279c83be92224b525ba8360a40,Needs more empirical validation.,4
+2257291666.0,e81d89a5ebb2e41b37c11cde3f9989c5758b9aa8,Interesting methodology.,5
+49112666.0,e81d89a5ebb2e41b37c11cde3f9989c5758b9aa8,Limited novelty but useful results.,1
+2856472.0,e81d89a5ebb2e41b37c11cde3f9989c5758b9aa8,Needs more empirical validation.,1
+2111894948.0,c2ef1c7a0602da5daacdff813d759f0b0dafed43,Excellent contribution to the field.,3
+2225070306.0,c2ef1c7a0602da5daacdff813d759f0b0dafed43,Interesting methodology.,1
+8353967.0,c2ef1c7a0602da5daacdff813d759f0b0dafed43,Interesting methodology.,4
+5855965.0,c2ef1c7a0602da5daacdff813d759f0b0dafed43,Needs more empirical validation.,5
+2118169652.0,c2ef1c7a0602da5daacdff813d759f0b0dafed43,Limited novelty but useful results.,4
+2036822744.0,d6a9fea83f4edc32ca3b596d481176d53c40da0d,Limited novelty but useful results.,4
+50976714.0,d6a9fea83f4edc32ca3b596d481176d53c40da0d,Well-structured and informative.,2
+2157129212.0,d6a9fea83f4edc32ca3b596d481176d53c40da0d,Limited novelty but useful results.,4
+7677564.0,552271f22a591b29a2cca23f4ba39ea3880c8e79,Interesting methodology.,2
+2116884540.0,552271f22a591b29a2cca23f4ba39ea3880c8e79,Limited novelty but useful results.,5
+51294444.0,552271f22a591b29a2cca23f4ba39ea3880c8e79,Well-structured and informative.,1
+145685698.0,552271f22a591b29a2cca23f4ba39ea3880c8e79,Interesting methodology.,1
+1799463962.0,f757944c3256a14a8d1d2f5d6911bd3c8d1e36a2,Excellent contribution to the field.,5
+16875947.0,f757944c3256a14a8d1d2f5d6911bd3c8d1e36a2,Well-structured and informative.,4
+2145004458.0,f757944c3256a14a8d1d2f5d6911bd3c8d1e36a2,Limited novelty but useful results.,5
+1779748.0,f757944c3256a14a8d1d2f5d6911bd3c8d1e36a2,Limited novelty but useful results.,2
+2058051322.0,f757944c3256a14a8d1d2f5d6911bd3c8d1e36a2,Limited novelty but useful results.,5
+2808564.0,f757944c3256a14a8d1d2f5d6911bd3c8d1e36a2,Limited novelty but useful results.,1
+2091391653.0,593f679bb6541bffe28401d47c1a7c6ee411d9f1,Limited novelty but useful results.,3
+73213062.0,593f679bb6541bffe28401d47c1a7c6ee411d9f1,Interesting methodology.,1
+51451743.0,593f679bb6541bffe28401d47c1a7c6ee411d9f1,Needs more empirical validation.,4
+2240973151.0,593f679bb6541bffe28401d47c1a7c6ee411d9f1,Well-structured and informative.,2
+33470417.0,d078dd095a36e2e46185814a8ef90285ebce6470,Well-structured and informative.,5
+1731497.0,d078dd095a36e2e46185814a8ef90285ebce6470,Limited novelty but useful results.,1
+1804285.0,d078dd095a36e2e46185814a8ef90285ebce6470,Needs more empirical validation.,4
+145410654.0,d078dd095a36e2e46185814a8ef90285ebce6470,Well-structured and informative.,2
+2149256794.0,641170ec17d38d29775568e58305bd70d6fb1f05,Well-structured and informative.,1
+2155100066.0,641170ec17d38d29775568e58305bd70d6fb1f05,Excellent contribution to the field.,4
+2116635864.0,641170ec17d38d29775568e58305bd70d6fb1f05,Needs more empirical validation.,3
+2152798382.0,641170ec17d38d29775568e58305bd70d6fb1f05,Interesting methodology.,5
+2116406638.0,641170ec17d38d29775568e58305bd70d6fb1f05,Excellent contribution to the field.,1
+49444734.0,641170ec17d38d29775568e58305bd70d6fb1f05,Excellent contribution to the field.,4
+2108219341.0,641170ec17d38d29775568e58305bd70d6fb1f05,Excellent contribution to the field.,4
+2117696708.0,641170ec17d38d29775568e58305bd70d6fb1f05,Excellent contribution to the field.,3
+2610475.0,d33b2c172f2612c29e749275b624f656afa8fb8d,Needs more empirical validation.,3
+2244892089.0,d33b2c172f2612c29e749275b624f656afa8fb8d,Excellent contribution to the field.,4
+1747329.0,d33b2c172f2612c29e749275b624f656afa8fb8d,Needs more empirical validation.,3
+2286810170.0,d33b2c172f2612c29e749275b624f656afa8fb8d,Needs more empirical validation.,2
+1722913.0,350e394d422ac4cd5fbe5d03bf25d44e41c47782,Well-structured and informative.,5
+38281681.0,350e394d422ac4cd5fbe5d03bf25d44e41c47782,Excellent contribution to the field.,1
+1686788.0,350e394d422ac4cd5fbe5d03bf25d44e41c47782,Interesting methodology.,3
+3454356.0,5fffbd9271f4234652f375df111a3e97303fc52c,Limited novelty but useful results.,1
+2108190196.0,5fffbd9271f4234652f375df111a3e97303fc52c,Limited novelty but useful results.,5
+1722913.0,14b3d2123e4cf5748c5dbafc1b04c160ef0fec43,Excellent contribution to the field.,3
+38281681.0,14b3d2123e4cf5748c5dbafc1b04c160ef0fec43,Excellent contribution to the field.,4
+1686788.0,14b3d2123e4cf5748c5dbafc1b04c160ef0fec43,Limited novelty but useful results.,3
+41070350.0,d77b929e29876c369effceb4ae6ec105a83e7a40,Well-structured and informative.,3
+1743242.0,d77b929e29876c369effceb4ae6ec105a83e7a40,Needs more empirical validation.,5
+145969200.0,001a72782dfef61589a8f897a4ae5dc4b49b5a5e,Excellent contribution to the field.,1
+145128145.0,001a72782dfef61589a8f897a4ae5dc4b49b5a5e,Needs more empirical validation.,4
+24072150.0,09c3926ad0d6d4b4362ddcc7d759986631a2c9e4,Well-structured and informative.,2
+2240263299.0,09c3926ad0d6d4b4362ddcc7d759986631a2c9e4,Limited novelty but useful results.,1
+2110754720.0,09c3926ad0d6d4b4362ddcc7d759986631a2c9e4,Needs more empirical validation.,1
+2278801.0,09c3926ad0d6d4b4362ddcc7d759986631a2c9e4,Needs more empirical validation.,1
+2244603563.0,09c3926ad0d6d4b4362ddcc7d759986631a2c9e4,Needs more empirical validation.,4
+2281637217.0,0c08725a79cb5dbb1354793a287810646dbefe52,Excellent contribution to the field.,5
+3271933.0,0c08725a79cb5dbb1354793a287810646dbefe52,Well-structured and informative.,4
+2954796.0,0c08725a79cb5dbb1354793a287810646dbefe52,Well-structured and informative.,4
+2269460840.0,0c08725a79cb5dbb1354793a287810646dbefe52,Needs more empirical validation.,1
+2281637540.0,0c08725a79cb5dbb1354793a287810646dbefe52,Needs more empirical validation.,3
+2279541575.0,2d6182ec7a94bae41e22eab12febfd1a2e3d6367,Excellent contribution to the field.,1
+2144131350.0,2d6182ec7a94bae41e22eab12febfd1a2e3d6367,Limited novelty but useful results.,4
+2681738.0,2d6182ec7a94bae41e22eab12febfd1a2e3d6367,Well-structured and informative.,1
+2266399557.0,2d6182ec7a94bae41e22eab12febfd1a2e3d6367,Interesting methodology.,5
+2184215361.0,467227272889a8307c83a1b2ffd1daad6d8d8bfa,Needs more empirical validation.,2
+29932533.0,467227272889a8307c83a1b2ffd1daad6d8d8bfa,Excellent contribution to the field.,2
+2274084734.0,467227272889a8307c83a1b2ffd1daad6d8d8bfa,Excellent contribution to the field.,1
+145500030.0,467227272889a8307c83a1b2ffd1daad6d8d8bfa,Excellent contribution to the field.,2
+2117940902.0,a631f10fa7e100492e6f358d940dff2bebc423a4,Excellent contribution to the field.,5
+2269466817.0,a631f10fa7e100492e6f358d940dff2bebc423a4,Well-structured and informative.,4
+1831521.0,a631f10fa7e100492e6f358d940dff2bebc423a4,Well-structured and informative.,3
+2269647435.0,a631f10fa7e100492e6f358d940dff2bebc423a4,Limited novelty but useful results.,1
+2109865181.0,a631f10fa7e100492e6f358d940dff2bebc423a4,Excellent contribution to the field.,1
+1596812259.0,a631f10fa7e100492e6f358d940dff2bebc423a4,Well-structured and informative.,3
+2273334887.0,a631f10fa7e100492e6f358d940dff2bebc423a4,Excellent contribution to the field.,4
+2151671216.0,a631f10fa7e100492e6f358d940dff2bebc423a4,Needs more empirical validation.,5
+2124167.0,a631f10fa7e100492e6f358d940dff2bebc423a4,Well-structured and informative.,1
+2346105.0,97a26b15405351b4bb70e28537ea59bef67d4d1d,Limited novelty but useful results.,5
+2268020784.0,97a26b15405351b4bb70e28537ea59bef67d4d1d,Excellent contribution to the field.,4
+89662118.0,97a26b15405351b4bb70e28537ea59bef67d4d1d,Excellent contribution to the field.,1
+9398015.0,97a26b15405351b4bb70e28537ea59bef67d4d1d,Well-structured and informative.,3
+2146058717.0,97a26b15405351b4bb70e28537ea59bef67d4d1d,Excellent contribution to the field.,3
+2110685575.0,97a26b15405351b4bb70e28537ea59bef67d4d1d,Well-structured and informative.,4
+2112119393.0,9c974f3c803e139e28da77b24d40fe534cac4ccf,Needs more empirical validation.,4
+2041843.0,9c974f3c803e139e28da77b24d40fe534cac4ccf,Interesting methodology.,4
+144585402.0,9c974f3c803e139e28da77b24d40fe534cac4ccf,Excellent contribution to the field.,1
+7643789.0,9c974f3c803e139e28da77b24d40fe534cac4ccf,Interesting methodology.,2
+1699842.0,9c974f3c803e139e28da77b24d40fe534cac4ccf,Interesting methodology.,3
+2190313283.0,9c974f3c803e139e28da77b24d40fe534cac4ccf,Needs more empirical validation.,5
+40119691.0,9c974f3c803e139e28da77b24d40fe534cac4ccf,Well-structured and informative.,5
+2143632482.0,d8b46b8392ef63388ca92dc46b6411ce6862a694,Well-structured and informative.,1
+2109981570.0,d8b46b8392ef63388ca92dc46b6411ce6862a694,Limited novelty but useful results.,1
+1929269.0,d8b46b8392ef63388ca92dc46b6411ce6862a694,Interesting methodology.,1
+2227740491.0,d8b46b8392ef63388ca92dc46b6411ce6862a694,Interesting methodology.,1
+2227782252.0,d8b46b8392ef63388ca92dc46b6411ce6862a694,Needs more empirical validation.,1
+2104450297.0,d8b46b8392ef63388ca92dc46b6411ce6862a694,Needs more empirical validation.,4
+2168792096.0,d8b46b8392ef63388ca92dc46b6411ce6862a694,Interesting methodology.,3
+2788612.0,d8b46b8392ef63388ca92dc46b6411ce6862a694,Excellent contribution to the field.,3
+2181612436.0,d8b46b8392ef63388ca92dc46b6411ce6862a694,Limited novelty but useful results.,1
+2136400100.0,d8b46b8392ef63388ca92dc46b6411ce6862a694,Well-structured and informative.,3
+145371473.0,001a7e23bc64efa8adac1ca34066ac0935c64fc3,Excellent contribution to the field.,4
+1696431.0,001a7e23bc64efa8adac1ca34066ac0935c64fc3,Needs more empirical validation.,2
+40315108.0,001a7e23bc64efa8adac1ca34066ac0935c64fc3,Limited novelty but useful results.,1
+2493179.0,001a7e23bc64efa8adac1ca34066ac0935c64fc3,Needs more empirical validation.,3
+2283848582.0,c5b4919856afef2fa6b252a04b1368f5789d68f5,Limited novelty but useful results.,3
+1737321.0,c5b4919856afef2fa6b252a04b1368f5789d68f5,Well-structured and informative.,3
+2253741041.0,c5b4919856afef2fa6b252a04b1368f5789d68f5,Limited novelty but useful results.,2
+2283848580.0,c5b4919856afef2fa6b252a04b1368f5789d68f5,Needs more empirical validation.,4
+1696431.0,c5b4919856afef2fa6b252a04b1368f5789d68f5,Interesting methodology.,3
+2493179.0,c5b4919856afef2fa6b252a04b1368f5789d68f5,Needs more empirical validation.,5
+40315108.0,c5b4919856afef2fa6b252a04b1368f5789d68f5,Needs more empirical validation.,5
+40590743.0,e1d0153a3f705c8b25be6382a546654a00e08bdb,Excellent contribution to the field.,4
+1696431.0,e1d0153a3f705c8b25be6382a546654a00e08bdb,Interesting methodology.,1
+40315108.0,e1d0153a3f705c8b25be6382a546654a00e08bdb,Excellent contribution to the field.,2
+2493179.0,e1d0153a3f705c8b25be6382a546654a00e08bdb,Needs more empirical validation.,5
+40590743.0,95489215ea230f2d3229bde1c373e6d3889e0019,Interesting methodology.,1
+1696431.0,95489215ea230f2d3229bde1c373e6d3889e0019,Limited novelty but useful results.,1
+40315108.0,95489215ea230f2d3229bde1c373e6d3889e0019,Needs more empirical validation.,4
+2493179.0,95489215ea230f2d3229bde1c373e6d3889e0019,Excellent contribution to the field.,3
+145371473.0,5eec352ccf6db9483e0d4dbc6068cac69fb7191b,Interesting methodology.,2
+1696431.0,5eec352ccf6db9483e0d4dbc6068cac69fb7191b,Limited novelty but useful results.,4
+40315108.0,5eec352ccf6db9483e0d4dbc6068cac69fb7191b,Interesting methodology.,5
+2493179.0,5eec352ccf6db9483e0d4dbc6068cac69fb7191b,Limited novelty but useful results.,3
+1965582.0,001a98b5acd9797c3394a48fdc7dac96b9159cac,Interesting methodology.,2
+2119442.0,001a98b5acd9797c3394a48fdc7dac96b9159cac,Excellent contribution to the field.,1
+1704773.0,001a98b5acd9797c3394a48fdc7dac96b9159cac,Excellent contribution to the field.,5
+2057753762.0,001a98b5acd9797c3394a48fdc7dac96b9159cac,Interesting methodology.,4
+143616608.0,001a98b5acd9797c3394a48fdc7dac96b9159cac,Limited novelty but useful results.,2
+2022069.0,4db088827b010f08419aa94ddf3dfb2520c4cd5d,Needs more empirical validation.,4
+2067739440.0,4db088827b010f08419aa94ddf3dfb2520c4cd5d,Needs more empirical validation.,4
+2133411698.0,4db088827b010f08419aa94ddf3dfb2520c4cd5d,Limited novelty but useful results.,1
+3041209.0,4db088827b010f08419aa94ddf3dfb2520c4cd5d,Limited novelty but useful results.,4
+144106018.0,4db088827b010f08419aa94ddf3dfb2520c4cd5d,Limited novelty but useful results.,5
+145197867.0,4db088827b010f08419aa94ddf3dfb2520c4cd5d,Interesting methodology.,1
+2228324108.0,4db088827b010f08419aa94ddf3dfb2520c4cd5d,Limited novelty but useful results.,2
+34892093.0,dccd0b8798304773062352fbc051c4f072da3cd7,Needs more empirical validation.,2
+2999261.0,dccd0b8798304773062352fbc051c4f072da3cd7,Needs more empirical validation.,3
+37882475.0,dccd0b8798304773062352fbc051c4f072da3cd7,Interesting methodology.,4
+46945718.0,dccd0b8798304773062352fbc051c4f072da3cd7,Excellent contribution to the field.,3
+145739642.0,dccd0b8798304773062352fbc051c4f072da3cd7,Excellent contribution to the field.,2
+9680948.0,c975498646cf833982ac3aa71457c5246f747d67,Excellent contribution to the field.,5
+144639699.0,c975498646cf833982ac3aa71457c5246f747d67,Excellent contribution to the field.,5
+1801373.0,c975498646cf833982ac3aa71457c5246f747d67,Excellent contribution to the field.,2
+2119442.0,5a607eeabc7fefcbe330ee9c0d896396885c2da4,Interesting methodology.,5
+27301223.0,5a607eeabc7fefcbe330ee9c0d896396885c2da4,Excellent contribution to the field.,1
+143616608.0,5a607eeabc7fefcbe330ee9c0d896396885c2da4,Well-structured and informative.,4
+1405378395.0,ec1eca54138a4f280fc979a897723a1757568f48,Needs more empirical validation.,2
+145419412.0,ec1eca54138a4f280fc979a897723a1757568f48,Interesting methodology.,1
+2428323.0,ec1eca54138a4f280fc979a897723a1757568f48,Interesting methodology.,2
+3290797.0,ec1eca54138a4f280fc979a897723a1757568f48,Limited novelty but useful results.,4
+50331784.0,ec1eca54138a4f280fc979a897723a1757568f48,Well-structured and informative.,5
+3342212.0,ec1eca54138a4f280fc979a897723a1757568f48,Excellent contribution to the field.,3
+2322052992.0,dde42bddcc0c7fe402a1a537a97ff70b2a363df7,Limited novelty but useful results.,2
+32581309.0,dde42bddcc0c7fe402a1a537a97ff70b2a363df7,Needs more empirical validation.,3
+2311444798.0,dde42bddcc0c7fe402a1a537a97ff70b2a363df7,Excellent contribution to the field.,4
+2257244149.0,dde42bddcc0c7fe402a1a537a97ff70b2a363df7,Needs more empirical validation.,3
+2314774962.0,dde42bddcc0c7fe402a1a537a97ff70b2a363df7,Needs more empirical validation.,4
+2340893663.0,51e09da838e9a524076118948d99180f1600ceba,Interesting methodology.,1
+144434599.0,51e09da838e9a524076118948d99180f1600ceba,Well-structured and informative.,3
+39576058.0,51e09da838e9a524076118948d99180f1600ceba,Needs more empirical validation.,3
+9081639.0,51e09da838e9a524076118948d99180f1600ceba,Well-structured and informative.,4
+2237802.0,001cad7ee5ffe902e0695484abbf59bd892e448e,Excellent contribution to the field.,4
+48175246.0,001cad7ee5ffe902e0695484abbf59bd892e448e,Interesting methodology.,3
+70239313.0,001cad7ee5ffe902e0695484abbf59bd892e448e,Needs more empirical validation.,1
+108134497.0,bf20c8c74dc8fcdd0177d8168890f0a514093142,Needs more empirical validation.,4
+51950385.0,bf20c8c74dc8fcdd0177d8168890f0a514093142,Needs more empirical validation.,4
+117988265.0,bf20c8c74dc8fcdd0177d8168890f0a514093142,Excellent contribution to the field.,1
+98676964.0,bf20c8c74dc8fcdd0177d8168890f0a514093142,Interesting methodology.,5
+2258313.0,bf20c8c74dc8fcdd0177d8168890f0a514093142,Excellent contribution to the field.,1
+2166292082.0,001d9273ad91fbe71c2c32fd926dc213e10d98c6,Needs more empirical validation.,5
+2107942948.0,001d9273ad91fbe71c2c32fd926dc213e10d98c6,Limited novelty but useful results.,4
+50109653.0,001d9273ad91fbe71c2c32fd926dc213e10d98c6,Well-structured and informative.,4
+1388444445.0,001d9273ad91fbe71c2c32fd926dc213e10d98c6,Limited novelty but useful results.,4
+2113229282.0,001d9273ad91fbe71c2c32fd926dc213e10d98c6,Well-structured and informative.,5
+2106614719.0,001d9273ad91fbe71c2c32fd926dc213e10d98c6,Excellent contribution to the field.,2
+2000518528.0,e2324ea23edf95daadc47bcb925c7ac774362445,Needs more empirical validation.,1
+2154072278.0,e2324ea23edf95daadc47bcb925c7ac774362445,Interesting methodology.,2
+2279004620.0,e2324ea23edf95daadc47bcb925c7ac774362445,Needs more empirical validation.,5
+2238045394.0,e2324ea23edf95daadc47bcb925c7ac774362445,Excellent contribution to the field.,4
+2258997267.0,e2324ea23edf95daadc47bcb925c7ac774362445,Well-structured and informative.,4
+2280291946.0,fb3836690a361e39d476ed6db9ac671c1da1f410,Well-structured and informative.,3
+152255205.0,fb3836690a361e39d476ed6db9ac671c1da1f410,Excellent contribution to the field.,5
+2156063274.0,fb3836690a361e39d476ed6db9ac671c1da1f410,Excellent contribution to the field.,3
+2284045178.0,2185f2423d8779aac1a28940f51a0c7dce840e04,Interesting methodology.,4
+2307278632.0,2185f2423d8779aac1a28940f51a0c7dce840e04,Needs more empirical validation.,5
+2135243.0,2185f2423d8779aac1a28940f51a0c7dce840e04,Limited novelty but useful results.,1
+1410519911.0,2185f2423d8779aac1a28940f51a0c7dce840e04,Well-structured and informative.,2
+2281992361.0,2185f2423d8779aac1a28940f51a0c7dce840e04,Well-structured and informative.,3
+150047492.0,569e323c84bcc01fc6562ea2c7084c7a2a00e703,Interesting methodology.,4
+1490935954.0,569e323c84bcc01fc6562ea2c7084c7a2a00e703,Limited novelty but useful results.,3
+1976481.0,569e323c84bcc01fc6562ea2c7084c7a2a00e703,Limited novelty but useful results.,1
+2143246531.0,9736d7b05db9c1b157e8fb5022d0cc05fd484127,Interesting methodology.,3
+20720551.0,9736d7b05db9c1b157e8fb5022d0cc05fd484127,Needs more empirical validation.,2
+1775016.0,9736d7b05db9c1b157e8fb5022d0cc05fd484127,Interesting methodology.,5
+1859819.0,5a27a89cd5c35f76b57b93aad41c75af65b2dc6d,Excellent contribution to the field.,3
+51266238.0,5a27a89cd5c35f76b57b93aad41c75af65b2dc6d,Excellent contribution to the field.,5
+51263911.0,5a27a89cd5c35f76b57b93aad41c75af65b2dc6d,Limited novelty but useful results.,3
+46190852.0,5a27a89cd5c35f76b57b93aad41c75af65b2dc6d,Well-structured and informative.,3
+2893044.0,f536f46cce7e626324c06560cef892d1e397615f,Well-structured and informative.,4
+5594469.0,f536f46cce7e626324c06560cef892d1e397615f,Well-structured and informative.,2
+2667281.0,f536f46cce7e626324c06560cef892d1e397615f,Interesting methodology.,2
+103492516.0,f536f46cce7e626324c06560cef892d1e397615f,Needs more empirical validation.,3
+3451685.0,71641992094ed2e0f14cec6b1bec42caeb9ddebd,Well-structured and informative.,2
+3451894.0,71641992094ed2e0f14cec6b1bec42caeb9ddebd,Needs more empirical validation.,2
+1744784.0,71641992094ed2e0f14cec6b1bec42caeb9ddebd,Limited novelty but useful results.,3
+2122250.0,001dddf2b8e38d79564ce7b756d5ceead1e1da59,Interesting methodology.,5
+1745217.0,001dddf2b8e38d79564ce7b756d5ceead1e1da59,Limited novelty but useful results.,4
+3213064.0,001dddf2b8e38d79564ce7b756d5ceead1e1da59,Interesting methodology.,5
+3263140.0,809624aa1b6a10ebee3e9ed1f3f3f25f67365e1a,Interesting methodology.,1
+69458826.0,809624aa1b6a10ebee3e9ed1f3f3f25f67365e1a,Interesting methodology.,3
+1732512.0,809624aa1b6a10ebee3e9ed1f3f3f25f67365e1a,Limited novelty but useful results.,1
+1866671.0,8722bbf08207d8713c61cad0b8f46130561b9d99,Interesting methodology.,5
+145279674.0,8722bbf08207d8713c61cad0b8f46130561b9d99,Interesting methodology.,4
+145030947.0,8722bbf08207d8713c61cad0b8f46130561b9d99,Interesting methodology.,5
+89054234.0,8722bbf08207d8713c61cad0b8f46130561b9d99,Interesting methodology.,4
+1417268397.0,30c2a18a1868089f3c67f1a033b2d22a6e766a20,Well-structured and informative.,5
+1403235015.0,30c2a18a1868089f3c67f1a033b2d22a6e766a20,Excellent contribution to the field.,5
+2054621277.0,30c2a18a1868089f3c67f1a033b2d22a6e766a20,Needs more empirical validation.,3
+151676218.0,30c2a18a1868089f3c67f1a033b2d22a6e766a20,Limited novelty but useful results.,5
+39253879.0,30c2a18a1868089f3c67f1a033b2d22a6e766a20,Interesting methodology.,4
+1719172.0,30c2a18a1868089f3c67f1a033b2d22a6e766a20,Limited novelty but useful results.,3
+2057601617.0,30c2a18a1868089f3c67f1a033b2d22a6e766a20,Excellent contribution to the field.,4
+2001357.0,a7690966fff0f8961e85b911cdd2ca1ebcae4869,Well-structured and informative.,4
+1401968492.0,a7690966fff0f8961e85b911cdd2ca1ebcae4869,Needs more empirical validation.,4
+1399544582.0,a7690966fff0f8961e85b911cdd2ca1ebcae4869,Well-structured and informative.,1
+40359815.0,318683a3a0943930479e77c0d1322c79fed6ca07,Limited novelty but useful results.,2
+3164293.0,318683a3a0943930479e77c0d1322c79fed6ca07,Interesting methodology.,1
+40551931.0,001e94f525a7642d01202a810044a3e84969216a,Excellent contribution to the field.,4
+3008902.0,001e94f525a7642d01202a810044a3e84969216a,Excellent contribution to the field.,4
+2152517045.0,001e94f525a7642d01202a810044a3e84969216a,Limited novelty but useful results.,5
+2300486168.0,001e94f525a7642d01202a810044a3e84969216a,Limited novelty but useful results.,5
+2317584573.0,ac6877ada2af50d03c23f9c9d15d5e0a06d46d6d,Interesting methodology.,1
+2333620045.0,ac6877ada2af50d03c23f9c9d15d5e0a06d46d6d,Limited novelty but useful results.,4
+2333714567.0,ac6877ada2af50d03c23f9c9d15d5e0a06d46d6d,Limited novelty but useful results.,5
+2333717923.0,ac6877ada2af50d03c23f9c9d15d5e0a06d46d6d,Interesting methodology.,1
+2333683660.0,ac6877ada2af50d03c23f9c9d15d5e0a06d46d6d,Needs more empirical validation.,3
+2333847257.0,ac6877ada2af50d03c23f9c9d15d5e0a06d46d6d,Interesting methodology.,2
+151113774.0,001f207cc7a80ad08cdbab2b8eca23b0a8618cb3,Needs more empirical validation.,1
+152622072.0,001f207cc7a80ad08cdbab2b8eca23b0a8618cb3,Interesting methodology.,3
+1688355.0,001f207cc7a80ad08cdbab2b8eca23b0a8618cb3,Well-structured and informative.,3
+2304746513.0,f250ef0a7e3bdc60888dabea5ee31ec0e1e59662,Excellent contribution to the field.,4
+1866603.0,f250ef0a7e3bdc60888dabea5ee31ec0e1e59662,Excellent contribution to the field.,1
+2304910123.0,f250ef0a7e3bdc60888dabea5ee31ec0e1e59662,Well-structured and informative.,3
+2304897834.0,f250ef0a7e3bdc60888dabea5ee31ec0e1e59662,Well-structured and informative.,4
+151113774.0,786d99ce9386d77f22a59197a53e9a8e81d09b1a,Excellent contribution to the field.,2
+152622072.0,786d99ce9386d77f22a59197a53e9a8e81d09b1a,Well-structured and informative.,2
+2146113291.0,786d99ce9386d77f22a59197a53e9a8e81d09b1a,Limited novelty but useful results.,4
+2064705169.0,f7af9c3c1bf4860d2e749074228e4e91a0bd5cd1,Needs more empirical validation.,2
+2129305292.0,f7af9c3c1bf4860d2e749074228e4e91a0bd5cd1,Needs more empirical validation.,2
+2131885430.0,f7af9c3c1bf4860d2e749074228e4e91a0bd5cd1,Excellent contribution to the field.,4
+2339459113.0,f7af9c3c1bf4860d2e749074228e4e91a0bd5cd1,Excellent contribution to the field.,3
+47829536.0,f7af9c3c1bf4860d2e749074228e4e91a0bd5cd1,Well-structured and informative.,2
+151113774.0,9435afc04d6401babb62a3cd74c8897d9f8a7c50,Limited novelty but useful results.,5
+2248213062.0,9435afc04d6401babb62a3cd74c8897d9f8a7c50,Limited novelty but useful results.,4
+46184578.0,9435afc04d6401babb62a3cd74c8897d9f8a7c50,Excellent contribution to the field.,1
+2151568983.0,723e8b15ed134e8940adc2b0af06ac016df340f8,Interesting methodology.,1
+151113774.0,723e8b15ed134e8940adc2b0af06ac016df340f8,Well-structured and informative.,1
+152622072.0,723e8b15ed134e8940adc2b0af06ac016df340f8,Limited novelty but useful results.,3
+1688355.0,723e8b15ed134e8940adc2b0af06ac016df340f8,Limited novelty but useful results.,3
+148119661.0,1ebb39cbe71a6b71a82413b4f66325e7bf0ed745,Interesting methodology.,1
+1750138.0,1ebb39cbe71a6b71a82413b4f66325e7bf0ed745,Interesting methodology.,3
+47155754.0,1ebb39cbe71a6b71a82413b4f66325e7bf0ed745,Interesting methodology.,5
+10096563.0,1ebb39cbe71a6b71a82413b4f66325e7bf0ed745,Needs more empirical validation.,2
+11573049.0,1ebb39cbe71a6b71a82413b4f66325e7bf0ed745,Excellent contribution to the field.,1
+1792647.0,1ebb39cbe71a6b71a82413b4f66325e7bf0ed745,Needs more empirical validation.,2
+2340096194.0,9cb9e5d42a124562dc6cb348d15199b749666a53,Interesting methodology.,2
+79290561.0,9cb9e5d42a124562dc6cb348d15199b749666a53,Excellent contribution to the field.,5
+15232538.0,9cb9e5d42a124562dc6cb348d15199b749666a53,Excellent contribution to the field.,3
+38078530.0,9cb9e5d42a124562dc6cb348d15199b749666a53,Interesting methodology.,4
+2066496169.0,ee8a19d9f466cb29377d62016961f5bb55b91740,Needs more empirical validation.,1
+151113774.0,ee8a19d9f466cb29377d62016961f5bb55b91740,Well-structured and informative.,3
+1688355.0,ee8a19d9f466cb29377d62016961f5bb55b91740,Well-structured and informative.,1
+35115278.0,b47c625e05ab4e1a9dfbb1b4bd09a0744b6b2c9b,Excellent contribution to the field.,3
+1784721.0,b47c625e05ab4e1a9dfbb1b4bd09a0744b6b2c9b,Needs more empirical validation.,5
+151113774.0,2eb8660cf81c80490e90d2bfe219127181b045d1,Needs more empirical validation.,1
+152622072.0,2eb8660cf81c80490e90d2bfe219127181b045d1,Interesting methodology.,1
+2629829.0,6144728018865691618dd340f3bad17dfc06d720,Limited novelty but useful results.,4
+145286037.0,6144728018865691618dd340f3bad17dfc06d720,Well-structured and informative.,3
+144885720.0,6144728018865691618dd340f3bad17dfc06d720,Limited novelty but useful results.,4
+12417033.0,cfe9532588b532fd85822f3f71c570835f493aac,Interesting methodology.,5
+1680166.0,cfe9532588b532fd85822f3f71c570835f493aac,Needs more empirical validation.,2
+1701305.0,cfe9532588b532fd85822f3f71c570835f493aac,Needs more empirical validation.,3
+144523409.0,001fde8063a189d95ebad3831cdd9ddbc2b4eec1,Interesting methodology.,4
+143684647.0,001fde8063a189d95ebad3831cdd9ddbc2b4eec1,Needs more empirical validation.,3
+145863927.0,001fde8063a189d95ebad3831cdd9ddbc2b4eec1,Limited novelty but useful results.,4
+144657032.0,001fde8063a189d95ebad3831cdd9ddbc2b4eec1,Needs more empirical validation.,2
+27551792.0,001fde8063a189d95ebad3831cdd9ddbc2b4eec1,Limited novelty but useful results.,1
+2052095589.0,12a494043e159e0c6b47b8c72c16b3e3523e9272,Interesting methodology.,3
+34892093.0,12a494043e159e0c6b47b8c72c16b3e3523e9272,Well-structured and informative.,2
+1381262691.0,12a494043e159e0c6b47b8c72c16b3e3523e9272,Excellent contribution to the field.,3
+1509416491.0,12a494043e159e0c6b47b8c72c16b3e3523e9272,Excellent contribution to the field.,1
+2865315.0,12a494043e159e0c6b47b8c72c16b3e3523e9272,Needs more empirical validation.,4
+21220242.0,12d56574d0c6bc3a2ecba49748c674d74c3022a2,Well-structured and informative.,3
+145301291.0,12d56574d0c6bc3a2ecba49748c674d74c3022a2,Well-structured and informative.,2
+3104272.0,001ff9ef287fe7af74ef5766e7e6389465235b10,Interesting methodology.,4
+1772389.0,001ff9ef287fe7af74ef5766e7e6389465235b10,Excellent contribution to the field.,1
+2137242188.0,56d1864e48f03bba56a632bb1fc11cf6cf59197d,Needs more empirical validation.,2
+3015996.0,56d1864e48f03bba56a632bb1fc11cf6cf59197d,Limited novelty but useful results.,3
+1771640.0,56d1864e48f03bba56a632bb1fc11cf6cf59197d,Well-structured and informative.,3
+46837955.0,9a4da56e61b49a4ed905e4a9ad7d9d8163c4c485,Excellent contribution to the field.,3
+2486829.0,9a4da56e61b49a4ed905e4a9ad7d9d8163c4c485,Needs more empirical validation.,2
+102679833.0,9a4da56e61b49a4ed905e4a9ad7d9d8163c4c485,Well-structured and informative.,3
+48000250.0,63b1df2b3f7c33811101a671d6196cd73f7452dd,Excellent contribution to the field.,1
+3104508.0,63b1df2b3f7c33811101a671d6196cd73f7452dd,Excellent contribution to the field.,1
+2053516026.0,63b1df2b3f7c33811101a671d6196cd73f7452dd,Interesting methodology.,1
+2332934096.0,52e34be43a5c53a157b6515273d060fd241a9de6,Well-structured and informative.,3
+2169541249.0,53eba4ee8f79ce86ab0b06303b23ef1a69fe67d4,Excellent contribution to the field.,1
+37061173.0,53eba4ee8f79ce86ab0b06303b23ef1a69fe67d4,Interesting methodology.,3
+2332934096.0,53eba4ee8f79ce86ab0b06303b23ef1a69fe67d4,Needs more empirical validation.,4
+144898784.0,d190eaaf0c52e9b2a509ccd4308866659fc3e5cb,Well-structured and informative.,2
+145401627.0,d190eaaf0c52e9b2a509ccd4308866659fc3e5cb,Interesting methodology.,4
+1750770.0,1b7d4841b6bd050812d78af9cab9f556d19b8231,Excellent contribution to the field.,3
+36928529.0,1b7d4841b6bd050812d78af9cab9f556d19b8231,Needs more empirical validation.,2
+30807406.0,0020c8e9944c238cb50ac871e371aead1b582261,Excellent contribution to the field.,5
+3057079.0,0020c8e9944c238cb50ac871e371aead1b582261,Excellent contribution to the field.,1
+120398532.0,00970f4d0e3e822f4d3d5785f4a67c360081ac3a,Needs more empirical validation.,1
+1746880.0,00970f4d0e3e822f4d3d5785f4a67c360081ac3a,Limited novelty but useful results.,2
+145519044.0,00970f4d0e3e822f4d3d5785f4a67c360081ac3a,Interesting methodology.,4
+2037450192.0,0020ca8c077c3b871aa1e1ca47dcc84367f52a87,Excellent contribution to the field.,5
+2627980.0,0020ca8c077c3b871aa1e1ca47dcc84367f52a87,Limited novelty but useful results.,5
+2140180612.0,0020ca8c077c3b871aa1e1ca47dcc84367f52a87,Interesting methodology.,2
+1805040.0,0020ca8c077c3b871aa1e1ca47dcc84367f52a87,Well-structured and informative.,4
+35227813.0,0020ca8c077c3b871aa1e1ca47dcc84367f52a87,Limited novelty but useful results.,5
+51125328.0,5bb607e7246519375f75bed264acbc9c92307b09,Needs more empirical validation.,3
+40795471.0,5bb607e7246519375f75bed264acbc9c92307b09,Interesting methodology.,3
+2036872093.0,5bb607e7246519375f75bed264acbc9c92307b09,Limited novelty but useful results.,4
+39803999.0,5bb607e7246519375f75bed264acbc9c92307b09,Excellent contribution to the field.,4
+2216541.0,5bb607e7246519375f75bed264acbc9c92307b09,Interesting methodology.,1
+143815294.0,5bb607e7246519375f75bed264acbc9c92307b09,Limited novelty but useful results.,4
+49738269.0,5bb607e7246519375f75bed264acbc9c92307b09,Limited novelty but useful results.,1
+40691635.0,cdbdfbe7aaab94793857356e88e78c84fd48a166,Well-structured and informative.,5
+144707454.0,cdbdfbe7aaab94793857356e88e78c84fd48a166,Well-structured and informative.,3
+1753715.0,cdbdfbe7aaab94793857356e88e78c84fd48a166,Interesting methodology.,1
+144707454.0,da19f3f67ac1dadbd8151dd8ad6e14afe307e1c2,Well-structured and informative.,3
+1753715.0,da19f3f67ac1dadbd8151dd8ad6e14afe307e1c2,Excellent contribution to the field.,5
+1706989.0,da19f3f67ac1dadbd8151dd8ad6e14afe307e1c2,Excellent contribution to the field.,2
+2393320.0,0021f46bda27ea105d722d19690f5564f2b8869e,Well-structured and informative.,2
+39336289.0,0021f46bda27ea105d722d19690f5564f2b8869e,Limited novelty but useful results.,1
+2108970782.0,0021f46bda27ea105d722d19690f5564f2b8869e,Limited novelty but useful results.,5
+3403352.0,fc14be9376dc35069f58cf2f777952694437f1ff,Needs more empirical validation.,3
+151482182.0,fc14be9376dc35069f58cf2f777952694437f1ff,Interesting methodology.,5
+2145493727.0,fc14be9376dc35069f58cf2f777952694437f1ff,Interesting methodology.,2
+2323787372.0,fc14be9376dc35069f58cf2f777952694437f1ff,Limited novelty but useful results.,3
+2228756735.0,fc14be9376dc35069f58cf2f777952694437f1ff,Excellent contribution to the field.,1
+145786594.0,fc14be9376dc35069f58cf2f777952694437f1ff,Needs more empirical validation.,3
+2323827347.0,fc14be9376dc35069f58cf2f777952694437f1ff,Limited novelty but useful results.,5
+1404100564.0,e2ec34461e5fdb4e015142996e5b2b7df2dcb25b,Needs more empirical validation.,3
+1401771340.0,e2ec34461e5fdb4e015142996e5b2b7df2dcb25b,Interesting methodology.,5
+2239211677.0,67af5676c6069143eab98330aa6d28ceec359bb1,Well-structured and informative.,1
+2288984843.0,67af5676c6069143eab98330aa6d28ceec359bb1,Interesting methodology.,1
+2288983697.0,67af5676c6069143eab98330aa6d28ceec359bb1,Excellent contribution to the field.,1
+2064150.0,7bb5e4db37dabc756a94c7f264700dad032cd628,Excellent contribution to the field.,1
+1772490.0,7bb5e4db37dabc756a94c7f264700dad032cd628,Interesting methodology.,2
+1751975.0,7bb5e4db37dabc756a94c7f264700dad032cd628,Limited novelty but useful results.,1
+2152798968.0,a2592d944a85df0ef87726cf2cabeb022a4aa1fb,Limited novelty but useful results.,1
+3280806.0,a2592d944a85df0ef87726cf2cabeb022a4aa1fb,Interesting methodology.,1
+3381691.0,a2592d944a85df0ef87726cf2cabeb022a4aa1fb,Excellent contribution to the field.,3
+2044333117.0,a2592d944a85df0ef87726cf2cabeb022a4aa1fb,Limited novelty but useful results.,3
+2153897097.0,a2592d944a85df0ef87726cf2cabeb022a4aa1fb,Well-structured and informative.,3
+1757287.0,a2592d944a85df0ef87726cf2cabeb022a4aa1fb,Well-structured and informative.,1
+39668466.0,45bfb9de95046602b6c7512e827e0a6e206d6abb,Limited novelty but useful results.,3
+2327746.0,45bfb9de95046602b6c7512e827e0a6e206d6abb,Well-structured and informative.,4
+34287833.0,45bfb9de95046602b6c7512e827e0a6e206d6abb,Limited novelty but useful results.,4
+2105128532.0,45bfb9de95046602b6c7512e827e0a6e206d6abb,Needs more empirical validation.,2
+1713159.0,45bfb9de95046602b6c7512e827e0a6e206d6abb,Interesting methodology.,1
+1819894.0,45bfb9de95046602b6c7512e827e0a6e206d6abb,Limited novelty but useful results.,1
+2044333117.0,b0cfc5a2e4634344b0c6eb3beb1f9e6c66d14960,Excellent contribution to the field.,2
+3280806.0,b0cfc5a2e4634344b0c6eb3beb1f9e6c66d14960,Well-structured and informative.,2
+2152798968.0,b0cfc5a2e4634344b0c6eb3beb1f9e6c66d14960,Interesting methodology.,1
+40353287.0,b0cfc5a2e4634344b0c6eb3beb1f9e6c66d14960,Excellent contribution to the field.,2
+117192328.0,51ef0f6b6080ae713c196408888f1287fd1a1950,Excellent contribution to the field.,1
+2286272239.0,51ef0f6b6080ae713c196408888f1287fd1a1950,Needs more empirical validation.,2
+65784403.0,aae227322ac72cdf982fa8b7e3249e9ea6b05910,Interesting methodology.,3
+144903595.0,aae227322ac72cdf982fa8b7e3249e9ea6b05910,Needs more empirical validation.,1
+39711431.0,aae227322ac72cdf982fa8b7e3249e9ea6b05910,Excellent contribution to the field.,3
+46910399.0,9e2d2d0392d8a2ae92509ecb687902929c6c22e9,Well-structured and informative.,4
+144893429.0,9e2d2d0392d8a2ae92509ecb687902929c6c22e9,Well-structured and informative.,5
+2073933120.0,3fe25fa3092abb2e0f8885ede7777709174c57fa,Excellent contribution to the field.,1
+32024439.0,3fe25fa3092abb2e0f8885ede7777709174c57fa,Well-structured and informative.,2
+3084152.0,1599718bf756a0fb7157277b93f21cfcad04e383,Well-structured and informative.,4
+2097841220.0,1599718bf756a0fb7157277b93f21cfcad04e383,Needs more empirical validation.,2
+2601939.0,2e4af205e6982755c97c13d27984e270ec93ffa4,Limited novelty but useful results.,3
+2186757.0,2e4af205e6982755c97c13d27984e270ec93ffa4,Limited novelty but useful results.,3
+2941799.0,1305a981c54c16fc50f13126a11a2e8483857c85,Excellent contribution to the field.,1
+2951291.0,1305a981c54c16fc50f13126a11a2e8483857c85,Interesting methodology.,3
+2117425.0,1305a981c54c16fc50f13126a11a2e8483857c85,Excellent contribution to the field.,2
+2240934.0,2fb8f3c1470558be6e5a02f23dc80dcbada52e39,Needs more empirical validation.,2
+1682393.0,2fb8f3c1470558be6e5a02f23dc80dcbada52e39,Needs more empirical validation.,5
+2080026.0,2fb8f3c1470558be6e5a02f23dc80dcbada52e39,Well-structured and informative.,2
+143897349.0,0022160fefba1baa000f9d5c20a9a4caea9474ef,Interesting methodology.,2
+2288394503.0,0022160fefba1baa000f9d5c20a9a4caea9474ef,Well-structured and informative.,1
+81068884.0,334ee140b83834d9f66583b4a69ee826686e7dfe,Limited novelty but useful results.,1
+11735962.0,334ee140b83834d9f66583b4a69ee826686e7dfe,Interesting methodology.,3
+2295749528.0,cd6402234500f37286e52811dbdbfb87b557a437,Interesting methodology.,5
+2090224732.0,cd6402234500f37286e52811dbdbfb87b557a437,Well-structured and informative.,4
+2273913753.0,cd6402234500f37286e52811dbdbfb87b557a437,Excellent contribution to the field.,5
+2284278459.0,cd6402234500f37286e52811dbdbfb87b557a437,Well-structured and informative.,5
+2273891658.0,cd6402234500f37286e52811dbdbfb87b557a437,Well-structured and informative.,4
+2273770186.0,cd6402234500f37286e52811dbdbfb87b557a437,Interesting methodology.,1
+2274082857.0,cd6402234500f37286e52811dbdbfb87b557a437,Limited novelty but useful results.,5
+2273949609.0,cd6402234500f37286e52811dbdbfb87b557a437,Needs more empirical validation.,5
+2273646608.0,cd6402234500f37286e52811dbdbfb87b557a437,Well-structured and informative.,4
+2274100100.0,cd6402234500f37286e52811dbdbfb87b557a437,Excellent contribution to the field.,5
+2282916231.0,cd6402234500f37286e52811dbdbfb87b557a437,Well-structured and informative.,1
+2273645347.0,cd6402234500f37286e52811dbdbfb87b557a437,Well-structured and informative.,5
+151125535.0,4560aaf6aa9d59dddbc4939c6573b1385761f567,Well-structured and informative.,5
+1402877870.0,4560aaf6aa9d59dddbc4939c6573b1385761f567,Limited novelty but useful results.,4
+144986653.0,4560aaf6aa9d59dddbc4939c6573b1385761f567,Limited novelty but useful results.,5
+1771095.0,4560aaf6aa9d59dddbc4939c6573b1385761f567,Interesting methodology.,2
+2109681670.0,4560aaf6aa9d59dddbc4939c6573b1385761f567,Well-structured and informative.,5
+40893923.0,4560aaf6aa9d59dddbc4939c6573b1385761f567,Excellent contribution to the field.,5
+3263791.0,4560aaf6aa9d59dddbc4939c6573b1385761f567,Limited novelty but useful results.,3
+151125535.0,1222c3eec67aa8d09799c60740360cae9d6026cb,Needs more empirical validation.,5
+2116362588.0,1222c3eec67aa8d09799c60740360cae9d6026cb,Well-structured and informative.,1
+1402877870.0,1222c3eec67aa8d09799c60740360cae9d6026cb,Interesting methodology.,3
+1771095.0,1222c3eec67aa8d09799c60740360cae9d6026cb,Needs more empirical validation.,5
+9080779.0,23396e5737f0da128c9a011d28ac88735db1357e,Limited novelty but useful results.,1
+3241872.0,23396e5737f0da128c9a011d28ac88735db1357e,Excellent contribution to the field.,5
+9195663.0,23396e5737f0da128c9a011d28ac88735db1357e,Well-structured and informative.,4
+40497459.0,002285ade41b9e1313f9c914b99e68b62fab7ff1,Limited novelty but useful results.,2
+2652016.0,002285ade41b9e1313f9c914b99e68b62fab7ff1,Excellent contribution to the field.,5
+1744675.0,002285ade41b9e1313f9c914b99e68b62fab7ff1,Limited novelty but useful results.,2
+1685898.0,002285ade41b9e1313f9c914b99e68b62fab7ff1,Needs more empirical validation.,1
+74133595.0,002359d4160e310b20637e3450da4757ec22dc45,Limited novelty but useful results.,1
+1788150.0,002359d4160e310b20637e3450da4757ec22dc45,Limited novelty but useful results.,3
+2920523.0,002359d4160e310b20637e3450da4757ec22dc45,Excellent contribution to the field.,5
+2108954183.0,59ad2aecfde8512480b5d7340a368dd834c64e0f,Limited novelty but useful results.,4
+2109528269.0,59ad2aecfde8512480b5d7340a368dd834c64e0f,Interesting methodology.,1
+2109528269.0,6d32bb42a9d27ecb4dfdde5a0e1c82cfc1c65bf7,Limited novelty but useful results.,1
+2667972.0,6d32bb42a9d27ecb4dfdde5a0e1c82cfc1c65bf7,Limited novelty but useful results.,5
+2108954183.0,0e11db239f53293e3834828eaae33894b83bb880,Needs more empirical validation.,3
+145078777.0,0e11db239f53293e3834828eaae33894b83bb880,Needs more empirical validation.,3
+2109528269.0,1b105488d1908164daa92b4f380e345f053b5988,Well-structured and informative.,2
+2667972.0,1b105488d1908164daa92b4f380e345f053b5988,Needs more empirical validation.,5
+2108954183.0,1b105488d1908164daa92b4f380e345f053b5988,Well-structured and informative.,3
+145358661.0,4414b3bae922531cdb1086fbd25697cbd016da82,Interesting methodology.,4
+2150920868.0,4414b3bae922531cdb1086fbd25697cbd016da82,Interesting methodology.,4
+1768766.0,4414b3bae922531cdb1086fbd25697cbd016da82,Well-structured and informative.,1
+120347042.0,d8dcfb5718eaf1d9931998f4e2bb04c0ff8ca86d,Well-structured and informative.,1
+1702184.0,d8dcfb5718eaf1d9931998f4e2bb04c0ff8ca86d,Needs more empirical validation.,5
+145078777.0,d8dcfb5718eaf1d9931998f4e2bb04c0ff8ca86d,Limited novelty but useful results.,1
+50081375.0,d8dcfb5718eaf1d9931998f4e2bb04c0ff8ca86d,Limited novelty but useful results.,2
+2281442625.0,007b885f74eb1783a86e9ac0670c1035c08a199f,Needs more empirical validation.,3
+2187045917.0,007b885f74eb1783a86e9ac0670c1035c08a199f,Needs more empirical validation.,1
+2281378790.0,007b885f74eb1783a86e9ac0670c1035c08a199f,Excellent contribution to the field.,3
+2073585843.0,007b885f74eb1783a86e9ac0670c1035c08a199f,Limited novelty but useful results.,3
+2261687677.0,007b885f74eb1783a86e9ac0670c1035c08a199f,Limited novelty but useful results.,4
+2244075705.0,007b885f74eb1783a86e9ac0670c1035c08a199f,Needs more empirical validation.,4
+2152802065.0,3170c2174a34d19cae9ba9002c10993bca52813a,Well-structured and informative.,1
+31609328.0,3170c2174a34d19cae9ba9002c10993bca52813a,Limited novelty but useful results.,5
+145859268.0,3170c2174a34d19cae9ba9002c10993bca52813a,Limited novelty but useful results.,5
+47825456.0,3170c2174a34d19cae9ba9002c10993bca52813a,Limited novelty but useful results.,2
+2109725625.0,3170c2174a34d19cae9ba9002c10993bca52813a,Interesting methodology.,3
+2153605139.0,1aa968934976d9be4ed2962aa3cd943e0bfc8ed4,Excellent contribution to the field.,4
+47876591.0,1aa968934976d9be4ed2962aa3cd943e0bfc8ed4,Excellent contribution to the field.,1
+2303465689.0,1aa968934976d9be4ed2962aa3cd943e0bfc8ed4,Excellent contribution to the field.,2
+2144632579.0,1aa968934976d9be4ed2962aa3cd943e0bfc8ed4,Excellent contribution to the field.,5
+2108398139.0,1aa968934976d9be4ed2962aa3cd943e0bfc8ed4,Limited novelty but useful results.,2
+2144437846.0,1aa968934976d9be4ed2962aa3cd943e0bfc8ed4,Interesting methodology.,1
+2130403581.0,1aa968934976d9be4ed2962aa3cd943e0bfc8ed4,Excellent contribution to the field.,2
+8349792.0,1aa968934976d9be4ed2962aa3cd943e0bfc8ed4,Needs more empirical validation.,2
+2165186676.0,b4293f17cfdb1ad1f24aa687794f52001516dc94,Needs more empirical validation.,4
+1704406169.0,b4293f17cfdb1ad1f24aa687794f52001516dc94,Interesting methodology.,1
+7436428.0,b4293f17cfdb1ad1f24aa687794f52001516dc94,Interesting methodology.,1
+2155408616.0,b4293f17cfdb1ad1f24aa687794f52001516dc94,Well-structured and informative.,1
+2110237332.0,00240c74a2f1b812b7faf98556fffaa6ae2221da,Interesting methodology.,5
+3138646.0,00240c74a2f1b812b7faf98556fffaa6ae2221da,Excellent contribution to the field.,2
+1800388.0,00240c74a2f1b812b7faf98556fffaa6ae2221da,Excellent contribution to the field.,1
+1756511.0,00242a60e127c5d66f23d039428caaed57a48cd2,Well-structured and informative.,5
+1733560.0,078241442033645965d810576d7f93f9c3a15b54,Excellent contribution to the field.,2
+34572707.0,078241442033645965d810576d7f93f9c3a15b54,Excellent contribution to the field.,3
+1708312.0,078241442033645965d810576d7f93f9c3a15b54,Excellent contribution to the field.,2
+1733560.0,d00a5de089cc3ef11420cc63f43cc8f29c67e51e,Limited novelty but useful results.,2
+32732004.0,d00a5de089cc3ef11420cc63f43cc8f29c67e51e,Well-structured and informative.,5
+34572707.0,d00a5de089cc3ef11420cc63f43cc8f29c67e51e,Needs more empirical validation.,2
+1708312.0,d00a5de089cc3ef11420cc63f43cc8f29c67e51e,Excellent contribution to the field.,4
+2054953453.0,c0cf85f769992fd6fe0c9d76c2869b2dc0f06321,Interesting methodology.,4
+2110207368.0,c0cf85f769992fd6fe0c9d76c2869b2dc0f06321,Limited novelty but useful results.,1
+71425070.0,c0cf85f769992fd6fe0c9d76c2869b2dc0f06321,Well-structured and informative.,2
+40120784.0,b6471b18d19a77a75598b2a3c4a6bcbb46c171bd,Well-structured and informative.,4
+122905339.0,b6471b18d19a77a75598b2a3c4a6bcbb46c171bd,Interesting methodology.,4
+48419853.0,b6471b18d19a77a75598b2a3c4a6bcbb46c171bd,Limited novelty but useful results.,1
+1759410.0,b6471b18d19a77a75598b2a3c4a6bcbb46c171bd,Limited novelty but useful results.,2
+1733560.0,92785f08d2fd9d18fddaa431023f0d7a4756cd66,Needs more empirical validation.,1
+2109162828.0,92785f08d2fd9d18fddaa431023f0d7a4756cd66,Limited novelty but useful results.,1
+1708312.0,92785f08d2fd9d18fddaa431023f0d7a4756cd66,Interesting methodology.,3
+2915463.0,deccdc6a2b53bfdd7d0817fc2651d7cfcd6114fb,Well-structured and informative.,4
+38521559.0,deccdc6a2b53bfdd7d0817fc2651d7cfcd6114fb,Limited novelty but useful results.,3
+121126136.0,deccdc6a2b53bfdd7d0817fc2651d7cfcd6114fb,Needs more empirical validation.,1
+1492118133.0,deccdc6a2b53bfdd7d0817fc2651d7cfcd6114fb,Well-structured and informative.,2
+2669554.0,deccdc6a2b53bfdd7d0817fc2651d7cfcd6114fb,Limited novelty but useful results.,5
+4591224.0,ad9127d52b33f1e09fedec669c87ac83094b360e,Excellent contribution to the field.,5
+2005163335.0,ad9127d52b33f1e09fedec669c87ac83094b360e,Excellent contribution to the field.,1
+2006075804.0,ad9127d52b33f1e09fedec669c87ac83094b360e,Interesting methodology.,3
+30780021.0,ad9127d52b33f1e09fedec669c87ac83094b360e,Interesting methodology.,3
+30893368.0,c303d8bf837cd173bb9bd8a0060d5b28e79b4bf8,Well-structured and informative.,3
+47517530.0,c303d8bf837cd173bb9bd8a0060d5b28e79b4bf8,Limited novelty but useful results.,5
+39935739.0,c303d8bf837cd173bb9bd8a0060d5b28e79b4bf8,Needs more empirical validation.,2
+30893368.0,544ed7b9035fc22df84f7a82ae4eeb37b3d7398b,Limited novelty but useful results.,5
+39935739.0,544ed7b9035fc22df84f7a82ae4eeb37b3d7398b,Interesting methodology.,4
+47517530.0,544ed7b9035fc22df84f7a82ae4eeb37b3d7398b,Well-structured and informative.,4
+153844273.0,544ed7b9035fc22df84f7a82ae4eeb37b3d7398b,Limited novelty but useful results.,2
+2633315.0,edd26addf7a22eb588f784695eb833b98af6d843,Interesting methodology.,5
+49595930.0,edd26addf7a22eb588f784695eb833b98af6d843,Interesting methodology.,3
+1471837030.0,edd26addf7a22eb588f784695eb833b98af6d843,Limited novelty but useful results.,3
+113403485.0,14e25b9a178b5cef0fa7069c5bac8cc89415a4c3,Excellent contribution to the field.,4
+2109973653.0,14e25b9a178b5cef0fa7069c5bac8cc89415a4c3,Interesting methodology.,2
+3147343.0,00251e9fd7258657b86dedb5f0ad814a8af4ebbb,Excellent contribution to the field.,3
+2203117.0,00251e9fd7258657b86dedb5f0ad814a8af4ebbb,Well-structured and informative.,4
+2188303651.0,ba753d93d3430673158fad6f313b6d99be2fa4fe,Interesting methodology.,3
+40805055.0,ba753d93d3430673158fad6f313b6d99be2fa4fe,Excellent contribution to the field.,4
+3138293.0,ba753d93d3430673158fad6f313b6d99be2fa4fe,Excellent contribution to the field.,2
+1399015523.0,643aa9328e1d576400588870a2efa00befeb306a,Excellent contribution to the field.,4
+145515128.0,643aa9328e1d576400588870a2efa00befeb306a,Excellent contribution to the field.,3
+145739318.0,643aa9328e1d576400588870a2efa00befeb306a,Limited novelty but useful results.,1
+143667097.0,643aa9328e1d576400588870a2efa00befeb306a,Well-structured and informative.,1
+30441535.0,216715a74a2ceb71ea2c044d9f6b4cac3e8a8ef5,Well-structured and informative.,2
+48553748.0,216715a74a2ceb71ea2c044d9f6b4cac3e8a8ef5,Limited novelty but useful results.,5
+143846701.0,216715a74a2ceb71ea2c044d9f6b4cac3e8a8ef5,Limited novelty but useful results.,5
+46544755.0,216715a74a2ceb71ea2c044d9f6b4cac3e8a8ef5,Interesting methodology.,4
+2203117.0,9aaa1213b9c7f531b8c6e8ed1ce7e07b9b33d012,Limited novelty but useful results.,2
+145923920.0,9aaa1213b9c7f531b8c6e8ed1ce7e07b9b33d012,Limited novelty but useful results.,4
+17777392.0,9aaa1213b9c7f531b8c6e8ed1ce7e07b9b33d012,Limited novelty but useful results.,4
+3217653.0,1592bbf195852d24b294eb040d681efaf7a859d0,Excellent contribution to the field.,4
+2061304581.0,1592bbf195852d24b294eb040d681efaf7a859d0,Excellent contribution to the field.,3
+1381861828.0,1592bbf195852d24b294eb040d681efaf7a859d0,Excellent contribution to the field.,1
+2042707165.0,002544729825daf6843a471ccb22d446969511b7,Interesting methodology.,1
+145973534.0,002544729825daf6843a471ccb22d446969511b7,Needs more empirical validation.,2
+2156914450.0,d5dc38ed5a3e386a2f4303ef858796f94bbb44d0,Excellent contribution to the field.,2
+17771023.0,d5dc38ed5a3e386a2f4303ef858796f94bbb44d0,Needs more empirical validation.,4
+2148712875.0,d5dc38ed5a3e386a2f4303ef858796f94bbb44d0,Excellent contribution to the field.,1
+2267015572.0,d5dc38ed5a3e386a2f4303ef858796f94bbb44d0,Limited novelty but useful results.,5
+2065312024.0,d5dc38ed5a3e386a2f4303ef858796f94bbb44d0,Needs more empirical validation.,1
+2187359313.0,5c1927090959676f40eb91442b0295bedf67cdf2,Well-structured and informative.,2
+1644300583.0,5c1927090959676f40eb91442b0295bedf67cdf2,Needs more empirical validation.,4
+40881582.0,8b3298e265545853819add7fbbb93e7a73d1480d,Excellent contribution to the field.,3
+2106669075.0,8b3298e265545853819add7fbbb93e7a73d1480d,Interesting methodology.,5
+2155693701.0,8b3298e265545853819add7fbbb93e7a73d1480d,Interesting methodology.,3
+35099612.0,8b3298e265545853819add7fbbb93e7a73d1480d,Excellent contribution to the field.,3
+46988384.0,8b3298e265545853819add7fbbb93e7a73d1480d,Limited novelty but useful results.,2
+1500418292.0,00b6d0fea5fcc06a46e221dea1079b7d7e1d9b1f,Interesting methodology.,1
+29362632.0,00b6d0fea5fcc06a46e221dea1079b7d7e1d9b1f,Limited novelty but useful results.,2
+144762541.0,00b6d0fea5fcc06a46e221dea1079b7d7e1d9b1f,Needs more empirical validation.,3
+145576595.0,348e380a48afcc55e72438bfac2747ec4c8cbfd4,Limited novelty but useful results.,2
+144576599.0,348e380a48afcc55e72438bfac2747ec4c8cbfd4,Needs more empirical validation.,4
+30937904.0,348e380a48afcc55e72438bfac2747ec4c8cbfd4,Well-structured and informative.,1
+2054860108.0,348e380a48afcc55e72438bfac2747ec4c8cbfd4,Needs more empirical validation.,2
+2116491253.0,348e380a48afcc55e72438bfac2747ec4c8cbfd4,Excellent contribution to the field.,5
+2047412869.0,348e380a48afcc55e72438bfac2747ec4c8cbfd4,Limited novelty but useful results.,1
+2140071418.0,348e380a48afcc55e72438bfac2747ec4c8cbfd4,Needs more empirical validation.,2
+1728828.0,348e380a48afcc55e72438bfac2747ec4c8cbfd4,Excellent contribution to the field.,1
+35440261.0,edc0bd4137cc3de24a2367ecfc2dde1203d1b682,Needs more empirical validation.,5
+144041520.0,edc0bd4137cc3de24a2367ecfc2dde1203d1b682,Needs more empirical validation.,2
+144958143.0,0025ab61c405d2f60446d6c8cdcdf0d9680f6163,Limited novelty but useful results.,3
+1777025.0,0025ab61c405d2f60446d6c8cdcdf0d9680f6163,Limited novelty but useful results.,1
+2109960367.0,0025ab61c405d2f60446d6c8cdcdf0d9680f6163,Needs more empirical validation.,3
+7888704.0,0025ab61c405d2f60446d6c8cdcdf0d9680f6163,Interesting methodology.,1
+2117415732.0,0025ab61c405d2f60446d6c8cdcdf0d9680f6163,Limited novelty but useful results.,4
+1717004.0,0025ab61c405d2f60446d6c8cdcdf0d9680f6163,Well-structured and informative.,1
+2111354726.0,b4d60950a4efbf5f4cd7e55002e937dda739b191,Excellent contribution to the field.,4
+2267482774.0,b4d60950a4efbf5f4cd7e55002e937dda739b191,Excellent contribution to the field.,2
+2267386547.0,b4d60950a4efbf5f4cd7e55002e937dda739b191,Needs more empirical validation.,5
+2326285043.0,b4d60950a4efbf5f4cd7e55002e937dda739b191,Limited novelty but useful results.,5
+2267675661.0,b4d60950a4efbf5f4cd7e55002e937dda739b191,Excellent contribution to the field.,1
+1808299.0,0b707bf8224a41649a3ace8e0c1c73cb9f07c947,Limited novelty but useful results.,3
+2210244397.0,0b707bf8224a41649a3ace8e0c1c73cb9f07c947,Excellent contribution to the field.,4
+2108438707.0,0b707bf8224a41649a3ace8e0c1c73cb9f07c947,Needs more empirical validation.,3
+2075290131.0,0b707bf8224a41649a3ace8e0c1c73cb9f07c947,Excellent contribution to the field.,5
+2143744718.0,0b707bf8224a41649a3ace8e0c1c73cb9f07c947,Excellent contribution to the field.,3
+11041265.0,0b707bf8224a41649a3ace8e0c1c73cb9f07c947,Excellent contribution to the field.,3
+2243668.0,0b707bf8224a41649a3ace8e0c1c73cb9f07c947,Interesting methodology.,5
+2200531981.0,0b707bf8224a41649a3ace8e0c1c73cb9f07c947,Excellent contribution to the field.,5
+2275062796.0,0025b963134b1c0b64c1389af19610d038ab7072,Excellent contribution to the field.,5
+1716301.0,0025b963134b1c0b64c1389af19610d038ab7072,Excellent contribution to the field.,5
+1740765.0,0025b963134b1c0b64c1389af19610d038ab7072,Well-structured and informative.,5
+1491148614.0,13fdea5a61b849bca4c88ee2616e219a62e680a5,Needs more empirical validation.,3
+1491122345.0,13fdea5a61b849bca4c88ee2616e219a62e680a5,Interesting methodology.,5
+145470939.0,13fdea5a61b849bca4c88ee2616e219a62e680a5,Needs more empirical validation.,2
+2897539.0,13fdea5a61b849bca4c88ee2616e219a62e680a5,Needs more empirical validation.,5
+2401435.0,7f61a730c141ee8fc7979e6563a16a0342154811,Limited novelty but useful results.,1
+82125923.0,7f61a730c141ee8fc7979e6563a16a0342154811,Well-structured and informative.,3
+87203696.0,7c9c15387fc5acd27e9414938cde819fbd5b28ac,Excellent contribution to the field.,5
+2157039965.0,7c9c15387fc5acd27e9414938cde819fbd5b28ac,Needs more empirical validation.,2
+39767557.0,7c9c15387fc5acd27e9414938cde819fbd5b28ac,Well-structured and informative.,5
+11844404.0,7c9c15387fc5acd27e9414938cde819fbd5b28ac,Well-structured and informative.,2
+1393650147.0,7c9c15387fc5acd27e9414938cde819fbd5b28ac,Well-structured and informative.,2
+34569448.0,7c9c15387fc5acd27e9414938cde819fbd5b28ac,Limited novelty but useful results.,1
+145009961.0,7c9c15387fc5acd27e9414938cde819fbd5b28ac,Excellent contribution to the field.,1
+6814984.0,078e65056d26973713a4eb9b31f4af9ea5abf816,Needs more empirical validation.,2
+2264619.0,078e65056d26973713a4eb9b31f4af9ea5abf816,Excellent contribution to the field.,3
+47072314.0,ac4f71adb0828d07d79311c61febafe242f8b550,Interesting methodology.,5
+1685627749.0,ac4f71adb0828d07d79311c61febafe242f8b550,Excellent contribution to the field.,2
+145009961.0,ac4f71adb0828d07d79311c61febafe242f8b550,Excellent contribution to the field.,3
+2072948215.0,ea0fd7df6c3a874956f32d83a5d91a74560aba5b,Interesting methodology.,5
+1392881542.0,ea0fd7df6c3a874956f32d83a5d91a74560aba5b,Limited novelty but useful results.,3
+11844404.0,ea0fd7df6c3a874956f32d83a5d91a74560aba5b,Well-structured and informative.,1
+1685627749.0,ea0fd7df6c3a874956f32d83a5d91a74560aba5b,Needs more empirical validation.,3
+145009961.0,ea0fd7df6c3a874956f32d83a5d91a74560aba5b,Needs more empirical validation.,4
+116491218.0,ea0fd7df6c3a874956f32d83a5d91a74560aba5b,Well-structured and informative.,5
+1730535.0,ea0fd7df6c3a874956f32d83a5d91a74560aba5b,Excellent contribution to the field.,2
+2246965.0,93a610ad425a3a2caeef41b7ba1bcefe7efca377,Needs more empirical validation.,5
+1710392.0,93a610ad425a3a2caeef41b7ba1bcefe7efca377,Excellent contribution to the field.,2
+2153838294.0,002707e7d13c2bddb857ed7c9f9c1fc6000b35fc,Interesting methodology.,2
+2152097239.0,002707e7d13c2bddb857ed7c9f9c1fc6000b35fc,Interesting methodology.,5
+2153464524.0,002707e7d13c2bddb857ed7c9f9c1fc6000b35fc,Excellent contribution to the field.,2
+153196291.0,fd781b575caf24d04b1838cb4c1d414439df4067,Excellent contribution to the field.,4
+2148964017.0,fd781b575caf24d04b1838cb4c1d414439df4067,Excellent contribution to the field.,2
+2256153726.0,fd781b575caf24d04b1838cb4c1d414439df4067,Excellent contribution to the field.,1
+2893996.0,fd781b575caf24d04b1838cb4c1d414439df4067,Interesting methodology.,3
+2301757701.0,6051a8f179ebac4ce76de872099526adebff3adc,Needs more empirical validation.,4
+2301112646.0,6051a8f179ebac4ce76de872099526adebff3adc,Limited novelty but useful results.,1
+2293319782.0,6051a8f179ebac4ce76de872099526adebff3adc,Interesting methodology.,3
+2115694650.0,6051a8f179ebac4ce76de872099526adebff3adc,Interesting methodology.,5
+2301170142.0,6051a8f179ebac4ce76de872099526adebff3adc,Excellent contribution to the field.,3
+2204644498.0,6051a8f179ebac4ce76de872099526adebff3adc,Interesting methodology.,4
+1719062.0,0027178aa940b2913dd85a0e0a6a5b6e5f44a087,Interesting methodology.,5
+1780080.0,0027178aa940b2913dd85a0e0a6a5b6e5f44a087,Interesting methodology.,2
+2070687.0,330d8b49959cbad4d4170da6e92958563f4c48a2,Interesting methodology.,3
+1907582.0,330d8b49959cbad4d4170da6e92958563f4c48a2,Needs more empirical validation.,3
+145194969.0,330d8b49959cbad4d4170da6e92958563f4c48a2,Interesting methodology.,4
+2109632301.0,5a2b95b394e0fef9541903c1400a63b2ef893937,Limited novelty but useful results.,2
+2142244.0,5a2b95b394e0fef9541903c1400a63b2ef893937,Well-structured and informative.,2
+3450426.0,5a2b95b394e0fef9541903c1400a63b2ef893937,Limited novelty but useful results.,2
+2070687.0,72bafea0668f590fca3c727137db5a225dfc17b0,Well-structured and informative.,5
+1907582.0,72bafea0668f590fca3c727137db5a225dfc17b0,Well-structured and informative.,2
+145194969.0,72bafea0668f590fca3c727137db5a225dfc17b0,Interesting methodology.,2
+144597794.0,d2866e524fb6e993352bbf73a1f9100a59ddfa37,Limited novelty but useful results.,3
+1691929.0,d2866e524fb6e993352bbf73a1f9100a59ddfa37,Needs more empirical validation.,4
+145404204.0,987dd3dd6079e5fa8a10a1c53b2580fd71e27ede,Excellent contribution to the field.,1
+1717056.0,987dd3dd6079e5fa8a10a1c53b2580fd71e27ede,Interesting methodology.,2
+144050849.0,80633c2a614020b4cf5730439f3f5610602015fd,Needs more empirical validation.,3
+143634393.0,80633c2a614020b4cf5730439f3f5610602015fd,Needs more empirical validation.,1
+144019071.0,80633c2a614020b4cf5730439f3f5610602015fd,Limited novelty but useful results.,1
+144539992.0,d4a0feddd3875e7bd727cae7147d9f9cf7804b17,Well-structured and informative.,2
+143977389.0,d4a0feddd3875e7bd727cae7147d9f9cf7804b17,Needs more empirical validation.,5
+1578523513.0,65b3199897068874dcb68b18cec2d37e2b5ef648,Limited novelty but useful results.,5
+66966391.0,65b3199897068874dcb68b18cec2d37e2b5ef648,Needs more empirical validation.,1
+2937462.0,cb0dd2fa7d4cd80a2ff125ca7a0da431caf94b98,Limited novelty but useful results.,1
+2120076154.0,cb0dd2fa7d4cd80a2ff125ca7a0da431caf94b98,Interesting methodology.,5
+1388990417.0,cb0dd2fa7d4cd80a2ff125ca7a0da431caf94b98,Excellent contribution to the field.,1
+1920617.0,cb0dd2fa7d4cd80a2ff125ca7a0da431caf94b98,Excellent contribution to the field.,1
+2133596888.0,a32311ac9e55b6ae162c801a122622396ebc1f01,Needs more empirical validation.,5
+2133542382.0,a32311ac9e55b6ae162c801a122622396ebc1f01,Excellent contribution to the field.,4
+2125829421.0,a32311ac9e55b6ae162c801a122622396ebc1f01,Needs more empirical validation.,4
+2289255672.0,d23f5a8c1113109303096921b07f192e91c26776,Excellent contribution to the field.,5
+101266289.0,d23f5a8c1113109303096921b07f192e91c26776,Needs more empirical validation.,1
+2022922.0,d23f5a8c1113109303096921b07f192e91c26776,Limited novelty but useful results.,2
+1500391660.0,0c13832c25635336d36645a050ddbe2a85c52063,Well-structured and informative.,4
+2121493768.0,0c13832c25635336d36645a050ddbe2a85c52063,Interesting methodology.,3
+144540872.0,0c13832c25635336d36645a050ddbe2a85c52063,Excellent contribution to the field.,5
+1788426.0,0c13832c25635336d36645a050ddbe2a85c52063,Excellent contribution to the field.,4
+2117215280.0,f2272c4a63220b5cab9eeedaa37aa44545d542c0,Needs more empirical validation.,4
+1736951.0,f2272c4a63220b5cab9eeedaa37aa44545d542c0,Well-structured and informative.,2
+1402367150.0,f2272c4a63220b5cab9eeedaa37aa44545d542c0,Needs more empirical validation.,2
+1519284623.0,e5d777b5169c3793023f154a3b77be7bfe6991e5,Needs more empirical validation.,2
+2121454.0,e5d777b5169c3793023f154a3b77be7bfe6991e5,Well-structured and informative.,3
+12166382.0,e5d777b5169c3793023f154a3b77be7bfe6991e5,Well-structured and informative.,4
+2014277.0,e5d777b5169c3793023f154a3b77be7bfe6991e5,Excellent contribution to the field.,2
+2145061131.0,e5d777b5169c3793023f154a3b77be7bfe6991e5,Excellent contribution to the field.,2
+90913818.0,317fd0cf8e06b92c05a2b2720044bf254077fdcd,Limited novelty but useful results.,3
+21637154.0,317fd0cf8e06b92c05a2b2720044bf254077fdcd,Excellent contribution to the field.,3
+3434413.0,317fd0cf8e06b92c05a2b2720044bf254077fdcd,Interesting methodology.,3
+2113984090.0,74c8d21da24ac0382a75dd8bf419bd5cacd07503,Excellent contribution to the field.,1
+1707262.0,74c8d21da24ac0382a75dd8bf419bd5cacd07503,Interesting methodology.,1
+35526354.0,74c8d21da24ac0382a75dd8bf419bd5cacd07503,Excellent contribution to the field.,1
+144289798.0,74c8d21da24ac0382a75dd8bf419bd5cacd07503,Limited novelty but useful results.,5
+1741390809.0,c79f8b58b7ada52f18fb533811834a860b3c4b37,Well-structured and informative.,1
+2116490313.0,c79f8b58b7ada52f18fb533811834a860b3c4b37,Interesting methodology.,5
+35051203.0,c79f8b58b7ada52f18fb533811834a860b3c4b37,Needs more empirical validation.,1
+2157473757.0,c79f8b58b7ada52f18fb533811834a860b3c4b37,Needs more empirical validation.,1
+2207471880.0,f29eed3538d84d1386db475e8c37476fae109d4c,Excellent contribution to the field.,2
+2331256599.0,f29eed3538d84d1386db475e8c37476fae109d4c,Interesting methodology.,3
+2331217566.0,f29eed3538d84d1386db475e8c37476fae109d4c,Needs more empirical validation.,2
+2216660159.0,f29eed3538d84d1386db475e8c37476fae109d4c,Well-structured and informative.,3
+2331681245.0,f29eed3538d84d1386db475e8c37476fae109d4c,Well-structured and informative.,1
+7973305.0,69356e314f78026233196ed76089e550fc9124ae,Excellent contribution to the field.,3
+1877377.0,69356e314f78026233196ed76089e550fc9124ae,Needs more empirical validation.,5
+47028380.0,69356e314f78026233196ed76089e550fc9124ae,Well-structured and informative.,5
+3417987.0,69356e314f78026233196ed76089e550fc9124ae,Well-structured and informative.,5
+1698675.0,69356e314f78026233196ed76089e550fc9124ae,Needs more empirical validation.,5
+2072796744.0,0d5a37a2c337792c01c91acdc7257bf8edee93cd,Needs more empirical validation.,3
+2159272207.0,0d5a37a2c337792c01c91acdc7257bf8edee93cd,Interesting methodology.,3
+2221257494.0,0d5a37a2c337792c01c91acdc7257bf8edee93cd,Excellent contribution to the field.,1
+40532896.0,0d5a37a2c337792c01c91acdc7257bf8edee93cd,Interesting methodology.,5
+143789515.0,0d5a37a2c337792c01c91acdc7257bf8edee93cd,Excellent contribution to the field.,4
+1730314.0,8541b7b6d98a5feea8ecff12eceea1add857c5ec,Needs more empirical validation.,4
+41019029.0,8541b7b6d98a5feea8ecff12eceea1add857c5ec,Well-structured and informative.,1
+2083853019.0,8541b7b6d98a5feea8ecff12eceea1add857c5ec,Needs more empirical validation.,2
+1688359.0,8541b7b6d98a5feea8ecff12eceea1add857c5ec,Well-structured and informative.,4
+50793081.0,1bd3def5257e992cecbcd5381771d77a95cc8200,Well-structured and informative.,4
+2013489499.0,1bd3def5257e992cecbcd5381771d77a95cc8200,Limited novelty but useful results.,5
+2182429779.0,1bd3def5257e992cecbcd5381771d77a95cc8200,Well-structured and informative.,3
+6657914.0,1bd3def5257e992cecbcd5381771d77a95cc8200,Interesting methodology.,1
+2182291926.0,1bd3def5257e992cecbcd5381771d77a95cc8200,Limited novelty but useful results.,3
+2216556649.0,1bd3def5257e992cecbcd5381771d77a95cc8200,Interesting methodology.,5
+2143932613.0,1bd3def5257e992cecbcd5381771d77a95cc8200,Limited novelty but useful results.,2
+1753278.0,1bd3def5257e992cecbcd5381771d77a95cc8200,Limited novelty but useful results.,2
+145846953.0,1bd3def5257e992cecbcd5381771d77a95cc8200,Interesting methodology.,2
+1752041.0,1bd3def5257e992cecbcd5381771d77a95cc8200,Interesting methodology.,3
+2186556234.0,6da51ba9cd410b9b1f27042733be9d4b8997c559,Well-structured and informative.,3
+2986008.0,6da51ba9cd410b9b1f27042733be9d4b8997c559,Excellent contribution to the field.,5
+72737340.0,6da51ba9cd410b9b1f27042733be9d4b8997c559,Well-structured and informative.,5
+2142394449.0,00293c74ecdedb9afa1a52a8c911eae7a418fd5d,Interesting methodology.,5
+49875067.0,00293c74ecdedb9afa1a52a8c911eae7a418fd5d,Limited novelty but useful results.,3
+1914208.0,00293c74ecdedb9afa1a52a8c911eae7a418fd5d,Limited novelty but useful results.,5
+1581832859.0,ed80c864e68fae6db956de5d436db738480dace9,Excellent contribution to the field.,2
+79513578.0,ed80c864e68fae6db956de5d436db738480dace9,Limited novelty but useful results.,2
+2165350485.0,ed80c864e68fae6db956de5d436db738480dace9,Well-structured and informative.,3
+2243316877.0,0029408c69ca8300eb0330a79082b142efa58fea,Well-structured and informative.,5
+2242327984.0,0029408c69ca8300eb0330a79082b142efa58fea,Well-structured and informative.,2
+2055269901.0,0029408c69ca8300eb0330a79082b142efa58fea,Interesting methodology.,5
+35181410.0,0029408c69ca8300eb0330a79082b142efa58fea,Well-structured and informative.,2

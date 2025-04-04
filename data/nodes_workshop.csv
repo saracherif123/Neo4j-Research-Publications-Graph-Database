@@ -1,1 +1,6 @@
-Name,Year,Venue
+WorkshopID,Venue,Year
+0,International Workshop on Big Data and Information Security,2018
+1,International Workshop on Languages and Compilers for Parallel Computing,2017
+2,International Workshop on Software Correctness for HPC Applications,2022
+3,Conference on Computer Communications Workshops,2014
+4,International Workshop on the Design of Reliable Communication Networks,2019

@@ -88,7 +88,6 @@
         "Year": "INTEGER",
         "DOI": "STRING",
         "Abstract": "STRING",
-        "ProceedingsTitle": "STRING",
         "": ""
       },
       "style": {
@@ -127,8 +126,7 @@
         "ConferenceID": "STRING",
         "Name": "STRING",
         "Year": "INTEGER",
-        "Venue": "STRING",
-        "ProceedingsTitle": "STRING"
+        "Venue": "STRING"
       },
       "style": {
         "node-color": "#8A2BE2"
@@ -148,8 +146,7 @@
         "WorkshopID": "STRING",
         "Name": "STRING",
         "Year": "INTEGER",
-        "Venue": "STRING",
-        "Proceedings": "STRING"
+        "Venue": "STRING"
       },
       "style": {
         "node-color": "#5F9EA0"
@@ -225,27 +222,27 @@
     },
     {
       "id": "n20",
-      "type": "PUBLISHED_IN_JOURNAL",
-      "style": {},
-      "properties": {},
       "fromId": "n1",
-      "toId": "n9"
+      "toId": "n9",
+      "type": "PUBLISHED_IN_JOURNAL",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n21",
-      "type": "PUBLISHED_IN_CONFERENCE",
-      "style": {},
-      "properties": {},
       "fromId": "n1",
-      "toId": "n7"
+      "toId": "n7",
+      "type": "PUBLISHED_IN_CONFERENCE",
+      "properties": {},
+      "style": {}
     },
     {
       "id": "n22",
-      "type": "PUBLISHED_IN_WORKSHOP",
-      "style": {},
-      "properties": {},
       "fromId": "n1",
-      "toId": "n8"
+      "toId": "n8",
+      "type": "PUBLISHED_IN_WORKSHOP",
+      "properties": {},
+      "style": {}
     }
   ]
 }

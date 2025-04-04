@@ -7,10 +7,10 @@ def delete_and_detach_all_nodes(session):
 
 def create_session():
     username = 'neo4j'
-    password = 'neo4j' # Change this to your password
+    password = 'neo4j123' # Change this to your password
 
     print('Creating a connection with neo4j...')
-    driver = GraphDatabase.driver("bolt://localhost:7687", auth=(username, password))
+    driver = GraphDatabase.driver("bolt://localhost:7692", auth=(username, password))
 
     session = driver.session()
     print('Session Initiated....')
