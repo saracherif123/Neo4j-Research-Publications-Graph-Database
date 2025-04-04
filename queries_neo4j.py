@@ -45,6 +45,7 @@ def query_authors_published_same_venue_4editions(session):
     return list(result), result.consume()
 
 # Query 3: Impact factor of journals
+# in this query, journal is None, why?
 def query_impact_factor(session):
     result = session.run(
         """
@@ -53,10 +54,9 @@ def query_impact_factor(session):
         WITH j, COUNT(cited) AS citationCount
         MATCH (p:Paper)-[:PUBLISHED_IN]->(j)
         WHERE p.Year = j.Year OR p.Year = j.Year - 1
-        WITH j.Name AS journal, j.Year AS year, citationCount, COUNT(p) AS pubCount
+        WITH j.Venue AS journal, j.Year AS year, citationCount, COUNT(p) AS pubCount
         WHERE pubCount > 0
-        RETURN journal, year,
-               ROUND(toFloat(citationCount) / pubCount, 3) AS impactFactor
+        RETURN journal, year, ROUND(toFloat(citationCount) / pubCount, 3) AS impactFactor
         ORDER BY impactFactor DESC
         LIMIT 10
         """
