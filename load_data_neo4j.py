@@ -20,8 +20,7 @@ def load_node_authors(session):
         LOAD CSV WITH HEADERS FROM 'file:///data/nodes_authors.csv' AS line
         CREATE (:Author {
             AuthorID: line.AuthorID,
-            Name: line.Name,
-            Affiliation: line.Affiliation
+            Name: line.Name
         })
         """
     )

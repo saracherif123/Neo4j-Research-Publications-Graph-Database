@@ -38,7 +38,7 @@ def stage2_mark_database_venues(session):
         WITH v, communityPapers, COUNT(DISTINCT p2) AS totalPapers
         WHERE toFloat(communityPapers)/toFloat(totalPapers) >= 0.9
         SET v:DatabaseVenue
-        RETURN v.Name AS venueName, communityPapers, totalPapers;
+        RETURN v.Venue AS venueName, communityPapers, totalPapers;
     """)
     records = list(result)
     summary = result.consume()
@@ -48,14 +48,12 @@ def stage2_mark_database_venues(session):
 def stage3_mark_top100_papers(session):
     result = session.run("""
         MATCH (p:Paper)-[:PUBLISHED_IN]->(v:DatabaseVenue)
-        OPTIONAL MATCH (other:Paper)-[:CITES]->(p)
+        OPTIONAL MATCH (other:Paper)-[:RELATED]->(p)
         WITH p, COUNT(other) AS citationCount
         ORDER BY citationCount DESC
-        WITH COLLECT({title: p.Title, citations: citationCount})[0..100] AS topPapers
-        UNWIND topPapers AS tp
-        MATCH (paper:Paper {Title: tp.title})
-        SET paper:TopPaper
-        RETURN paper.Title AS paperTitle, tp.citations AS citations;
+        LIMIT 100
+        SET p:TopPaper
+        RETURN p.Title AS paperTitle, citationCount AS citations;
     """)
     records = list(result)
     summary = result.consume()

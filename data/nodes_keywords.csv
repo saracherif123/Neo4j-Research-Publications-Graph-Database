@@ -1,11 +1,8 @@
 KeywordID,Keyword
-0,Computer Science
-1,Psychology
-2,Medicine
-3,Engineering
-4,Mathematics
-5,Biology
-6,Physics
-7,Sociology
-8,Materials Science
-9,Environmental Science
+0,data management
+1,indexing
+2,data modeling
+3,data querying
+4,data processing
+5,data storage
+6,bigdata

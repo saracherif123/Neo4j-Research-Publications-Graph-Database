@@ -32,14 +32,13 @@ def set_paper_final_decision(session):
     # If more than half of the reviews suggest acceptance, the paper is accepted.
     # Otherwise, it is rejected.
 
-def load_institution_nodes(session):
+def load_affiliation_as_property(session):
     session.run("""
         LOAD CSV WITH HEADERS FROM 'file:///data/nodes_authors.csv' AS row
-        MERGE (i:Institution {name: row.Affiliation})
-        WITH i, row
         MATCH (a:Author {AuthorID: row.AuthorID})
-        MERGE (a)-[:IS_FROM]->(i);
+        SET a.Affiliation = row.Affiliation;
     """)
+
 
 # Execute all transformations
 session = create_session()
@@ -47,7 +46,7 @@ print("Loading reviews as nodes...")
 session.execute_write(load_review_nodes)
 
 print("Linking authors to institutions...")
-session.execute_write(load_institution_nodes)
+session.execute_write(load_affiliation_as_property)
 
 print("Setting final decisions for each paper...")
 session.execute_write(set_paper_final_decision)
