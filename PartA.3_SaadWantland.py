@@ -46,20 +46,23 @@ def load_affiliation_as_property(session):
         SET a.Affiliation = row.Affiliation;
     """)
 
+def main():
+    # Execute all transformations
+    session = create_session()
+    print("Loading reviews as nodes...")
+    session.execute_write(load_review_nodes)
 
-# Execute all transformations
-session = create_session()
-print("Loading reviews as nodes...")
-session.execute_write(load_review_nodes)
+    print("Deleting review relationship...")
+    session.execute_write(del_review_relation)
 
-print("Deleting review relationship...")
-session.execute_write(del_review_relation)
+    print("Linking authors to institutions...")
+    session.execute_write(load_affiliation_as_property)
 
-print("Linking authors to institutions...")
-session.execute_write(load_affiliation_as_property)
+    print("Setting final decisions for each paper...")
+    session.execute_write(set_paper_final_decision)
 
-print("Setting final decisions for each paper...")
-session.execute_write(set_paper_final_decision)
+    session.close()
+    print("Graph evolution completed.")
 
-session.close()
-print("Graph evolution completed.") 
+if __name__ == '__main__':
+    main()
