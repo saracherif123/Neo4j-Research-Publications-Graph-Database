@@ -23,7 +23,9 @@ def del_review_relation(session):
         MATCH(m:Author)-[r:REVIEWS]->() delete r;
     """)
 
-
+# This query sets the final decision for each paper based on the reviews.
+# If more than half of the reviews suggest acceptance, the paper is accepted.
+# Otherwise, it is rejected.
 def set_paper_final_decision(session):
     session.run("""
         MATCH (p:Paper)<-[:REVIEWS]-(r:Review)
@@ -35,9 +37,6 @@ def set_paper_final_decision(session):
             ELSE 'reject'
         END;
     """)
-    # This query sets the final decision for each paper based on the reviews.
-    # If more than half of the reviews suggest acceptance, the paper is accepted.
-    # Otherwise, it is rejected.
 
 def load_affiliation_as_property(session):
     session.run("""

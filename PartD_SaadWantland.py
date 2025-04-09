@@ -1,8 +1,6 @@
 import pprint
 from session_helper_neo4j import create_session
 
-session = create_session()
-
 # Printing query results and summary 
 def print_query_results(records, summary):
     pp = pprint.PrettyPrinter(indent=4)
@@ -101,19 +99,21 @@ def query_simulate_pagerank_algorithm(session):
     summary = result.consume()
     return records, summary
 
+def main():
+    session = create_session()
+    print('Algorithm 1 - Node Similarity..........')
+    records, summary = session.execute_write(query_simulate_node_similarity_algorithm)
+    print_query_results(records, summary)
 
-print('Algorithm 1 - Node Similarity..........')
-records, summary = session.execute_write(query_simulate_node_similarity_algorithm)
-print_query_results(records, summary)
+    print('Algorithm 2 - Betweenness Centrality..........')
+    records, summary = session.execute_write(query_simulate_betweeneness_centrality_algorithm)
+    print_query_results(records, summary)
 
-print('Algorithm 2 - Betweenness Centrality..........')
-records, summary = session.execute_write(query_simulate_betweeneness_centrality_algorithm)
-print_query_results(records, summary)
+    print('Algorithm 3 - PageRank..........')
+    records, summary = session.execute_write(query_simulate_pagerank_algorithm)
+    print_query_results(records, summary)
 
-print('Algorithm 3 - PageRank..........')
-records, summary = session.execute_write(query_simulate_pagerank_algorithm)
-print_query_results(records, summary)
+    session.close()
 
-
-
-session.close()
+if __name__ == '__main__':
+    main()
