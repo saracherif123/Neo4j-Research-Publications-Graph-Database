@@ -1,8 +1,6 @@
 import pprint
 from session_helper_neo4j import create_session
 
-session = create_session()
-
 # Helper to print query results
 def print_query_results(records, summary):
     pp = pprint.PrettyPrinter(indent=4)
@@ -74,18 +72,23 @@ def stage4_mark_reviewers_and_gurus(session):
     summary = result.consume()
     print_query_results(records, summary)
 
-# Execute all stages with outputs
-print("\nStage 1: Defining research community and linking keywords...")
-session.execute_write(stage1_define_community)
+def main():
+    session = create_session()
+    # Execute all stages with outputs
+    print("\nStage 1: Defining research community and linking keywords...")
+    session.execute_write(stage1_define_community)
 
-print("\nStage 2: Marking database-specific venues...")
-session.execute_write(stage2_mark_database_venues)
+    print("\nStage 2: Marking database-specific venues...")
+    session.execute_write(stage2_mark_database_venues)
 
-print("\nStage 3: Identifying top-100 papers...")
-session.execute_write(stage3_mark_top100_papers)
+    print("\nStage 3: Identifying top-100 papers...")
+    session.execute_write(stage3_mark_top100_papers)
 
-print("\nStage 4: Identifying potential reviewers and gurus...")
-session.execute_write(stage4_mark_reviewers_and_gurus)
+    print("\nStage 4: Identifying potential reviewers and gurus...")
+    session.execute_write(stage4_mark_reviewers_and_gurus)
 
-print("\nAll stages executed successfully.")
-session.close()
+    print("\nAll stages executed successfully.")
+    session.close()
+
+if __name__ == '__main__':
+    main()
