@@ -12,7 +12,10 @@ OUTPUT_CSV_PATH = os.path.join('data', 'papers.csv')
 
 
 def main():
-    dwnld_conferences(2000)
+    years = ["2020", "2021", "2022", "2023", "2024", "2025"]
+
+    for year in years:
+        dwnld_conferences(700, year)
     dwnld_papers(2000)
 
 
@@ -58,9 +61,9 @@ def dwnld_papers(n_papers):
 
 
 # Performs the download and processing of conference papers
-def dwnld_conferences(n_conferences):
+def dwnld_conferences(n_conferences, conf_year):
     # Obtain a list of conference papers to look up in the following part
-    conferences = get_papers("Conference")
+    conferences = get_papers("Conference", conf_year)
     conference_ids = [conference['paperId'] for conference in conferences]
 
     # For each conference paper obtain the relevant data
@@ -78,7 +81,7 @@ def dwnld_conferences(n_conferences):
             # Process the references cited in the paper. A random number is chosen for max references for two reasons:
             # 1. Avoid spending too much time processing references
             # 2. Mantain variability between papers for the graph model.
-            max_refs = random.randint(1, 14)
+            max_refs = random.randint(1, 6)
             refs = 0
             for reference in paper['citations']:
                 if refs <= max_refs:
@@ -99,7 +102,7 @@ def dwnld_conferences(n_conferences):
 
 
 # Performs a bulk search to obtain the IDs of relevant papers or conferences for further processing
-def get_papers(paper_types):
+def get_papers(paper_types, p_year = "2019-"):
     x = 1
     while x == 1:
         rsp = requests.get(f'https://api.semanticscholar.org/graph/v1/paper/search/bulk',
@@ -107,7 +110,8 @@ def get_papers(paper_types):
                                    'publicationTypes': paper_types,
                                    'fieldsOfStudy': "Computer Science,Engineering,Mathematics",
                                    'fields': "paperId",
-                                   'minCitationCount': 5})
+                                   'minCitationCount': 5,
+                                   'year': p_year})
         try:
             rsp.raise_for_status()
             x = 2
