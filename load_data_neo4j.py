@@ -156,7 +156,7 @@ def load_rel_reviews(session):
         """
     )
 
-if __name__ == '__main__':
+def main():
     session = create_session()
     session = clean_session(session)
 
@@ -180,3 +180,6 @@ if __name__ == '__main__':
 
     print("Done loading all data into Neo4j.")
     session.close()
+
+if __name__ == '__main__':
+    main()
