@@ -34,12 +34,13 @@ def query_top3_cited_papers_conference(session):
 def query_authors_published_same_venue_4editions(session):
     result = session.run(
         """
-        MATCH (a:Author)-[:AUTHOR_OF]->(p:Paper)-[:PUBLISHED_IN]->(venue)
-        WHERE venue:Conference OR venue:Workshop
-        WITH a, venue, COUNT(DISTINCT p.Year) AS editions
-        WHERE editions >= 2
-        RETURN a.Name AS author, venue.Venue AS venueName, editions
-        ORDER BY author, editions DESC
+        MATCH (a:Author)-[:AUTHOR_OF]->(p:Paper)-[:PUBLISHED_IN]->(v)
+        WHERE v:Conference OR v:Workshop
+        WITH a.Name AS author, v.Venue AS venueName, COLLECT(DISTINCT p.Year) AS years
+        WITH author, venueName, SIZE(years) AS editions
+        WHERE editions >= 4
+        RETURN author, venueName, editions
+        ORDER BY editions DESC
         """
     )
     return list(result), result.consume()

@@ -17,6 +17,13 @@ def load_review_nodes(session):
         MERGE (r)-[:REVIEWS]->(p);
     """)
 
+# Deletes the now unnecessary review relationship between author and paper
+def del_review_relation(session):
+    session.run("""
+        MATCH(m:Author)-[r:REVIEWS]->() delete r;
+    """)
+
+
 def set_paper_final_decision(session):
     session.run("""
         MATCH (p:Paper)<-[:REVIEWS]-(r:Review)
@@ -45,6 +52,9 @@ session = create_session()
 print("Loading reviews as nodes...")
 session.execute_write(load_review_nodes)
 
+print("Deleting review relationship...")
+session.execute_write(del_review_relation)
+
 print("Linking authors to institutions...")
 session.execute_write(load_affiliation_as_property)
 
@@ -52,4 +62,4 @@ print("Setting final decisions for each paper...")
 session.execute_write(set_paper_final_decision)
 
 session.close()
-print("Graph evolution completed.")
+print("Graph evolution completed.") 

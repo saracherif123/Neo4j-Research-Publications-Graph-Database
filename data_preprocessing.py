@@ -28,9 +28,9 @@ authors_df = df[['AuthorId', 'Author']].drop_duplicates().rename(columns={
     'Author': 'Name'
 })
 affiliations = [
-    "Massachusetts Institute of Technology", "Stanford University", "University of Oxford",
-    "University of Cambridge", "Harvard University", "ETH Zurich",
-    "Carnegie Mellon University", "University of Tokyo", "Tsinghua University", "University of Toronto","IBM","Amazon","Google","Microsoft"
+    "MIT", "Stanford", "Oxford", "Cambridge", "Harvard",
+    "ETH Zurich", "CMU", "Tokyo", "Tsinghua", "Toronto",
+    "IBM", "Amazon", "Google", "Microsoft"
 ]
 authors_df['Affiliation'] = [random.choice(affiliations) for _ in range(len(authors_df))]
 authors_df.to_csv(os.path.join(DATA_DIR, "nodes_authors.csv"), index=False)
@@ -67,11 +67,60 @@ keywords_df['KeywordID'] = keywords_df['Keyword'].factorize()[0].astype(str)
 keywords_df = keywords_df[['KeywordID', 'Keyword']]
 keywords_df.to_csv(os.path.join(DATA_DIR, "nodes_keywords.csv"), index=False)
 
-# Conference nodes
-conference_df = df[df['Type'] == 'conference'][['Venue', 'Year']].drop_duplicates()
+# === SYNTHETIC MULTI-YEAR CONFERENCES & WORKSHOPS ===
+conference_years = [2020, 2021, 2022, 2023]
+workshop_years = [2020, 2021, 2022, 2023]
+
+original_conference_df = df[df['Type'] == 'conference'][['Venue']].drop_duplicates()
+conference_rows = []
+for venue in original_conference_df['Venue'].unique():
+    for year in conference_years:
+        conference_rows.append({'Venue': venue, 'Year': year})
+conference_df = pd.DataFrame(conference_rows).drop_duplicates()
 conference_df['ConferenceID'] = conference_df['Venue'].factorize()[0].astype(str)
 conference_df = conference_df[['ConferenceID', 'Venue', 'Year']]
 conference_df.to_csv(os.path.join(DATA_DIR, "nodes_conference.csv"), index=False)
+
+original_workshop_df = df[df['Type'] == 'workshop'][['Venue']].drop_duplicates()
+workshop_rows = []
+for venue in original_workshop_df['Venue'].unique():
+    for year in workshop_years:
+        workshop_rows.append({'Venue': venue, 'Year': year})
+workshop_df = pd.DataFrame(workshop_rows).drop_duplicates()
+workshop_df['WorkshopID'] = workshop_df['Venue'].factorize()[0].astype(str)
+workshop_df = workshop_df[['WorkshopID', 'Venue', 'Year']]
+workshop_df.to_csv(os.path.join(DATA_DIR, "nodes_workshop.csv"), index=False)
+
+# Reassign random Year to each paper to match new synthetic editions
+df.loc[df['Type'] == 'conference', 'Year'] = df[df['Type'] == 'conference']['Venue'].apply(lambda v: random.choice(conference_years))
+df.loc[df['Type'] == 'workshop', 'Year'] = df[df['Type'] == 'workshop']['Venue'].apply(lambda v: random.choice(workshop_years))
+
+# === Force some authors to publish in same venue in 4 different years ===
+print("Injecting authors into 4 editions of the same venue...")
+
+# Pick a few authors
+repeat_authors = authors_df['AuthorID'].sample(n=5, random_state=42).tolist()
+# Pick a few venues
+repeat_venues = conference_df['Venue'].unique()[:2]  # use 2 example venues
+
+extra_author_rows = []
+
+for author in repeat_authors:
+    for venue in repeat_venues:
+        for year in [2020, 2021, 2022, 2023]:
+            # Get a paper from this venue+year
+            paper_row = df[(df['Venue'] == venue) & (df['Year'] == year)].sample(n=1, random_state=random.randint(1, 1000))
+            if not paper_row.empty:
+                paper_id = paper_row['PaperId'].values[0]
+                extra_author_rows.append({'AuthorID': author, 'PaperID': paper_id})
+
+# Combine with existing AUTHOR_OF
+existing_author_of = df[['AuthorId', 'PaperId']].drop_duplicates().rename(columns={
+    'AuthorId': 'AuthorID',
+    'PaperId': 'PaperID'
+})
+author_of_df = pd.concat([existing_author_of, pd.DataFrame(extra_author_rows)], ignore_index=True).drop_duplicates()
+author_of_df.to_csv(os.path.join(DATA_DIR, "rel_author_of.csv"), index=False)
 
 # Journal nodes
 journal_df = df[df['Type'] == 'journal'][['Venue', 'Year', 'Volume']].drop_duplicates()
@@ -80,77 +129,50 @@ journal_df['Volume'] = pd.to_numeric(journal_df['Volume'], errors='coerce').fill
 journal_df = journal_df[['JournalID', 'Venue', 'Year', 'Volume']]
 journal_df.to_csv(os.path.join(DATA_DIR, "nodes_journal.csv"), index=False)
 
-# Workshop nodes
-workshop_df = df[df['Type'] == 'workshop'][['Venue', 'Year']].drop_duplicates()
-workshop_df['WorkshopID'] = workshop_df['Venue'].factorize()[0].astype(str)
-workshop_df = workshop_df[['WorkshopID', 'Venue', 'Year']]
-workshop_df.to_csv(os.path.join(DATA_DIR, "nodes_workshop.csv"), index=False)
-
 # === RELATIONSHIPS ===
 
 # AUTHOR_OF
-author_of_df = df[['AuthorId', 'PaperId']].drop_duplicates().rename(columns={
-    'AuthorId': 'AuthorID',
-    'PaperId': 'PaperID'
-})
-author_of_df.to_csv(os.path.join(DATA_DIR, "rel_author_of.csv"), index=False)
+#df[['AuthorId', 'PaperId']].drop_duplicates().rename(columns={
+ #   'AuthorId': 'AuthorID',
+  #  'PaperId': 'PaperID'
+#}).to_csv(os.path.join(DATA_DIR, "rel_author_of.csv"), index=False)
 
 # CORRESPONDING_AUTHOR
-corresponding_author_df = df[df['Main_Author'] == 1][['AuthorId', 'PaperId']].drop_duplicates().rename(columns={
+df[df['Main_Author'] == 1][['AuthorId', 'PaperId']].drop_duplicates().rename(columns={
     'AuthorId': 'AuthorID',
     'PaperId': 'PaperID'
-})
-corresponding_author_df.to_csv(os.path.join(DATA_DIR, "rel_corresponding_author.csv"), index=False)
+}).to_csv(os.path.join(DATA_DIR, "rel_corresponding_author.csv"), index=False)
 
-# ABOUT (Paper -> Keyword)
+# ABOUT
 keywords_map = dict(zip(keywords_df['Keyword'], keywords_df['KeywordID']))
-about_df = df.explode('FieldOfStudy')[['PaperId', 'FieldOfStudy']].drop_duplicates().rename(columns={
-    'PaperId': 'PaperID',
-    'FieldOfStudy': 'Keyword'
-})
-about_df['KeywordID'] = about_df['Keyword'].map(keywords_map)
-about_df = about_df[['PaperID', 'KeywordID']]
-about_df.to_csv(os.path.join(DATA_DIR, "rel_about.csv"), index=False)
+df_about = df.explode('FieldOfStudy')[['PaperId', 'FieldOfStudy']].drop_duplicates()
+df_about['KeywordID'] = df_about['FieldOfStudy'].map(keywords_map)
+df_about = df_about.rename(columns={'PaperId': 'PaperID'})[['PaperID', 'KeywordID']]
+df_about.to_csv(os.path.join(DATA_DIR, "rel_about.csv"), index=False)
 
-# RELATED (Paper -> Paper)
-related_df = df[['PaperId', 'ReferenceId']].dropna().drop_duplicates().rename(columns={
+# RELATED
+df[['PaperId', 'ReferenceId']].dropna().drop_duplicates().rename(columns={
     'PaperId': 'PaperID',
     'ReferenceId': 'RelatedToPaperID'
-})
-related_df.to_csv(os.path.join(DATA_DIR, "rel_related.csv"), index=False)
+}).to_csv(os.path.join(DATA_DIR, "rel_related.csv"), index=False)
 
-# === PUBLISHED_IN relationships using Venue + Year ===
+# PUBLISHED_IN Conference
+df[df['Type'] == 'conference'][['PaperId', 'Venue', 'Year']].merge(
+    conference_df[['ConferenceID', 'Venue', 'Year']], on=['Venue', 'Year']
+)[['PaperId', 'ConferenceID']].drop_duplicates().rename(columns={'PaperId': 'PaperID'}).to_csv(
+    os.path.join(DATA_DIR, "rel_published_in_conference.csv"), index=False)
 
-# Conference
-published_in_conference_df = (
-    df[df['Type'] == 'conference'][['PaperId', 'Venue', 'Year']]
-    .merge(conference_df[['ConferenceID', 'Venue', 'Year']], on=['Venue', 'Year'])
-    [['PaperId', 'ConferenceID']]
-    .drop_duplicates()
-    .rename(columns={'PaperId': 'PaperID'})
-)
-published_in_conference_df.to_csv(os.path.join(DATA_DIR, "rel_published_in_conference.csv"), index=False)
+# PUBLISHED_IN Workshop
+df[df['Type'] == 'workshop'][['PaperId', 'Venue', 'Year']].merge(
+    workshop_df[['WorkshopID', 'Venue', 'Year']], on=['Venue', 'Year']
+)[['PaperId', 'WorkshopID']].drop_duplicates().rename(columns={'PaperId': 'PaperID'}).to_csv(
+    os.path.join(DATA_DIR, "rel_published_in_workshop.csv"), index=False)
 
-# Journal
-published_in_journal_df = (
-    df[df['Type'] == 'journal'][['PaperId', 'Venue', 'Year']]
-    .merge(journal_df[['JournalID', 'Venue', 'Year']], on=['Venue', 'Year'])
-    [['PaperId', 'JournalID']]
-    .drop_duplicates()
-    .rename(columns={'PaperId': 'PaperID'})
-)
-published_in_journal_df.to_csv(os.path.join(DATA_DIR, "rel_published_in_journal.csv"), index=False)
-
-# Workshop
-published_in_workshop_df = (
-    df[df['Type'] == 'workshop'][['PaperId', 'Venue', 'Year']]
-    .merge(workshop_df[['WorkshopID', 'Venue', 'Year']], on=['Venue', 'Year'])
-    [['PaperId', 'WorkshopID']]
-    .drop_duplicates()
-    .rename(columns={'PaperId': 'PaperID'})
-)
-published_in_workshop_df.to_csv(os.path.join(DATA_DIR, "rel_published_in_workshop.csv"), index=False)
-
+# PUBLISHED_IN Journal
+df[df['Type'] == 'journal'][['PaperId', 'Venue', 'Year']].merge(
+    journal_df[['JournalID', 'Venue', 'Year']], on=['Venue', 'Year']
+)[['PaperId', 'JournalID']].drop_duplicates().rename(columns={'PaperId': 'PaperID'}).to_csv(
+    os.path.join(DATA_DIR, "rel_published_in_journal.csv"), index=False)
 # === REVIEWS (Synthetic) ===
 def generate_comment():
     comments = [
