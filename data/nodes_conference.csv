@@ -1,649 +1,561 @@
 ConferenceID,Venue,Year
-0,International Conference on Intelligent Tutoring Systems,2020
-0,International Conference on Intelligent Tutoring Systems,2021
-0,International Conference on Intelligent Tutoring Systems,2022
-0,International Conference on Intelligent Tutoring Systems,2023
-1,Italian National Conference on Sensors,2020
-1,Italian National Conference on Sensors,2021
-1,Italian National Conference on Sensors,2022
-1,Italian National Conference on Sensors,2023
-2,Ubiquitous Computing,2020
-2,Ubiquitous Computing,2021
-2,Ubiquitous Computing,2022
-2,Ubiquitous Computing,2023
-3,International Conference on Physiological Computing Systems,2020
-3,International Conference on Physiological Computing Systems,2021
-3,International Conference on Physiological Computing Systems,2022
-3,International Conference on Physiological Computing Systems,2023
-4,International Conference on Artificial Intelligence in Education,2020
-4,International Conference on Artificial Intelligence in Education,2021
-4,International Conference on Artificial Intelligence in Education,2022
-4,International Conference on Artificial Intelligence in Education,2023
-5,Global Communications Conference,2020
-5,Global Communications Conference,2021
-5,Global Communications Conference,2022
-5,Global Communications Conference,2023
-6,IEEE Conference on Computer Communications,2020
-6,IEEE Conference on Computer Communications,2021
-6,IEEE Conference on Computer Communications,2022
-6,IEEE Conference on Computer Communications,2023
-7,IEEE International Conference on Bioinformatics and Biomedicine,2020
-7,IEEE International Conference on Bioinformatics and Biomedicine,2021
-7,IEEE International Conference on Bioinformatics and Biomedicine,2022
-7,IEEE International Conference on Bioinformatics and Biomedicine,2023
-8,Computer Vision and Pattern Recognition,2020
-8,Computer Vision and Pattern Recognition,2021
-8,Computer Vision and Pattern Recognition,2022
-8,Computer Vision and Pattern Recognition,2023
-9,Frontiers in Education Conference,2020
-9,Frontiers in Education Conference,2021
-9,Frontiers in Education Conference,2022
-9,Frontiers in Education Conference,2023
-10,International Conference on Human Factors in Computing Systems,2020
-10,International Conference on Human Factors in Computing Systems,2021
-10,International Conference on Human Factors in Computing Systems,2022
-10,International Conference on Human Factors in Computing Systems,2023
-11,International Conference on Electrical Machines and Systems,2020
-11,International Conference on Electrical Machines and Systems,2021
-11,International Conference on Electrical Machines and Systems,2022
-11,International Conference on Electrical Machines and Systems,2023
-12,International Conference on Electrical Machines,2020
-12,International Conference on Electrical Machines,2021
-12,International Conference on Electrical Machines,2022
-12,International Conference on Electrical Machines,2023
-13,IEEE International Joint Conference on Neural Network,2020
-13,IEEE International Joint Conference on Neural Network,2021
-13,IEEE International Joint Conference on Neural Network,2022
-13,IEEE International Joint Conference on Neural Network,2023
-14,"International Conference on Informatics in Control, Automation and Robotics",2020
-14,"International Conference on Informatics in Control, Automation and Robotics",2021
-14,"International Conference on Informatics in Control, Automation and Robotics",2022
-14,"International Conference on Informatics in Control, Automation and Robotics",2023
-15,International Conference on Artificial Neural Networks,2020
-15,International Conference on Artificial Neural Networks,2021
-15,International Conference on Artificial Neural Networks,2022
-15,International Conference on Artificial Neural Networks,2023
-16,European Signal Processing Conference,2020
-16,European Signal Processing Conference,2021
-16,European Signal Processing Conference,2022
-16,European Signal Processing Conference,2023
-17,"International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems",2020
-17,"International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems",2021
-17,"International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems",2022
-17,"International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems",2023
-18,Industrial Conference on Data Mining,2020
-18,Industrial Conference on Data Mining,2021
-18,Industrial Conference on Data Mining,2022
-18,Industrial Conference on Data Mining,2023
-19,Conference on Algebraic Informatics,2020
-19,Conference on Algebraic Informatics,2021
-19,Conference on Algebraic Informatics,2022
-19,Conference on Algebraic Informatics,2023
-20,International Conference on Artificial Intelligence and Statistics,2020
-20,International Conference on Artificial Intelligence and Statistics,2021
-20,International Conference on Artificial Intelligence and Statistics,2022
-20,International Conference on Artificial Intelligence and Statistics,2023
-21,"IEEE International Conference on Acoustics, Speech, and Signal Processing",2020
-21,"IEEE International Conference on Acoustics, Speech, and Signal Processing",2021
-21,"IEEE International Conference on Acoustics, Speech, and Signal Processing",2022
-21,"IEEE International Conference on Acoustics, Speech, and Signal Processing",2023
-22,International Conference on Machine Learning,2020
-22,International Conference on Machine Learning,2021
-22,International Conference on Machine Learning,2022
-22,International Conference on Machine Learning,2023
-23,IEEE International Conference on Robotics and Automation,2020
-23,IEEE International Conference on Robotics and Automation,2021
-23,IEEE International Conference on Robotics and Automation,2022
-23,IEEE International Conference on Robotics and Automation,2023
-24,European Conference on Computer Vision,2020
-24,European Conference on Computer Vision,2021
-24,European Conference on Computer Vision,2022
-24,European Conference on Computer Vision,2023
-25,"International Conference on Networking, Sensing and Control",2020
-25,"International Conference on Networking, Sensing and Control",2021
-25,"International Conference on Networking, Sensing and Control",2022
-25,"International Conference on Networking, Sensing and Control",2023
-26,IEEE International Conference on Advanced Intelligent Mechatronics,2020
-26,IEEE International Conference on Advanced Intelligent Mechatronics,2021
-26,IEEE International Conference on Advanced Intelligent Mechatronics,2022
-26,IEEE International Conference on Advanced Intelligent Mechatronics,2023
-27,Annual Meeting of the Association for Computational Linguistics,2020
-27,Annual Meeting of the Association for Computational Linguistics,2021
-27,Annual Meeting of the Association for Computational Linguistics,2022
-27,Annual Meeting of the Association for Computational Linguistics,2023
-28,International Conference on Pattern Recognition,2020
-28,International Conference on Pattern Recognition,2021
-28,International Conference on Pattern Recognition,2022
-28,International Conference on Pattern Recognition,2023
-29,Conference on Computer Science and Information Systems,2020
-29,Conference on Computer Science and Information Systems,2021
-29,Conference on Computer Science and Information Systems,2022
-29,Conference on Computer Science and Information Systems,2023
-30,International Conference on Theorem Proving with Analytic Tableaux and Related Methods,2020
-30,International Conference on Theorem Proving with Analytic Tableaux and Related Methods,2021
-30,International Conference on Theorem Proving with Analytic Tableaux and Related Methods,2022
-30,International Conference on Theorem Proving with Analytic Tableaux and Related Methods,2023
-31,International Symposium on Frontiers of Combining Systems,2020
-31,International Symposium on Frontiers of Combining Systems,2021
-31,International Symposium on Frontiers of Combining Systems,2022
-31,International Symposium on Frontiers of Combining Systems,2023
-32,Conference on Correct Hardware Design and Verification Methods,2020
-32,Conference on Correct Hardware Design and Verification Methods,2021
-32,Conference on Correct Hardware Design and Verification Methods,2022
-32,Conference on Correct Hardware Design and Verification Methods,2023
-33,International Symposium on Industrial Electronics,2020
-33,International Symposium on Industrial Electronics,2021
-33,International Symposium on Industrial Electronics,2022
-33,International Symposium on Industrial Electronics,2023
-34,International Power Electronics and Motion Control Conference,2020
-34,International Power Electronics and Motion Control Conference,2021
-34,International Power Electronics and Motion Control Conference,2022
-34,International Power Electronics and Motion Control Conference,2023
-35,EPE,2020
-35,EPE,2021
-35,EPE,2022
-35,EPE,2023
-36,International Conference on Cloud Computing and Intelligence Systems,2020
-36,International Conference on Cloud Computing and Intelligence Systems,2021
-36,International Conference on Cloud Computing and Intelligence Systems,2022
-36,International Conference on Cloud Computing and Intelligence Systems,2023
-37,International Conference on Computer Supported Cooperative Work in Design,2020
-37,International Conference on Computer Supported Cooperative Work in Design,2021
-37,International Conference on Computer Supported Cooperative Work in Design,2022
-37,International Conference on Computer Supported Cooperative Work in Design,2023
-38,International Joint Conference on Artificial Intelligence,2020
-38,International Joint Conference on Artificial Intelligence,2021
-38,International Joint Conference on Artificial Intelligence,2022
-38,International Joint Conference on Artificial Intelligence,2023
-39,IEEE International Conference on Computer Vision,2020
-39,IEEE International Conference on Computer Vision,2021
-39,IEEE International Conference on Computer Vision,2022
-39,IEEE International Conference on Computer Vision,2023
-40,International Conference on Information Security and Cryptology,2020
-40,International Conference on Information Security and Cryptology,2021
-40,International Conference on Information Security and Cryptology,2022
-40,International Conference on Information Security and Cryptology,2023
-41,International Conference on Machine Learning and Computing,2020
-41,International Conference on Machine Learning and Computing,2021
-41,International Conference on Machine Learning and Computing,2022
-41,International Conference on Machine Learning and Computing,2023
-42,International Conference on the Computer Processing of Oriental Languages,2020
-42,International Conference on the Computer Processing of Oriental Languages,2021
-42,International Conference on the Computer Processing of Oriental Languages,2022
-42,International Conference on the Computer Processing of Oriental Languages,2023
-43,IEEE International Conference on Multimedia and Expo,2020
-43,IEEE International Conference on Multimedia and Expo,2021
-43,IEEE International Conference on Multimedia and Expo,2022
-43,IEEE International Conference on Multimedia and Expo,2023
-44,International Electric Machines and Drives Conference,2020
-44,International Electric Machines and Drives Conference,2021
-44,International Electric Machines and Drives Conference,2022
-44,International Electric Machines and Drives Conference,2023
-45,European Conference on Cognitive Ergonomics,2020
-45,European Conference on Cognitive Ergonomics,2021
-45,European Conference on Cognitive Ergonomics,2022
-45,European Conference on Cognitive Ergonomics,2023
-46,International Conference Intelligent Data Communication Technologies and Internet Things,2020
-46,International Conference Intelligent Data Communication Technologies and Internet Things,2021
-46,International Conference Intelligent Data Communication Technologies and Internet Things,2022
-46,International Conference Intelligent Data Communication Technologies and Internet Things,2023
-47,SPIN,2020
-47,SPIN,2021
-47,SPIN,2022
-47,SPIN,2023
-48,International Conference on Computing and Convergence Technology,2020
-48,International Conference on Computing and Convergence Technology,2021
-48,International Conference on Computing and Convergence Technology,2022
-48,International Conference on Computing and Convergence Technology,2023
-49,International Conference on Big Knowledge,2020
-49,International Conference on Big Knowledge,2021
-49,International Conference on Big Knowledge,2022
-49,International Conference on Big Knowledge,2023
-50,ACM Multimedia Asia,2020
-50,ACM Multimedia Asia,2021
-50,ACM Multimedia Asia,2022
-50,ACM Multimedia Asia,2023
-51,Annual International Computer Software and Applications Conference,2020
-51,Annual International Computer Software and Applications Conference,2021
-51,Annual International Computer Software and Applications Conference,2022
-51,Annual International Computer Software and Applications Conference,2023
-52,"International Symposium on Parallel Architectures, Algorithms and Programming",2020
-52,"International Symposium on Parallel Architectures, Algorithms and Programming",2021
-52,"International Symposium on Parallel Architectures, Algorithms and Programming",2022
-52,"International Symposium on Parallel Architectures, Algorithms and Programming",2023
-53,IEEE Region 10 Conference,2020
-53,IEEE Region 10 Conference,2021
-53,IEEE Region 10 Conference,2022
-53,IEEE Region 10 Conference,2023
-54,Annual International Conference of the IEEE Engineering in Medicine and Biology Society,2020
-54,Annual International Conference of the IEEE Engineering in Medicine and Biology Society,2021
-54,Annual International Conference of the IEEE Engineering in Medicine and Biology Society,2022
-54,Annual International Conference of the IEEE Engineering in Medicine and Biology Society,2023
-55,European Dependable Computing Conference,2020
-55,European Dependable Computing Conference,2021
-55,European Dependable Computing Conference,2022
-55,European Dependable Computing Conference,2023
-56,Symposium on Operating Systems Principles,2020
-56,Symposium on Operating Systems Principles,2021
-56,Symposium on Operating Systems Principles,2022
-56,Symposium on Operating Systems Principles,2023
-57,IEEE International Symposium on Software Reliability Engineering,2020
-57,IEEE International Symposium on Software Reliability Engineering,2021
-57,IEEE International Symposium on Software Reliability Engineering,2022
-57,IEEE International Symposium on Software Reliability Engineering,2023
-58,International Conference on Automated Software Engineering,2020
-58,International Conference on Automated Software Engineering,2021
-58,International Conference on Automated Software Engineering,2022
-58,International Conference on Automated Software Engineering,2023
-59,The Web Conference,2020
-59,The Web Conference,2021
-59,The Web Conference,2022
-59,The Web Conference,2023
-60,International Conference on Software Engineering,2020
-60,International Conference on Software Engineering,2021
-60,International Conference on Software Engineering,2022
-60,International Conference on Software Engineering,2023
-61,Conference on Computer and Communications Security,2020
-61,Conference on Computer and Communications Security,2021
-61,Conference on Computer and Communications Security,2022
-61,Conference on Computer and Communications Security,2023
-62,ACM Asia Conference on Computer and Communications Security,2020
-62,ACM Asia Conference on Computer and Communications Security,2021
-62,ACM Asia Conference on Computer and Communications Security,2022
-62,ACM Asia Conference on Computer and Communications Security,2023
-63,International Conference on Mechatronics and Machine Vision in Practice,2020
-63,International Conference on Mechatronics and Machine Vision in Practice,2021
-63,International Conference on Mechatronics and Machine Vision in Practice,2022
-63,International Conference on Mechatronics and Machine Vision in Practice,2023
-64,IEEE International New Circuits and Systems Conference,2020
-64,IEEE International New Circuits and Systems Conference,2021
-64,IEEE International New Circuits and Systems Conference,2022
-64,IEEE International New Circuits and Systems Conference,2023
-65,International Symposium on Circuits and Systems,2020
-65,International Symposium on Circuits and Systems,2021
-65,International Symposium on Circuits and Systems,2022
-65,International Symposium on Circuits and Systems,2023
-66,"Design, Automation and Test in Europe",2020
-66,"Design, Automation and Test in Europe",2021
-66,"Design, Automation and Test in Europe",2022
-66,"Design, Automation and Test in Europe",2023
-67,"International Conference on Control, Engineering & Information Technology",2020
-67,"International Conference on Control, Engineering & Information Technology",2021
-67,"International Conference on Control, Engineering & Information Technology",2022
-67,"International Conference on Control, Engineering & Information Technology",2023
-68,International Conference on Software and Computer Applications,2020
-68,International Conference on Software and Computer Applications,2021
-68,International Conference on Software and Computer Applications,2022
-68,International Conference on Software and Computer Applications,2023
-69,International Conference on Parallel Architectures and Compilation Techniques,2020
-69,International Conference on Parallel Architectures and Compilation Techniques,2021
-69,International Conference on Parallel Architectures and Compilation Techniques,2022
-69,International Conference on Parallel Architectures and Compilation Techniques,2023
-70,IEEE International Symposium on Workload Characterization,2020
-70,IEEE International Symposium on Workload Characterization,2021
-70,IEEE International Symposium on Workload Characterization,2022
-70,IEEE International Symposium on Workload Characterization,2023
-71,ACM-SIGPLAN Symposium on Programming Language Design and Implementation,2020
-71,ACM-SIGPLAN Symposium on Programming Language Design and Implementation,2021
-71,ACM-SIGPLAN Symposium on Programming Language Design and Implementation,2022
-71,ACM-SIGPLAN Symposium on Programming Language Design and Implementation,2023
-72,Dynamic Languages Symposium,2020
-72,Dynamic Languages Symposium,2021
-72,Dynamic Languages Symposium,2022
-72,Dynamic Languages Symposium,2023
-73,International Conference on Architectural Support for Programming Languages and Operating Systems,2020
-73,International Conference on Architectural Support for Programming Languages and Operating Systems,2021
-73,International Conference on Architectural Support for Programming Languages and Operating Systems,2022
-73,International Conference on Architectural Support for Programming Languages and Operating Systems,2023
-74,"IEEE Transportation Electrification Conference and Expo, Asia-Pacific",2020
-74,"IEEE Transportation Electrification Conference and Expo, Asia-Pacific",2021
-74,"IEEE Transportation Electrification Conference and Expo, Asia-Pacific",2022
-74,"IEEE Transportation Electrification Conference and Expo, Asia-Pacific",2023
-75,"The Power Electronics, Drive Systems & Technologies Conference",2020
-75,"The Power Electronics, Drive Systems & Technologies Conference",2021
-75,"The Power Electronics, Drive Systems & Technologies Conference",2022
-75,"The Power Electronics, Drive Systems & Technologies Conference",2023
-76,International Conference on Computer Supported Collaborative Learning,2020
-76,International Conference on Computer Supported Collaborative Learning,2021
-76,International Conference on Computer Supported Collaborative Learning,2022
-76,International Conference on Computer Supported Collaborative Learning,2023
-77,Conference on Computer Supported Cooperative Work,2020
-77,Conference on Computer Supported Cooperative Work,2021
-77,Conference on Computer Supported Cooperative Work,2022
-77,Conference on Computer Supported Cooperative Work,2023
-78,Asia-Pacific Signal and Information Processing Association Annual Summit and Conference,2020
-78,Asia-Pacific Signal and Information Processing Association Annual Summit and Conference,2021
-78,Asia-Pacific Signal and Information Processing Association Annual Summit and Conference,2022
-78,Asia-Pacific Signal and Information Processing Association Annual Summit and Conference,2023
-79,EUROMICRO Conference on Software Engineering and Advanced Applications,2020
-79,EUROMICRO Conference on Software Engineering and Advanced Applications,2021
-79,EUROMICRO Conference on Software Engineering and Advanced Applications,2022
-79,EUROMICRO Conference on Software Engineering and Advanced Applications,2023
-80,International Conference on Mobile Ad-hoc and Sensor Networks,2020
-80,International Conference on Mobile Ad-hoc and Sensor Networks,2021
-80,International Conference on Mobile Ad-hoc and Sensor Networks,2022
-80,International Conference on Mobile Ad-hoc and Sensor Networks,2023
-81,Interspeech,2020
-81,Interspeech,2021
-81,Interspeech,2022
-81,Interspeech,2023
-82,North American Chapter of the Association for Computational Linguistics,2020
-82,North American Chapter of the Association for Computational Linguistics,2021
-82,North American Chapter of the Association for Computational Linguistics,2022
-82,North American Chapter of the Association for Computational Linguistics,2023
-83,IEEE Joint International Information Technology and Artificial Intelligence Conference,2020
-83,IEEE Joint International Information Technology and Artificial Intelligence Conference,2021
-83,IEEE Joint International Information Technology and Artificial Intelligence Conference,2022
-83,IEEE Joint International Information Technology and Artificial Intelligence Conference,2023
-84,International Conference on Computer Graphics Theory and Applications,2020
-84,International Conference on Computer Graphics Theory and Applications,2021
-84,International Conference on Computer Graphics Theory and Applications,2022
-84,International Conference on Computer Graphics Theory and Applications,2023
-85,International Conference on Games and Virtual Worlds for Serious Applications,2020
-85,International Conference on Games and Virtual Worlds for Serious Applications,2021
-85,International Conference on Games and Virtual Worlds for Serious Applications,2022
-85,International Conference on Games and Virtual Worlds for Serious Applications,2023
-86,Hawaii International Conference on System Sciences,2020
-86,Hawaii International Conference on System Sciences,2021
-86,Hawaii International Conference on System Sciences,2022
-86,Hawaii International Conference on System Sciences,2023
-87,IEEE International Conference on Intelligent Systems,2020
-87,IEEE International Conference on Intelligent Systems,2021
-87,IEEE International Conference on Intelligent Systems,2022
-87,IEEE International Conference on Intelligent Systems,2023
-88,AAAI Conference on Artificial Intelligence,2020
-88,AAAI Conference on Artificial Intelligence,2021
-88,AAAI Conference on Artificial Intelligence,2022
-88,AAAI Conference on Artificial Intelligence,2023
-89,International Conference on Intelligent Human-Machine Systems and Cybernetics,2020
-89,International Conference on Intelligent Human-Machine Systems and Cybernetics,2021
-89,International Conference on Intelligent Human-Machine Systems and Cybernetics,2022
-89,International Conference on Intelligent Human-Machine Systems and Cybernetics,2023
-90,International Symposium on Software Testing and Analysis,2020
-90,International Symposium on Software Testing and Analysis,2021
-90,International Symposium on Software Testing and Analysis,2022
-90,International Symposium on Software Testing and Analysis,2023
-91,IEEE Symposium Series on Computational Intelligence,2020
-91,IEEE Symposium Series on Computational Intelligence,2021
-91,IEEE Symposium Series on Computational Intelligence,2022
-91,IEEE Symposium Series on Computational Intelligence,2023
-92,IEEE Conference on Communications and Network Security,2020
-92,IEEE Conference on Communications and Network Security,2021
-92,IEEE Conference on Communications and Network Security,2022
-92,IEEE Conference on Communications and Network Security,2023
-93,"International Conference on Trust, Security and Privacy in Computing and Communications",2020
-93,"International Conference on Trust, Security and Privacy in Computing and Communications",2021
-93,"International Conference on Trust, Security and Privacy in Computing and Communications",2022
-93,"International Conference on Trust, Security and Privacy in Computing and Communications",2023
-94,International Conference on Information Systems Security and Privacy,2020
-94,International Conference on Information Systems Security and Privacy,2021
-94,International Conference on Information Systems Security and Privacy,2022
-94,International Conference on Information Systems Security and Privacy,2023
-95,International Conference on Intelligent Transportation Systems,2020
-95,International Conference on Intelligent Transportation Systems,2021
-95,International Conference on Intelligent Transportation Systems,2022
-95,International Conference on Intelligent Transportation Systems,2023
-96,Conference on Empirical Methods in Natural Language Processing,2020
-96,Conference on Empirical Methods in Natural Language Processing,2021
-96,Conference on Empirical Methods in Natural Language Processing,2022
-96,Conference on Empirical Methods in Natural Language Processing,2023
-97,Conference of the Association for Machine Translation in the Americas,2020
-97,Conference of the Association for Machine Translation in the Americas,2021
-97,Conference of the Association for Machine Translation in the Americas,2022
-97,Conference of the Association for Machine Translation in the Americas,2023
-98,Neural Information Processing Systems,2020
-98,Neural Information Processing Systems,2021
-98,Neural Information Processing Systems,2022
-98,Neural Information Processing Systems,2023
-99,International Conference on Signal-Image Technology and Internet-Based Systems,2020
-99,International Conference on Signal-Image Technology and Internet-Based Systems,2021
-99,International Conference on Signal-Image Technology and Internet-Based Systems,2022
-99,International Conference on Signal-Image Technology and Internet-Based Systems,2023
-100,International Conference on Knowledge Management in Organizations,2020
-100,International Conference on Knowledge Management in Organizations,2021
-100,International Conference on Knowledge Management in Organizations,2022
-100,International Conference on Knowledge Management in Organizations,2023
-101,"IEEE International Conference on Software Analysis, Evolution, and Reengineering",2020
-101,"IEEE International Conference on Software Analysis, Evolution, and Reengineering",2021
-101,"IEEE International Conference on Software Analysis, Evolution, and Reengineering",2022
-101,"IEEE International Conference on Software Analysis, Evolution, and Reengineering",2023
-102,ACM Symposium on Applied Computing,2020
-102,ACM Symposium on Applied Computing,2021
-102,ACM Symposium on Applied Computing,2022
-102,ACM Symposium on Applied Computing,2023
-103,European Conference on Mobile Robots,2020
-103,European Conference on Mobile Robots,2021
-103,European Conference on Mobile Robots,2022
-103,European Conference on Mobile Robots,2023
-104,International Conference on High Performance Switching and Routing,2020
-104,International Conference on High Performance Switching and Routing,2021
-104,International Conference on High Performance Switching and Routing,2022
-104,International Conference on High Performance Switching and Routing,2023
-105,Affective Computing and Intelligent Interaction,2020
-105,Affective Computing and Intelligent Interaction,2021
-105,Affective Computing and Intelligent Interaction,2022
-105,Affective Computing and Intelligent Interaction,2023
-106,IEEE Conference on Network Softwarization,2020
-106,IEEE Conference on Network Softwarization,2021
-106,IEEE Conference on Network Softwarization,2022
-106,IEEE Conference on Network Softwarization,2023
-107,Conference on Network Function Virtualization and Software Defined Network,2020
-107,Conference on Network Function Virtualization and Software Defined Network,2021
-107,Conference on Network Function Virtualization and Software Defined Network,2022
-107,Conference on Network Function Virtualization and Software Defined Network,2023
-108,"International Conferences on Computing, Networks and Internet of Things",2020
-108,"International Conferences on Computing, Networks and Internet of Things",2021
-108,"International Conferences on Computing, Networks and Internet of Things",2022
-108,"International Conferences on Computing, Networks and Internet of Things",2023
-109,Conference on Data and Application Security and Privacy,2020
-109,Conference on Data and Application Security and Privacy,2021
-109,Conference on Data and Application Security and Privacy,2022
-109,Conference on Data and Application Security and Privacy,2023
-110,International Conference on Parallel and Distributed Systems,2020
-110,International Conference on Parallel and Distributed Systems,2021
-110,International Conference on Parallel and Distributed Systems,2022
-110,International Conference on Parallel and Distributed Systems,2023
-111,International Conference on Speech Technology and Human-Computer Dialogue,2020
-111,International Conference on Speech Technology and Human-Computer Dialogue,2021
-111,International Conference on Speech Technology and Human-Computer Dialogue,2022
-111,International Conference on Speech Technology and Human-Computer Dialogue,2023
-112,Annual Conference on Genetic and Evolutionary Computation,2020
-112,Annual Conference on Genetic and Evolutionary Computation,2021
-112,Annual Conference on Genetic and Evolutionary Computation,2022
-112,Annual Conference on Genetic and Evolutionary Computation,2023
-113,European Conference on Machine Learning,2020
-113,European Conference on Machine Learning,2021
-113,European Conference on Machine Learning,2022
-113,European Conference on Machine Learning,2023
-114,European Control Conference,2020
-114,European Control Conference,2021
-114,European Control Conference,2022
-114,European Control Conference,2023
-115,"International Conference on Control, Decision and Information Technologies",2020
-115,"International Conference on Control, Decision and Information Technologies",2021
-115,"International Conference on Control, Decision and Information Technologies",2022
-115,"International Conference on Control, Decision and Information Technologies",2023
-116,American Control Conference,2020
-116,American Control Conference,2021
-116,American Control Conference,2022
-116,American Control Conference,2023
-117,IEEE-RAS International Conference on Humanoid Robots,2020
-117,IEEE-RAS International Conference on Humanoid Robots,2021
-117,IEEE-RAS International Conference on Humanoid Robots,2022
-117,IEEE-RAS International Conference on Humanoid Robots,2023
-118,IEEE/RJS International Conference on Intelligent RObots and Systems,2020
-118,IEEE/RJS International Conference on Intelligent RObots and Systems,2021
-118,IEEE/RJS International Conference on Intelligent RObots and Systems,2022
-118,IEEE/RJS International Conference on Intelligent RObots and Systems,2023
-119,International Conferences on Human-Machine Systems,2020
-119,International Conferences on Human-Machine Systems,2021
-119,International Conferences on Human-Machine Systems,2022
-119,International Conferences on Human-Machine Systems,2023
-120,Fusion,2020
-120,Fusion,2021
-120,Fusion,2022
-120,Fusion,2023
-121,"IEEE International Conference on Systems, Man and Cybernetics",2020
-121,"IEEE International Conference on Systems, Man and Cybernetics",2021
-121,"IEEE International Conference on Systems, Man and Cybernetics",2022
-121,"IEEE International Conference on Systems, Man and Cybernetics",2023
-122,"International Conference on Advances in Computing, Communications and Informatics",2020
-122,"International Conference on Advances in Computing, Communications and Informatics",2021
-122,"International Conference on Advances in Computing, Communications and Informatics",2022
-122,"International Conference on Advances in Computing, Communications and Informatics",2023
-123,International Conference on Information Technology,2020
-123,International Conference on Information Technology,2021
-123,International Conference on Information Technology,2022
-123,International Conference on Information Technology,2023
-124,International Conference on Mobile and Ubiquitous Multimedia,2020
-124,International Conference on Mobile and Ubiquitous Multimedia,2021
-124,International Conference on Mobile and Ubiquitous Multimedia,2022
-124,International Conference on Mobile and Ubiquitous Multimedia,2023
-125,Virtual Reality Software and Technology,2020
-125,Virtual Reality Software and Technology,2021
-125,Virtual Reality Software and Technology,2022
-125,Virtual Reality Software and Technology,2023
-126,IEEE Conference on Virtual Reality and 3D User Interfaces,2020
-126,IEEE Conference on Virtual Reality and 3D User Interfaces,2021
-126,IEEE Conference on Virtual Reality and 3D User Interfaces,2022
-126,IEEE Conference on Virtual Reality and 3D User Interfaces,2023
-127,Conference on Software Engineering Education and Training,2020
-127,Conference on Software Engineering Education and Training,2021
-127,Conference on Software Engineering Education and Training,2022
-127,Conference on Software Engineering Education and Training,2023
-128,IEEE Conference on Visual Analytics Science and Technology,2020
-128,IEEE Conference on Visual Analytics Science and Technology,2021
-128,IEEE Conference on Visual Analytics Science and Technology,2022
-128,IEEE Conference on Visual Analytics Science and Technology,2023
-129,"International Conference on Teaching, Assessment, and Learning for Engineering",2020
-129,"International Conference on Teaching, Assessment, and Learning for Engineering",2021
-129,"International Conference on Teaching, Assessment, and Learning for Engineering",2022
-129,"International Conference on Teaching, Assessment, and Learning for Engineering",2023
-130,International Conference on Ubiquitous Robots and Ambient Intelligence,2020
-130,International Conference on Ubiquitous Robots and Ambient Intelligence,2021
-130,International Conference on Ubiquitous Robots and Ambient Intelligence,2022
-130,International Conference on Ubiquitous Robots and Ambient Intelligence,2023
-131,Joint IEEE International Conference on Development and Learning and on Epigenetic Robotics,2020
-131,Joint IEEE International Conference on Development and Learning and on Epigenetic Robotics,2021
-131,Joint IEEE International Conference on Development and Learning and on Epigenetic Robotics,2022
-131,Joint IEEE International Conference on Development and Learning and on Epigenetic Robotics,2023
-132,International Conference on Biomedical Robotics and Biomechatronics,2020
-132,International Conference on Biomedical Robotics and Biomechatronics,2021
-132,International Conference on Biomedical Robotics and Biomechatronics,2022
-132,International Conference on Biomedical Robotics and Biomechatronics,2023
-133,IEEE International Symposium on Distributed Simulation and Real-Time Applications,2020
-133,IEEE International Symposium on Distributed Simulation and Real-Time Applications,2021
-133,IEEE International Symposium on Distributed Simulation and Real-Time Applications,2022
-133,IEEE International Symposium on Distributed Simulation and Real-Time Applications,2023
-134,SIGSIM Principles of Advanced Discrete Simulation,2020
-134,SIGSIM Principles of Advanced Discrete Simulation,2021
-134,SIGSIM Principles of Advanced Discrete Simulation,2022
-134,SIGSIM Principles of Advanced Discrete Simulation,2023
-135,International Conference on Micro-Electronics and Telecommunication Engineering,2020
-135,International Conference on Micro-Electronics and Telecommunication Engineering,2021
-135,International Conference on Micro-Electronics and Telecommunication Engineering,2022
-135,International Conference on Micro-Electronics and Telecommunication Engineering,2023
-136,Technical Symposium on Computer Science Education,2020
-136,Technical Symposium on Computer Science Education,2021
-136,Technical Symposium on Computer Science Education,2022
-136,Technical Symposium on Computer Science Education,2023
-137,Conference on Global Computing Education,2020
-137,Conference on Global Computing Education,2021
-137,Conference on Global Computing Education,2022
-137,Conference on Global Computing Education,2023
-138,International Conference on Information Photonics,2020
-138,International Conference on Information Photonics,2021
-138,International Conference on Information Photonics,2022
-138,International Conference on Information Photonics,2023
-139,International Conference on Communications and Information Technology,2020
-139,International Conference on Communications and Information Technology,2021
-139,International Conference on Communications and Information Technology,2022
-139,International Conference on Communications and Information Technology,2023
-140,International Conference on Electrical Engineering and Informatics,2020
-140,International Conference on Electrical Engineering and Informatics,2021
-140,International Conference on Electrical Engineering and Informatics,2022
-140,International Conference on Electrical Engineering and Informatics,2023
-141,"International Conference on Systems, Signals, and Image Processing",2020
-141,"International Conference on Systems, Signals, and Image Processing",2021
-141,"International Conference on Systems, Signals, and Image Processing",2022
-141,"International Conference on Systems, Signals, and Image Processing",2023
-142,International Conference on Signals and Electronic Systems,2020
-142,International Conference on Signals and Electronic Systems,2021
-142,International Conference on Signals and Electronic Systems,2022
-142,International Conference on Signals and Electronic Systems,2023
-143,"Ubiquitous Computing, Electronics & Mobile Communication Conference",2020
-143,"Ubiquitous Computing, Electronics & Mobile Communication Conference",2021
-143,"Ubiquitous Computing, Electronics & Mobile Communication Conference",2022
-143,"Ubiquitous Computing, Electronics & Mobile Communication Conference",2023
-144,Embedded Systems and Applications,2020
-144,Embedded Systems and Applications,2021
-144,Embedded Systems and Applications,2022
-144,Embedded Systems and Applications,2023
-145,IEEE International Conference on Data Engineering,2020
-145,IEEE International Conference on Data Engineering,2021
-145,IEEE International Conference on Data Engineering,2022
-145,IEEE International Conference on Data Engineering,2023
-146,International Conference on Advanced Learning Technologies,2020
-146,International Conference on Advanced Learning Technologies,2021
-146,International Conference on Advanced Learning Technologies,2022
-146,International Conference on Advanced Learning Technologies,2023
-147,International Conference on Cloud Computing and Services Science,2020
-147,International Conference on Cloud Computing and Services Science,2021
-147,International Conference on Cloud Computing and Services Science,2022
-147,International Conference on Cloud Computing and Services Science,2023
-148,International Conference on Artificial Intelligence and Advanced Manufacturing,2020
-148,International Conference on Artificial Intelligence and Advanced Manufacturing,2021
-148,International Conference on Artificial Intelligence and Advanced Manufacturing,2022
-148,International Conference on Artificial Intelligence and Advanced Manufacturing,2023
-149,International Symposium on Cloud and Service Computing,2020
-149,International Symposium on Cloud and Service Computing,2021
-149,International Symposium on Cloud and Service Computing,2022
-149,International Symposium on Cloud and Service Computing,2023
-150,"International Conference on Communication, Computing & Security",2020
-150,"International Conference on Communication, Computing & Security",2021
-150,"International Conference on Communication, Computing & Security",2022
-150,"International Conference on Communication, Computing & Security",2023
-151,International Conference on Applied Human Factors and Ergonomics,2020
-151,International Conference on Applied Human Factors and Ergonomics,2021
-151,International Conference on Applied Human Factors and Ergonomics,2022
-151,International Conference on Applied Human Factors and Ergonomics,2023
-152,International Conference Virtual and Augmented Reality Simulations,2020
-152,International Conference Virtual and Augmented Reality Simulations,2021
-152,International Conference Virtual and Augmented Reality Simulations,2022
-152,International Conference Virtual and Augmented Reality Simulations,2023
-153,Learning With MOOCS,2020
-153,Learning With MOOCS,2021
-153,Learning With MOOCS,2022
-153,Learning With MOOCS,2023
-154,International Conference on Health Information Science,2020
-154,International Conference on Health Information Science,2021
-154,International Conference on Health Information Science,2022
-154,International Conference on Health Information Science,2023
-155,International Conference on Automation and Computing,2020
-155,International Conference on Automation and Computing,2021
-155,International Conference on Automation and Computing,2022
-155,International Conference on Automation and Computing,2023
-156,IEEE International Symposium on Robot and Human Interactive Communication,2020
-156,IEEE International Symposium on Robot and Human Interactive Communication,2021
-156,IEEE International Symposium on Robot and Human Interactive Communication,2022
-156,IEEE International Symposium on Robot and Human Interactive Communication,2023
-157,International Conference on Innovations in Information Technology,2020
-157,International Conference on Innovations in Information Technology,2021
-157,International Conference on Innovations in Information Technology,2022
-157,International Conference on Innovations in Information Technology,2023
-158,IEEE Conference on High Performance Extreme Computing,2020
-158,IEEE Conference on High Performance Extreme Computing,2021
-158,IEEE Conference on High Performance Extreme Computing,2022
-158,IEEE Conference on High Performance Extreme Computing,2023
-159,International Conference on Field-Programmable Logic and Applications,2020
-159,International Conference on Field-Programmable Logic and Applications,2021
-159,International Conference on Field-Programmable Logic and Applications,2022
-159,International Conference on Field-Programmable Logic and Applications,2023
-160,IEEE Computer Society Annual Symposium on VLSI,2020
-160,IEEE Computer Society Annual Symposium on VLSI,2021
-160,IEEE Computer Society Annual Symposium on VLSI,2022
-160,IEEE Computer Society Annual Symposium on VLSI,2023
-161,International Conference on VLSI Design,2020
-161,International Conference on VLSI Design,2021
-161,International Conference on VLSI Design,2022
-161,International Conference on VLSI Design,2023
+0,European Conference on Computer Vision,2020
+0,European Conference on Computer Vision,2021
+0,European Conference on Computer Vision,2022
+0,European Conference on Computer Vision,2023
+1,Annual Meeting of the Association for Computational Linguistics,2020
+1,Annual Meeting of the Association for Computational Linguistics,2021
+1,Annual Meeting of the Association for Computational Linguistics,2022
+1,Annual Meeting of the Association for Computational Linguistics,2023
+2,International Conference on Pattern Recognition,2020
+2,International Conference on Pattern Recognition,2021
+2,International Conference on Pattern Recognition,2022
+2,International Conference on Pattern Recognition,2023
+3,IEEE International Conference on Robotics and Automation,2020
+3,IEEE International Conference on Robotics and Automation,2021
+3,IEEE International Conference on Robotics and Automation,2022
+3,IEEE International Conference on Robotics and Automation,2023
+4,AAAI Conference on Artificial Intelligence,2020
+4,AAAI Conference on Artificial Intelligence,2021
+4,AAAI Conference on Artificial Intelligence,2022
+4,AAAI Conference on Artificial Intelligence,2023
+5,IEEE Conference on Communications and Network Security,2020
+5,IEEE Conference on Communications and Network Security,2021
+5,IEEE Conference on Communications and Network Security,2022
+5,IEEE Conference on Communications and Network Security,2023
+6,ACM Asia Conference on Computer and Communications Security,2020
+6,ACM Asia Conference on Computer and Communications Security,2021
+6,ACM Asia Conference on Computer and Communications Security,2022
+6,ACM Asia Conference on Computer and Communications Security,2023
+7,IEEE International Joint Conference on Neural Network,2020
+7,IEEE International Joint Conference on Neural Network,2021
+7,IEEE International Joint Conference on Neural Network,2022
+7,IEEE International Joint Conference on Neural Network,2023
+8,International Conference on Innovations in Information Technology,2020
+8,International Conference on Innovations in Information Technology,2021
+8,International Conference on Innovations in Information Technology,2022
+8,International Conference on Innovations in Information Technology,2023
+9,IEEE Conference on High Performance Extreme Computing,2020
+9,IEEE Conference on High Performance Extreme Computing,2021
+9,IEEE Conference on High Performance Extreme Computing,2022
+9,IEEE Conference on High Performance Extreme Computing,2023
+10,International Conference on Computational Intelligence and Communication Networks,2020
+10,International Conference on Computational Intelligence and Communication Networks,2021
+10,International Conference on Computational Intelligence and Communication Networks,2022
+10,International Conference on Computational Intelligence and Communication Networks,2023
+11,ACM/IEEE International Conference on Model Driven Engineering Languages and Systems,2020
+11,ACM/IEEE International Conference on Model Driven Engineering Languages and Systems,2021
+11,ACM/IEEE International Conference on Model Driven Engineering Languages and Systems,2022
+11,ACM/IEEE International Conference on Model Driven Engineering Languages and Systems,2023
+12,International Conference on Computing Communication and Networking Technologies,2020
+12,International Conference on Computing Communication and Networking Technologies,2021
+12,International Conference on Computing Communication and Networking Technologies,2022
+12,International Conference on Computing Communication and Networking Technologies,2023
+13,Annual Conference of the IEEE Industrial Electronics Society,2020
+13,Annual Conference of the IEEE Industrial Electronics Society,2021
+13,Annual Conference of the IEEE Industrial Electronics Society,2022
+13,Annual Conference of the IEEE Industrial Electronics Society,2023
+14,EPE,2020
+14,EPE,2021
+14,EPE,2022
+14,EPE,2023
+15,Annual International Computer Software and Applications Conference,2020
+15,Annual International Computer Software and Applications Conference,2021
+15,Annual International Computer Software and Applications Conference,2022
+15,Annual International Computer Software and Applications Conference,2023
+16,International Joint Conference on Artificial Intelligence,2020
+16,International Joint Conference on Artificial Intelligence,2021
+16,International Joint Conference on Artificial Intelligence,2022
+16,International Joint Conference on Artificial Intelligence,2023
+17,International Symposium on Medical Robotics,2020
+17,International Symposium on Medical Robotics,2021
+17,International Symposium on Medical Robotics,2022
+17,International Symposium on Medical Robotics,2023
+18,IEEE/RJS International Conference on Intelligent RObots and Systems,2020
+18,IEEE/RJS International Conference on Intelligent RObots and Systems,2021
+18,IEEE/RJS International Conference on Intelligent RObots and Systems,2022
+18,IEEE/RJS International Conference on Intelligent RObots and Systems,2023
+19,Industrial Conference on Data Mining,2020
+19,Industrial Conference on Data Mining,2021
+19,Industrial Conference on Data Mining,2022
+19,Industrial Conference on Data Mining,2023
+20,Italian National Conference on Sensors,2020
+20,Italian National Conference on Sensors,2021
+20,Italian National Conference on Sensors,2022
+20,Italian National Conference on Sensors,2023
+21,Pacific-Asia Conference on Knowledge Discovery and Data Mining,2020
+21,Pacific-Asia Conference on Knowledge Discovery and Data Mining,2021
+21,Pacific-Asia Conference on Knowledge Discovery and Data Mining,2022
+21,Pacific-Asia Conference on Knowledge Discovery and Data Mining,2023
+22,International Conference on Quantum Computing and Engineering,2020
+22,International Conference on Quantum Computing and Engineering,2021
+22,International Conference on Quantum Computing and Engineering,2022
+22,International Conference on Quantum Computing and Engineering,2023
+23,International Conference on Localization and Global Navigation Satellite System,2020
+23,International Conference on Localization and Global Navigation Satellite System,2021
+23,International Conference on Localization and Global Navigation Satellite System,2022
+23,International Conference on Localization and Global Navigation Satellite System,2023
+24,Conference on Empirical Methods in Natural Language Processing,2020
+24,Conference on Empirical Methods in Natural Language Processing,2021
+24,Conference on Empirical Methods in Natural Language Processing,2022
+24,Conference on Empirical Methods in Natural Language Processing,2023
+25,International Conference on Human Factors in Computing Systems,2020
+25,International Conference on Human Factors in Computing Systems,2021
+25,International Conference on Human Factors in Computing Systems,2022
+25,International Conference on Human Factors in Computing Systems,2023
+26,IEEE/ACM International Conference on Human-Robot Interaction,2020
+26,IEEE/ACM International Conference on Human-Robot Interaction,2021
+26,IEEE/ACM International Conference on Human-Robot Interaction,2022
+26,IEEE/ACM International Conference on Human-Robot Interaction,2023
+27,Symposium on the Theory of Computing,2020
+27,Symposium on the Theory of Computing,2021
+27,Symposium on the Theory of Computing,2022
+27,Symposium on the Theory of Computing,2023
+28,International Conference on Learning Representations,2020
+28,International Conference on Learning Representations,2021
+28,International Conference on Learning Representations,2022
+28,International Conference on Learning Representations,2023
+29,Neural Information Processing Systems,2020
+29,Neural Information Processing Systems,2021
+29,Neural Information Processing Systems,2022
+29,Neural Information Processing Systems,2023
+30,Annual Conference Computational Learning Theory,2020
+30,Annual Conference Computational Learning Theory,2021
+30,Annual Conference Computational Learning Theory,2022
+30,Annual Conference Computational Learning Theory,2023
+31,Adaptive Agents and Multi-Agent Systems,2020
+31,Adaptive Agents and Multi-Agent Systems,2021
+31,Adaptive Agents and Multi-Agent Systems,2022
+31,Adaptive Agents and Multi-Agent Systems,2023
+32,"IEEE International Conference on Acoustics, Speech, and Signal Processing",2020
+32,"IEEE International Conference on Acoustics, Speech, and Signal Processing",2021
+32,"IEEE International Conference on Acoustics, Speech, and Signal Processing",2022
+32,"IEEE International Conference on Acoustics, Speech, and Signal Processing",2023
+33,Computer Vision and Pattern Recognition,2020
+33,Computer Vision and Pattern Recognition,2021
+33,Computer Vision and Pattern Recognition,2022
+33,Computer Vision and Pattern Recognition,2023
+34,IEEE International Conference on Computer Vision,2020
+34,IEEE International Conference on Computer Vision,2021
+34,IEEE International Conference on Computer Vision,2022
+34,IEEE International Conference on Computer Vision,2023
+35,Distributed Event-Based Systems,2020
+35,Distributed Event-Based Systems,2021
+35,Distributed Event-Based Systems,2022
+35,Distributed Event-Based Systems,2023
+36,International Conference on Blockchain,2020
+36,International Conference on Blockchain,2021
+36,International Conference on Blockchain,2022
+36,International Conference on Blockchain,2023
+37,IEEE International Conference on Consumer Electronics,2020
+37,IEEE International Conference on Consumer Electronics,2021
+37,IEEE International Conference on Consumer Electronics,2022
+37,IEEE International Conference on Consumer Electronics,2023
+38,European Control Conference,2020
+38,European Control Conference,2021
+38,European Control Conference,2022
+38,European Control Conference,2023
+39,American Control Conference,2020
+39,American Control Conference,2021
+39,American Control Conference,2022
+39,American Control Conference,2023
+40,Annual International Conference of the IEEE Engineering in Medicine and Biology Society,2020
+40,Annual International Conference of the IEEE Engineering in Medicine and Biology Society,2021
+40,Annual International Conference of the IEEE Engineering in Medicine and Biology Society,2022
+40,Annual International Conference of the IEEE Engineering in Medicine and Biology Society,2023
+41,Complex,2020
+41,Complex,2021
+41,Complex,2022
+41,Complex,2023
+42,International Radar Conference,2020
+42,International Radar Conference,2021
+42,International Radar Conference,2022
+42,International Radar Conference,2023
+43,International Conference on Information Photonics,2020
+43,International Conference on Information Photonics,2021
+43,International Conference on Information Photonics,2022
+43,International Conference on Information Photonics,2023
+44,Knowledge Discovery and Data Mining,2020
+44,Knowledge Discovery and Data Mining,2021
+44,Knowledge Discovery and Data Mining,2022
+44,Knowledge Discovery and Data Mining,2023
+45,International Conference on Information Control Systems & Technologies,2020
+45,International Conference on Information Control Systems & Technologies,2021
+45,International Conference on Information Control Systems & Technologies,2022
+45,International Conference on Information Control Systems & Technologies,2023
+46,International Conference on Automated Software Engineering,2020
+46,International Conference on Automated Software Engineering,2021
+46,International Conference on Automated Software Engineering,2022
+46,International Conference on Automated Software Engineering,2023
+47,Joint IEEE International Conference on Development and Learning and on Epigenetic Robotics,2020
+47,Joint IEEE International Conference on Development and Learning and on Epigenetic Robotics,2021
+47,Joint IEEE International Conference on Development and Learning and on Epigenetic Robotics,2022
+47,Joint IEEE International Conference on Development and Learning and on Epigenetic Robotics,2023
+48,International Conference on Development and Learning,2020
+48,International Conference on Development and Learning,2021
+48,International Conference on Development and Learning,2022
+48,International Conference on Development and Learning,2023
+49,International Conference on Medical Image Computing and Computer-Assisted Intervention,2020
+49,International Conference on Medical Image Computing and Computer-Assisted Intervention,2021
+49,International Conference on Medical Image Computing and Computer-Assisted Intervention,2022
+49,International Conference on Medical Image Computing and Computer-Assisted Intervention,2023
+50,International Conference on Web and Social Media,2020
+50,International Conference on Web and Social Media,2021
+50,International Conference on Web and Social Media,2022
+50,International Conference on Web and Social Media,2023
+51,"International Conference on Computing, Communication and Automation",2020
+51,"International Conference on Computing, Communication and Automation",2021
+51,"International Conference on Computing, Communication and Automation",2022
+51,"International Conference on Computing, Communication and Automation",2023
+52,"IEEE International Conference on Systems, Man and Cybernetics",2020
+52,"IEEE International Conference on Systems, Man and Cybernetics",2021
+52,"IEEE International Conference on Systems, Man and Cybernetics",2022
+52,"IEEE International Conference on Systems, Man and Cybernetics",2023
+53,International Conference on Computer and Knowledge Engineering,2020
+53,International Conference on Computer and Knowledge Engineering,2021
+53,International Conference on Computer and Knowledge Engineering,2022
+53,International Conference on Computer and Knowledge Engineering,2023
+54,IEEE Vehicular Technology Conference,2020
+54,IEEE Vehicular Technology Conference,2021
+54,IEEE Vehicular Technology Conference,2022
+54,IEEE Vehicular Technology Conference,2023
+55,International Symposium on Mixed and Augmented Reality,2020
+55,International Symposium on Mixed and Augmented Reality,2021
+55,International Symposium on Mixed and Augmented Reality,2022
+55,International Symposium on Mixed and Augmented Reality,2023
+56,IEEE Wireless Communications and Networking Conference,2020
+56,IEEE Wireless Communications and Networking Conference,2021
+56,IEEE Wireless Communications and Networking Conference,2022
+56,IEEE Wireless Communications and Networking Conference,2023
+57,International Conference on AI in Finance,2020
+57,International Conference on AI in Finance,2021
+57,International Conference on AI in Finance,2022
+57,International Conference on AI in Finance,2023
+58,Conference on Multimedia Information Processing and Retrieval,2020
+58,Conference on Multimedia Information Processing and Retrieval,2021
+58,Conference on Multimedia Information Processing and Retrieval,2022
+58,Conference on Multimedia Information Processing and Retrieval,2023
+59,Dependable Systems and Networks,2020
+59,Dependable Systems and Networks,2021
+59,Dependable Systems and Networks,2022
+59,Dependable Systems and Networks,2023
+60,International Conferences on Human-Machine Systems,2020
+60,International Conferences on Human-Machine Systems,2021
+60,International Conferences on Human-Machine Systems,2022
+60,International Conferences on Human-Machine Systems,2023
+61,IEEE International Conference on Automatic Face & Gesture Recognition,2020
+61,IEEE International Conference on Automatic Face & Gesture Recognition,2021
+61,IEEE International Conference on Automatic Face & Gesture Recognition,2022
+61,IEEE International Conference on Automatic Face & Gesture Recognition,2023
+62,International Conference on Information and Knowledge Management,2020
+62,International Conference on Information and Knowledge Management,2021
+62,International Conference on Information and Knowledge Management,2022
+62,International Conference on Information and Knowledge Management,2023
+63,International Conference on Innovative Computing and Cloud Computing,2020
+63,International Conference on Innovative Computing and Cloud Computing,2021
+63,International Conference on Innovative Computing and Cloud Computing,2022
+63,International Conference on Innovative Computing and Cloud Computing,2023
+64,International Conference on High Performance Scientific Computing,2020
+64,International Conference on High Performance Scientific Computing,2021
+64,International Conference on High Performance Scientific Computing,2022
+64,International Conference on High Performance Scientific Computing,2023
+65,"International Conference on Software, Telecommunications and Computer Networks",2020
+65,"International Conference on Software, Telecommunications and Computer Networks",2021
+65,"International Conference on Software, Telecommunications and Computer Networks",2022
+65,"International Conference on Software, Telecommunications and Computer Networks",2023
+66,IEEE International Conference on Network Protocols,2020
+66,IEEE International Conference on Network Protocols,2021
+66,IEEE International Conference on Network Protocols,2022
+66,IEEE International Conference on Network Protocols,2023
+67,International Conference on Machine Learning,2020
+67,International Conference on Machine Learning,2021
+67,International Conference on Machine Learning,2022
+67,International Conference on Machine Learning,2023
+68,IEEE International Symposium on Multimedia,2020
+68,IEEE International Symposium on Multimedia,2021
+68,IEEE International Symposium on Multimedia,2022
+68,IEEE International Symposium on Multimedia,2023
+69,Conference on Computer Science and Information Systems,2020
+69,Conference on Computer Science and Information Systems,2021
+69,Conference on Computer Science and Information Systems,2022
+69,Conference on Computer Science and Information Systems,2023
+70,Conference on Uncertainty in Artificial Intelligence,2020
+70,Conference on Uncertainty in Artificial Intelligence,2021
+70,Conference on Uncertainty in Artificial Intelligence,2022
+70,Conference on Uncertainty in Artificial Intelligence,2023
+71,Conference of the European Chapter of the Association for Computational Linguistics,2020
+71,Conference of the European Chapter of the Association for Computational Linguistics,2021
+71,Conference of the European Chapter of the Association for Computational Linguistics,2022
+71,Conference of the European Chapter of the Association for Computational Linguistics,2023
+72,North American Chapter of the Association for Computational Linguistics,2020
+72,North American Chapter of the Association for Computational Linguistics,2021
+72,North American Chapter of the Association for Computational Linguistics,2022
+72,North American Chapter of the Association for Computational Linguistics,2023
+73,Interspeech,2020
+73,Interspeech,2021
+73,Interspeech,2022
+73,Interspeech,2023
+74,International Conference on Advances in Social Networks Analysis and Mining,2020
+74,International Conference on Advances in Social Networks Analysis and Mining,2021
+74,International Conference on Advances in Social Networks Analysis and Mining,2022
+74,International Conference on Advances in Social Networks Analysis and Mining,2023
+75,The Web Conference,2020
+75,The Web Conference,2021
+75,The Web Conference,2022
+75,The Web Conference,2023
+76,"International Conference on Social Networks Analysis, Management and Security",2020
+76,"International Conference on Social Networks Analysis, Management and Security",2021
+76,"International Conference on Social Networks Analysis, Management and Security",2022
+76,"International Conference on Social Networks Analysis, Management and Security",2023
+77,"IEEE Uttar Pradesh Section International Conference on Electrical, Computer and Electronics Engineering",2020
+77,"IEEE Uttar Pradesh Section International Conference on Electrical, Computer and Electronics Engineering",2021
+77,"IEEE Uttar Pradesh Section International Conference on Electrical, Computer and Electronics Engineering",2022
+77,"IEEE Uttar Pradesh Section International Conference on Electrical, Computer and Electronics Engineering",2023
+78,Technical Symposium on Computer Science Education,2020
+78,Technical Symposium on Computer Science Education,2021
+78,Technical Symposium on Computer Science Education,2022
+78,Technical Symposium on Computer Science Education,2023
+79,Conference on Software Engineering Education and Training,2020
+79,Conference on Software Engineering Education and Training,2021
+79,Conference on Software Engineering Education and Training,2022
+79,Conference on Software Engineering Education and Training,2023
+80,IEEE International Conference on Multimedia Big Data,2020
+80,IEEE International Conference on Multimedia Big Data,2021
+80,IEEE International Conference on Multimedia Big Data,2022
+80,IEEE International Conference on Multimedia Big Data,2023
+81,ACM Multimedia,2020
+81,ACM Multimedia,2021
+81,ACM Multimedia,2022
+81,ACM Multimedia,2023
+82,International Conference on Architectural Support for Programming Languages and Operating Systems,2020
+82,International Conference on Architectural Support for Programming Languages and Operating Systems,2021
+82,International Conference on Architectural Support for Programming Languages and Operating Systems,2022
+82,International Conference on Architectural Support for Programming Languages and Operating Systems,2023
+83,Symposium on Operating Systems Principles,2020
+83,Symposium on Operating Systems Principles,2021
+83,Symposium on Operating Systems Principles,2022
+83,Symposium on Operating Systems Principles,2023
+84,International Conference on Prognostics and Health Management,2020
+84,International Conference on Prognostics and Health Management,2021
+84,International Conference on Prognostics and Health Management,2022
+84,International Conference on Prognostics and Health Management,2023
+85,International Conference on Advances in Computing and Artificial Intelligence,2020
+85,International Conference on Advances in Computing and Artificial Intelligence,2021
+85,International Conference on Advances in Computing and Artificial Intelligence,2022
+85,International Conference on Advances in Computing and Artificial Intelligence,2023
+86,National Radio Science Conference,2020
+86,National Radio Science Conference,2021
+86,National Radio Science Conference,2022
+86,National Radio Science Conference,2023
+87,ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia,2020
+87,ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia,2021
+87,ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia,2022
+87,ACM SIGGRAPH Conference and Exhibition on Computer Graphics and Interactive Techniques in Asia,2023
+88,International Conference on Big Data and Smart Computing,2020
+88,International Conference on Big Data and Smart Computing,2021
+88,International Conference on Big Data and Smart Computing,2022
+88,International Conference on Big Data and Smart Computing,2023
+89,IEEE Global Engineering Education Conference,2020
+89,IEEE Global Engineering Education Conference,2021
+89,IEEE Global Engineering Education Conference,2022
+89,IEEE Global Engineering Education Conference,2023
+90,Annual Conference on Innovation and Technology in Computer Science Education,2020
+90,Annual Conference on Innovation and Technology in Computer Science Education,2021
+90,Annual Conference on Innovation and Technology in Computer Science Education,2022
+90,Annual Conference on Innovation and Technology in Computer Science Education,2023
+91,Frontiers in Education Conference,2020
+91,Frontiers in Education Conference,2021
+91,Frontiers in Education Conference,2022
+91,Frontiers in Education Conference,2023
+92,International Conference on Computational Linguistics and Intelligent Systems,2020
+92,International Conference on Computational Linguistics and Intelligent Systems,2021
+92,International Conference on Computational Linguistics and Intelligent Systems,2022
+92,International Conference on Computational Linguistics and Intelligent Systems,2023
+93,Annual International ACM SIGIR Conference on Research and Development in Information Retrieval,2020
+93,Annual International ACM SIGIR Conference on Research and Development in Information Retrieval,2021
+93,Annual International ACM SIGIR Conference on Research and Development in Information Retrieval,2022
+93,Annual International ACM SIGIR Conference on Research and Development in Information Retrieval,2023
+94,International Conference on Cloud Computing and Intelligence Systems,2020
+94,International Conference on Cloud Computing and Intelligence Systems,2021
+94,International Conference on Cloud Computing and Intelligence Systems,2022
+94,International Conference on Cloud Computing and Intelligence Systems,2023
+95,Global Communications Conference,2020
+95,Global Communications Conference,2021
+95,Global Communications Conference,2022
+95,Global Communications Conference,2023
+96,Canadian Conference on Electrical and Computer Engineering,2020
+96,Canadian Conference on Electrical and Computer Engineering,2021
+96,Canadian Conference on Electrical and Computer Engineering,2022
+96,Canadian Conference on Electrical and Computer Engineering,2023
+97,"Ubiquitous Computing, Electronics & Mobile Communication Conference",2020
+97,"Ubiquitous Computing, Electronics & Mobile Communication Conference",2021
+97,"Ubiquitous Computing, Electronics & Mobile Communication Conference",2022
+97,"Ubiquitous Computing, Electronics & Mobile Communication Conference",2023
+98,ACM/IEEE International Conference on Mobile Computing and Networking,2020
+98,ACM/IEEE International Conference on Mobile Computing and Networking,2021
+98,ACM/IEEE International Conference on Mobile Computing and Networking,2022
+98,ACM/IEEE International Conference on Mobile Computing and Networking,2023
+99,Asian Conference on Computer Vision,2020
+99,Asian Conference on Computer Vision,2021
+99,Asian Conference on Computer Vision,2022
+99,Asian Conference on Computer Vision,2023
+100,IEEE Conference on Computer Communications,2020
+100,IEEE Conference on Computer Communications,2021
+100,IEEE Conference on Computer Communications,2022
+100,IEEE Conference on Computer Communications,2023
+101,IEEE International Symposium on Robot and Human Interactive Communication,2020
+101,IEEE International Symposium on Robot and Human Interactive Communication,2021
+101,IEEE International Symposium on Robot and Human Interactive Communication,2022
+101,IEEE International Symposium on Robot and Human Interactive Communication,2023
+102,International Conference on Machine Learning and Computing,2020
+102,International Conference on Machine Learning and Computing,2021
+102,International Conference on Machine Learning and Computing,2022
+102,International Conference on Machine Learning and Computing,2023
+103,International Conference on Process Mining,2020
+103,International Conference on Process Mining,2021
+103,International Conference on Process Mining,2022
+103,International Conference on Process Mining,2023
+104,International Conference on Advanced Information Systems Engineering,2020
+104,International Conference on Advanced Information Systems Engineering,2021
+104,International Conference on Advanced Information Systems Engineering,2022
+104,International Conference on Advanced Information Systems Engineering,2023
+105,Cybersecurity and Cyberforensics Conference,2020
+105,Cybersecurity and Cyberforensics Conference,2021
+105,Cybersecurity and Cyberforensics Conference,2022
+105,Cybersecurity and Cyberforensics Conference,2023
+106,International Conference on Computer Modeling and Simulation,2020
+106,International Conference on Computer Modeling and Simulation,2021
+106,International Conference on Computer Modeling and Simulation,2022
+106,International Conference on Computer Modeling and Simulation,2023
+107,IEEE International Conference on Nano/Micro Engineered and Molecular Systems,2020
+107,IEEE International Conference on Nano/Micro Engineered and Molecular Systems,2021
+107,IEEE International Conference on Nano/Micro Engineered and Molecular Systems,2022
+107,IEEE International Conference on Nano/Micro Engineered and Molecular Systems,2023
+108,IEEE Aerospace Conference,2020
+108,IEEE Aerospace Conference,2021
+108,IEEE Aerospace Conference,2022
+108,IEEE Aerospace Conference,2023
+109,International Conference on Machine Vision,2020
+109,International Conference on Machine Vision,2021
+109,International Conference on Machine Vision,2022
+109,International Conference on Machine Vision,2023
+110,IEEE International Conference on Bioinformatics and Biomedicine,2020
+110,IEEE International Conference on Bioinformatics and Biomedicine,2021
+110,IEEE International Conference on Bioinformatics and Biomedicine,2022
+110,IEEE International Conference on Bioinformatics and Biomedicine,2023
+111,Information and Communication Technology Convergence,2020
+111,Information and Communication Technology Convergence,2021
+111,Information and Communication Technology Convergence,2022
+111,Information and Communication Technology Convergence,2023
+112,ACM Symposium on User Interface Software and Technology,2020
+112,ACM Symposium on User Interface Software and Technology,2021
+112,ACM Symposium on User Interface Software and Technology,2022
+112,ACM Symposium on User Interface Software and Technology,2023
+113,Artificial Intelligence and Interactive Digital Entertainment Conference,2020
+113,Artificial Intelligence and Interactive Digital Entertainment Conference,2021
+113,Artificial Intelligence and Interactive Digital Entertainment Conference,2022
+113,Artificial Intelligence and Interactive Digital Entertainment Conference,2023
+114,International Conference on Distributed Computing in Sensor Systems,2020
+114,International Conference on Distributed Computing in Sensor Systems,2021
+114,International Conference on Distributed Computing in Sensor Systems,2022
+114,International Conference on Distributed Computing in Sensor Systems,2023
+115,International Conference on Computational Collective Intelligence,2020
+115,International Conference on Computational Collective Intelligence,2021
+115,International Conference on Computational Collective Intelligence,2022
+115,International Conference on Computational Collective Intelligence,2023
+116,Asia and South Pacific Design Automation Conference,2020
+116,Asia and South Pacific Design Automation Conference,2021
+116,Asia and South Pacific Design Automation Conference,2022
+116,Asia and South Pacific Design Automation Conference,2023
+117,IEEE International Conference on Cloud Computing,2020
+117,IEEE International Conference on Cloud Computing,2021
+117,IEEE International Conference on Cloud Computing,2022
+117,IEEE International Conference on Cloud Computing,2023
+118,Web Search and Data Mining,2020
+118,Web Search and Data Mining,2021
+118,Web Search and Data Mining,2022
+118,Web Search and Data Mining,2023
+119,Iranian Conference on Machine Vision and Image Processing,2020
+119,Iranian Conference on Machine Vision and Image Processing,2021
+119,Iranian Conference on Machine Vision and Image Processing,2022
+119,Iranian Conference on Machine Vision and Image Processing,2023
+120,International Conference on Computational Linguistics,2020
+120,International Conference on Computational Linguistics,2021
+120,International Conference on Computational Linguistics,2022
+120,International Conference on Computational Linguistics,2023
+121,International Conference on Automated Planning and Scheduling,2020
+121,International Conference on Automated Planning and Scheduling,2021
+121,International Conference on Automated Planning and Scheduling,2022
+121,International Conference on Automated Planning and Scheduling,2023
+122,IEEE International Conference on Electro/Information Technology,2020
+122,IEEE International Conference on Electro/Information Technology,2021
+122,IEEE International Conference on Electro/Information Technology,2022
+122,IEEE International Conference on Electro/Information Technology,2023
+123,Conference on Information and Knowledge Technology,2020
+123,Conference on Information and Knowledge Technology,2021
+123,Conference on Information and Knowledge Technology,2022
+123,Conference on Information and Knowledge Technology,2023
+124,International Computer Science Conference,2020
+124,International Computer Science Conference,2021
+124,International Computer Science Conference,2022
+124,International Computer Science Conference,2023
+125,ACS/IEEE International Conference on Computer Systems and Applications,2020
+125,ACS/IEEE International Conference on Computer Systems and Applications,2021
+125,ACS/IEEE International Conference on Computer Systems and Applications,2022
+125,ACS/IEEE International Conference on Computer Systems and Applications,2023
+126,European Conference on Artificial Intelligence,2020
+126,European Conference on Artificial Intelligence,2021
+126,European Conference on Artificial Intelligence,2022
+126,European Conference on Artificial Intelligence,2023
+127,BigData Congress [Services Society],2020
+127,BigData Congress [Services Society],2021
+127,BigData Congress [Services Society],2022
+127,BigData Congress [Services Society],2023
+128,International Symposium on Computer Vision,2020
+128,International Symposium on Computer Vision,2021
+128,International Symposium on Computer Vision,2022
+128,International Symposium on Computer Vision,2023
+129,International Conference on Fog and Edge Computing,2020
+129,International Conference on Fog and Edge Computing,2021
+129,International Conference on Fog and Edge Computing,2022
+129,International Conference on Fog and Edge Computing,2023
+130,IEEE International Symposium on Performance Analysis of Systems and Software,2020
+130,IEEE International Symposium on Performance Analysis of Systems and Software,2021
+130,IEEE International Symposium on Performance Analysis of Systems and Software,2022
+130,IEEE International Symposium on Performance Analysis of Systems and Software,2023
+131,"International Conference on Communications, Computing, Cybersecurity, and Informatics",2020
+131,"International Conference on Communications, Computing, Cybersecurity, and Informatics",2021
+131,"International Conference on Communications, Computing, Cybersecurity, and Informatics",2022
+131,"International Conference on Communications, Computing, Cybersecurity, and Informatics",2023
+132,ACM Conference on Hypertext & Social Media,2020
+132,ACM Conference on Hypertext & Social Media,2021
+132,ACM Conference on Hypertext & Social Media,2022
+132,ACM Conference on Hypertext & Social Media,2023
+133,Annual Conference on Genetic and Evolutionary Computation,2020
+133,Annual Conference on Genetic and Evolutionary Computation,2021
+133,Annual Conference on Genetic and Evolutionary Computation,2022
+133,Annual Conference on Genetic and Evolutionary Computation,2023
+134,Electronic Components and Technology Conference,2020
+134,Electronic Components and Technology Conference,2021
+134,Electronic Components and Technology Conference,2022
+134,Electronic Components and Technology Conference,2023
+135,International Conference of Distributed Computing and Networking,2020
+135,International Conference of Distributed Computing and Networking,2021
+135,International Conference of Distributed Computing and Networking,2022
+135,International Conference of Distributed Computing and Networking,2023
+136,European Conference on Computer Systems,2020
+136,European Conference on Computer Systems,2021
+136,European Conference on Computer Systems,2022
+136,European Conference on Computer Systems,2023
+137,International Conference on Parallel Processing,2020
+137,International Conference on Parallel Processing,2021
+137,International Conference on Parallel Processing,2022
+137,International Conference on Parallel Processing,2023
+138,"IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing",2020
+138,"IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing",2021
+138,"IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing",2022
+138,"IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing",2023
+139,"International Conference on Behavioral, Economic, and Socio-Cultural Computing",2020
+139,"International Conference on Behavioral, Economic, and Socio-Cultural Computing",2021
+139,"International Conference on Behavioral, Economic, and Socio-Cultural Computing",2022
+139,"International Conference on Behavioral, Economic, and Socio-Cultural Computing",2023

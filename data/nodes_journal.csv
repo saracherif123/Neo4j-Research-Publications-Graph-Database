@@ -1,173 +1,153 @@
 JournalID,Venue,Year,Volume
-0,Interactive Learning Environments,2022,31
-1,IEEE Sensors Journal,2021,21
-2,IEEE Transactions on Learning Technologies,2019,12
-2,IEEE Transactions on Learning Technologies,2013,6
-3,IEEE Internet of Things Journal,2019,6
-4,IEEE Transactions on Automation Science and Engineering,2024,21
-5,Education and Information Technologies : Official Journal of the IFIP technical committee on Education,2022,28
-6,IEEE Transactions on Affective Computing,2022,13
-7,The International Journal of Management Education,2021,0
-8,IET electric power applications,2019,0
-9,Archives of Control Sciences,2023,0
-10,International Journal of Speech Technology,2021,24
-11,Pattern Analysis and Applications,2017,20
-12,Pattern Recognition and Image Analysis,2018,28
-13,Data & Knowledge Engineering,2018,117
-14,Informatics,2017,4
-15,IEEE Journal on Selected Areas in Communications,2022,41
-16,Journal of Systems and Information Technology,2024,26
-4,IEEE Transactions on Automation Science and Engineering,2023,0
-17,Entropy,2022,24
-18,Cybernetics and systems,2022,54
-11,Pattern Analysis and Applications,2019,22
-19,Cognitive Computation,2018,10
-20,Artificial Intelligence Review,2018,52
-21,SIAM Journal on Applied Mathematics,2017,0
-22,Research on computing science,2015,102
-23,Computers & electrical engineering,2023,110
-3,IEEE Internet of Things Journal,2022,10
-24,Pattern Recognition,2024,0
-25,Journal of King Saud University: Computer and Information Sciences,2023,36
-26,Machine-mediated learning,2023,112
-27,IEEE Transactions on Image Processing,2023,32
-28,bioRxiv,2023,0
-28,bioRxiv,2018,0
-29,Annals of Software Engineering,1999,7
-30,TEM Journal,2020,0
-31,Frontiers of Computer Science in China,2007,1
-32,IEEE Transactions on Pattern Analysis and Machine Intelligence,2004,26
-8,IET electric power applications,2020,0
-33,IEEE transactions on magnetics,2016,52
-33,IEEE transactions on magnetics,2015,51
-34,Journal of Systems and Software,2023,209
-20,Artificial Intelligence Review,2022,56
-35,IET Software,2020,14
-36,The Arabian journal for science and engineering,2020,45
-37,IEEE Access,2021,9
-38,International journal of information technology,2019,14
-39,ACM Transactions on Recommender Systems,2023,0
-40,"Soft Computing - A Fusion of Foundations, Methodologies and Applications",2023,27
-41,Electronic library,2023,41
-42,Molecular Neurodegeneration,2022,17
-43,Reviews in the Neurosciences,2019,30
-44,Biological Research for Nursing,2018,20
-45,Journal of Alzheimer's Disease,2017,59
-46,Alzheimer's & Dementia,2017,13
-47,The VLDB journal,2023,33
-48,Proceedings of the VLDB Endowment,2022,15
-49,Computers & security,2024,144
-50,ACM Transactions on Software Engineering and Methodology,2024,0
-51,Sustainability,2021,0
-52,Computational Intelligence and Neuroscience,2020,2020
-53,Proceedings of the IEEE,2024,112
-54,IEEE Transactions on Mobile Computing,2024,0
-55,IEEE Open Journal of the Communications Society,2024,5
-56,Electronics,2021,0
-57,IEEE Transactions on Industrial Informatics,2023,19
-58,Journal of Computer Science,2022,61
-59,Applied Sciences,2021,0
-60,Journal of Scheduling,2020,24
-61,International Journal of Production Research,2018,57
-62,Journal of Intelligent Manufacturing,2017,30
-63,Wireless personal communications,2021,127
-64,Journal of engineering design,2020,31
-1,IEEE Sensors Journal,2017,17
-59,Applied Sciences,2020,0
-65,Transactions of the Association for Computational Linguistics,2022,11
-66,Journal of Artificial Intelligence Research,2021,74
-67,IEEE Transactions on Vehicular Technology,2023,72
-23,Computers & electrical engineering,2013,39
-68,Applied Soft Computing,2023,142
-69,IEEE Systems Journal,2020,14
-3,IEEE Internet of Things Journal,2021,9
-70,IEEE Network,2020,34
-71,IEEE Transactions on Network Science and Engineering,2020,7
-72,Scientific Reports,2022,12
-73,Applied Artificial Intelligence,2022,36
-74,IEEE/ACM Transactions on Computational Biology & Bioinformatics,2021,19
-37,IEEE Access,2023,11
-75,Knowledge-Based Systems,2023,280
-17,Entropy,2023,25
-76,Neurocomputing,2020,432
-77,Neural Networks,2019,0
-77,Neural Networks,2018,98
-77,Neural Networks,2013,46
-78,Multimedia tools and applications,2021,81
-79,Renewable Energy,2018,0
-50,ACM Transactions on Software Engineering and Methodology,2020,30
-80,Constraints,2019,27
-81,Computers and Electronics in Agriculture,2019,163
-82,"Proceedings of the Institution of mechanical engineers. Part D, journal of automobile engineering",2021,236
-83,International Journal of Computer Vision,2019,129
-84,Applied and Computational Engineering,2024,0
-50,ACM Transactions on Software Engineering and Methodology,2023,33
-85,IEEE/ACM Transactions on Networking,2022,30
-86,ACM Transactions on Computer Systems,2021,38
-26,Machine-mediated learning,2017,107
-87,Computer Science and Information Systems,2015,12
-88,Computer communication review,2023,53
-89,Journal of Signal Processing Systems,2008,53
-90,IEEE Transactions on Evolutionary Computation,2007,11
-91,IEEE Transactions on Knowledge and Data Engineering,2005,17
-13,Data & Knowledge Engineering,1998,25
-92,Evolutionary Computation,1996,4
-27,IEEE Transactions on Image Processing,2024,33
-32,IEEE Transactions on Pattern Analysis and Machine Intelligence,2023,46
-37,IEEE Access,2024,12
-93,IEEE Transactions on Parallel and Distributed Systems,2023,35
-94,IEEE/ASME transactions on mechatronics,2022,29
-72,Scientific Reports,2024,14
-95,Journal of Big Data,2020,8
-96,Materials,2022,15
-54,IEEE Transactions on Mobile Computing,2024,23
-3,IEEE Internet of Things Journal,2024,11
-97,Journal of Computing and Information Science in Engineering,2023,24
-98,Human-Centric Computing and Information Sciences,2015,5
-99,Synthesis Lectures on Human-Centered Informatics,2015,0
-98,Human-Centric Computing and Information Sciences,2014,4
-100,Computer Applications in Engineering Education,2017,25
-101,Smart Learning Environments,2024,11
-102,IEEE Transactions on Visualization and Computer Graphics,2023,30
-100,Computer Applications in Engineering Education,2023,31
-103,PLoS ONE,2023,18
-40,"Soft Computing - A Fusion of Foundations, Methodologies and Applications",2024,0
-104,IEEE transactions on fuzzy systems,2022,30
-105,Expert systems with applications,2015,42
-106,IEEE Transactions on Cognitive and Developmental Systems,2021,15
-4,IEEE Transactions on Automation Science and Engineering,2023,20
-107,Frontiers in Robotics and AI,2019,7
-108,ACM Transactions on Modeling and Computer Simulation,2024,0
-109,Cluster Computing,2014,17
-110,Asia-pacific Journal of Convergent Research Interchange,2020,0
-111,International Journal of Intelligent Systems Technologies and Applications,2018,17
-112,ACM Transactions on Computing Education,2024,0
-112,ACM Transactions on Computing Education,2023,24
-112,ACM Transactions on Computing Education,2023,23
-113,Information Sciences,2018,0
-26,Machine-mediated learning,2017,106
-83,International Journal of Computer Vision,2024,0
-114,IEEE Transactions on Nanobioscience,2003,2
-115,International journal of circuit theory and applications,1998,26
-6,IEEE Transactions on Affective Computing,2021,14
-116,Journal of Imaging,2020,6
-117,Indonesian Journal of Electrical Engineering and Computer Science,2019,0
-118,Journal of Information and Optimization Sciences,2019,40
-37,IEEE Access,2020,8
-62,Journal of Intelligent Manufacturing,2023,0
-119,Journal of Neuroscience Methods,2021,364
-28,bioRxiv,2020,0
-120,Journal of Biomedical Research,2019,34
-121,Journal of the Institution of Electronics and Telecommunication Engineers,2019,67
-122,Optimization Letters,2022,17
-123,Journal of the Operations Research Society of China,2021,10
-124,Journal of combinatorial optimization,2021,41
-122,Optimization Letters,2020,15
-124,Journal of combinatorial optimization,2020,40
-123,Journal of the Operations Research Society of China,2018,8
-124,Journal of combinatorial optimization,2016,31
-125,Distributed and parallel databases,2021,40
-126,IEEE Transactions on Services Computing,2018,11
-127,IEEE Communications Surveys and Tutorials,2018,20
-58,Journal of Computer Science,2013,9
-128,ACM Journal on Emerging Technologies in Computing Systems,2022,18
+0,Journal of Systems and Information Technology,2024,26
+1,Knowledge-Based Systems,2023,280
+2,Scientific Reports,2024,14
+3,"Soft Computing - A Fusion of Foundations, Methodologies and Applications",2024,0
+4,IEEE transactions on fuzzy systems,2022,30
+5,Big Data Research,2021,27
+6,Applied Soft Computing,2021,113
+7,Biomimetics,2025,10
+8,Advanced Engineering Informatics,2024,60
+9,Multimedia Systems,2023,29
+10,"Signal, Image and Video Processing",2023,17
+11,Symmetry,2023,15
+12,International Journal of Surgery,2024,110
+13,Expert systems with applications,2023,234
+14,Computer Science Review,2024,54
+15,Future generations computer systems,2022,138
+16,Knowledge and Information Systems,2023,65
+17,IEEE Transactions on Wireless Communications,2024,23
+18,EURASIP Journal on Wireless Communications and Networking,2023,2023
+19,bioRxiv,2024,0
+20,IEEE Transactions on Signal Processing,2022,71
+21,Empirical Software Engineering,2021,26
+8,Advanced Engineering Informatics,2025,64
+22,IEEE journal of biomedical and health informatics,2023,28
+23,Software quality journal,2023,31
+24,Intelligent Systems with Applications,2023,17
+25,"Software testing, verification & reliability",2022,33
+26,International Journal of Information and Communication Technology Education,2024,20
+27,IEEE Transactions on Automatic Control,2021,68
+28,Journal of Computer Assisted Learning,2024,40
+29,IEEE Transactions on Cognitive and Developmental Systems,2023,15
+30,Consciousness and Cognition,2021,93
+31,Engineering applications of artificial intelligence,2021,106
+32,Multimedia tools and applications,2021,80
+31,Engineering applications of artificial intelligence,2024,130
+3,"Soft Computing - A Fusion of Foundations, Methodologies and Applications",2022,26
+6,Applied Soft Computing,2024,169
+33,IEEE Internet of Things Journal,2023,10
+18,EURASIP Journal on Wireless Communications and Networking,2021,2021
+34,Statistics and computing,2023,34
+35,IEEE Transactions on Pattern Analysis and Machine Intelligence,2022,45
+20,IEEE Transactions on Signal Processing,2024,72
+35,IEEE Transactions on Pattern Analysis and Machine Intelligence,2024,47
+35,IEEE Transactions on Pattern Analysis and Machine Intelligence,2024,46
+36,ACM Computing Surveys,2022,56
+37,Journal of information science,2022,50
+38,Cognitive Neurodynamics,2024,0
+39,Brain Topography,2024,37
+40,Frontiers in Human Neuroscience,2024,18
+41,Frontiers in Psychiatry,2024,15
+42,Artificial Intelligence Review,2024,0
+43,Big Data Mining and Analytics,2024,7
+44,IEEE Transactions on Cognitive Communications and Networking,2023,9
+36,ACM Computing Surveys,2024,57
+45,IEEE Transactions on Aerospace and Electronic Systems,2024,60
+46,Pervasive and Mobile Computing,2023,93
+32,Multimedia tools and applications,2022,81
+47,ACM Journal on Computing and Cultural Heritage,2021,14
+48,Heliyon,2023,10
+49,SN Computer Science,2023,4
+6,Applied Soft Computing,2024,163
+13,Expert systems with applications,2023,233
+50,IEEE Transactions on Knowledge and Data Engineering,2024,36
+13,Expert systems with applications,2023,238
+49,SN Computer Science,2023,5
+51,Applied Sciences,2023,0
+52,IEEE Access,2023,11
+53,Signal processing. Image communication,2022,123
+36,ACM Computing Surveys,2024,0
+54,Reliability Engineering & System Safety,2023,234
+55,Computational Intelligence and Neuroscience,2022,2022
+49,SN Computer Science,2022,3
+11,Symmetry,2021,13
+56,Applied Energy,2021,0
+57,IEEE Transactions on Mobile Computing,2024,23
+58,Neural Networks,2024,180
+59,IEEE Journal on Selected Areas in Communications,2024,42
+60,ACM Transactions on Graphics,2023,42
+61,Computers & graphics,2023,115
+35,IEEE Transactions on Pattern Analysis and Machine Intelligence,2023,45
+62,Journal of Environmental Management,2024,352
+63,Measurement science and technology,2023,35
+64,European Journal of Operational Research,2022,310
+58,Neural Networks,2022,157
+65,Trends in Neuroscience and Education,2022,29
+66,Journal of Chemical Information and Modeling,2022,62
+67,International Journal of Emerging Technologies in Learning (iJET),2021,16
+68,British Journal of Educational Technology,2022,54
+69,ACM Transactions on Computing Education,2022,22
+13,Expert systems with applications,2024,252
+70,Mechanical systems and signal processing,2021,0
+71,IEEE Transactions on Big Data,2025,11
+72,Wireless personal communications,2020,117
+73,Benchmarking : An International Journal,2023,0
+74,Contemporary Educational Technology,2022,0
+58,Neural Networks,2018,151
+42,Artificial Intelligence Review,2024,57
+75,Micromachines,2023,14
+76,Information Systems,2024,127
+13,Expert systems with applications,2024,0
+77,IEEE Transactions on Industrial Informatics,2023,19
+78,Journal of Micromechanics and Microengineering,2022,32
+79,Information and Software Technology,2023,164
+33,IEEE Internet of Things Journal,2024,11
+13,Expert systems with applications,2024,257
+80,Findings,2025,0
+81,Frontiers in Bioengineering and Biotechnology,2025,13
+82,IEEE/ACM Transactions on Computational Biology & Bioinformatics,2024,21
+82,IEEE/ACM Transactions on Computational Biology & Bioinformatics,2022,20
+36,ACM Computing Surveys,2024,0
+83,Journal of the Franklin Institute,2024,362
+36,ACM Computing Surveys,2023,56
+84,Information Technology and Control,2022,51
+85,Image and Vision Computing,2024,150
+86,Pattern Recognition,2020,0
+36,ACM Computing Surveys,2020,55
+87,Sigmetrics Performance Evaluation Review,2021,48
+88,Computing,2024,0
+89,Pattern Recognition Letters,2024,182
+90,Clinical Biomechanics,2024,115
+91,IEEE Transactions on robotics,2020,37
+13,Expert systems with applications,2022,203
+92,IEEE Transactions on Automation Science and Engineering,2024,21
+93,Information Sciences,2024,654
+94,Journal of King Saud University: Computer and Information Sciences,2021,34
+95,IEEE Transactions on Network and Service Management,2025,22
+96,Nature Communications,2024,15
+97,IEEE Transactions on Information Theory,2022,68
+98,IEEE transactions on industry applications,2022,59
+1,Knowledge-Based Systems,2024,299
+14,Computer Science Review,2024,52
+99,SoftwareX,2023,22
+100,Journal of Global Optimization,2022,0
+101,Education and Information Technologies : Official Journal of the IFIP technical committee on Education,2022,28
+48,Heliyon,2024,10
+102,Journal of Industrial Information Integration,2024,38
+86,Pattern Recognition,2024,153
+103,Computers & electrical engineering,2024,116
+104,Transactions on Emerging Telecommunications Technologies,2022,34
+105,International journal of human computer interactions,2023,40
+36,ACM Computing Surveys,2025,57
+106,Shock and Vibration,2021,0
+107,IEEE Transactions on Vehicular Technology,2024,73
+108,Interactive Learning Environments,2024,32
+109,Information Fusion,2021,80
+110,Statistics in Medicine,2024,43
+111,Energy and Buildings,2022,0
+72,Wireless personal communications,2023,133
+52,IEEE Access,2023,12
+112,Natural Language Processing Journal,2024,8
+113,IEEE Transactions on Parallel and Distributed Systems,2023,34
+114,IEEE Transactions on Computational Social Systems,2024,11
