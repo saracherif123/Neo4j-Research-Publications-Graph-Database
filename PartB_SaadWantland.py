@@ -1,8 +1,6 @@
 import pprint
 from session_helper_neo4j import create_session
 
-session = create_session()
-
 def print_query_results(records, summary):
     pp = pprint.PrettyPrinter(indent=4)
     print("The query `{}` returned {} records in {} ms.".format(
@@ -85,21 +83,27 @@ def query_h_index(session):
     )
     return list(result), result.consume()
 
-# Run and print all query results
-records, summary = session.execute_read(query_top3_cited_papers_conference)
-print('\n--- Query 1: Top 3 Most Cited Papers per Venue ---')
-print_query_results(records, summary)
+def main():
+    session = create_session()
 
-records, summary = session.execute_read(query_authors_published_same_venue_4editions)
-print('\n--- Query 2: Authors Publishing in Venue in >= 4 Editions ---')
-print_query_results(records, summary)
+    # Run and print all query results
+    records, summary = session.execute_read(query_top3_cited_papers_conference)
+    print('\n--- Query 1: Top 3 Most Cited Papers per Venue ---')
+    print_query_results(records, summary)
 
-records, summary = session.execute_read(query_impact_factor)
-print('\n--- Query 3: Journal Impact Factors ---')
-print_query_results(records, summary)
+    records, summary = session.execute_read(query_authors_published_same_venue_4editions)
+    print('\n--- Query 2: Authors Publishing in Venue in >= 4 Editions ---')
+    print_query_results(records, summary)
 
-records, summary = session.execute_read(query_h_index)
-print('\n--- Query 4: Author H-Index ---')
-print_query_results(records, summary)
+    records, summary = session.execute_read(query_impact_factor)
+    print('\n--- Query 3: Journal Impact Factors ---')
+    print_query_results(records, summary)
 
-session.close()
+    records, summary = session.execute_read(query_h_index)
+    print('\n--- Query 4: Author H-Index ---')
+    print_query_results(records, summary)
+
+    session.close()
+
+if __name__ == '__main__':
+    main()
