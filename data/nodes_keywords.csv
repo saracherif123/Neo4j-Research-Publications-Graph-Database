@@ -1,8 +1,8 @@
 KeywordID,Keyword
-0,data management
-1,indexing
-2,data modeling
-3,data querying
-4,data processing
-5,data storage
+0,data querying
+1,data management
+2,data processing
+3,data storage
+4,data modeling
+5,indexing
 6,bigdata

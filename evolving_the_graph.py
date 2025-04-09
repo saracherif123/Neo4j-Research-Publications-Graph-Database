@@ -62,4 +62,4 @@ print("Setting final decisions for each paper...")
 session.execute_write(set_paper_final_decision)
 
 session.close()
-print("Graph evolution completed.")
+print("Graph evolution completed.") 
